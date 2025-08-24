@@ -13,13 +13,13 @@ TITLE_FG    = "#FFFFFF"
 PANEL_BG    = "#EDEDED"
 APP_BG      = "#D0D0D0"
 
-# Image décorative (ajoute ton image ici si tu veux)
+
 MOUSE_IMAGE_PATH = "assets/mouse.jpg"
 
 # Table de correspondance idtag -> nom lisible
 IDTAG_TO_NAME = {
-    # "ABC123": "Souris Alpha",
-    # "00F1A2": "Souris Beta",
+    "ABC123": "Souris Alpha",
+     "00F1A2": "Souris Beta",
 }
 
 def resolve_idtag(idtag: str) -> str:

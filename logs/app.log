@@ -1,0 +1,37 @@
+2025-08-24 09:05:51 | INFO | app | UI démarrée.
+2025-08-24 09:11:29 | INFO | app | UI démarrée.
+2025-08-24 09:11:32 | INFO | app | START -> port=COM6, baud=115200
+2025-08-24 09:12:06 | INFO | app | STOP cliqué.
+2025-08-24 09:12:09 | INFO | app | START -> port=COM6, baud=115200
+2025-08-24 09:12:26 | INFO | app | STOP cliqué.
+2025-08-24 10:17:17 | INFO | app | UI démarrée.
+2025-08-24 10:17:20 | INFO | app | START -> port=COM6, baud=115200
+2025-08-24 10:25:20 | INFO | app | UI démarrée.
+2025-08-24 10:25:22 | INFO | app | START -> port=COM6, baud=115200
+2025-08-24 10:28:36 | INFO | app | UI démarrée.
+2025-08-24 10:28:40 | INFO | app | START -> port=COM6, baud=115200
+2025-08-24 10:28:51 | INFO | app | STOP cliqué.
+2025-08-24 10:28:57 | INFO | app | START -> port=COM6, baud=115200
+2025-08-24 10:28:59 | INFO | app | STOP cliqué.
+2025-08-24 10:29:02 | WARNING | app | RESET: nettoyage UI et état.
+2025-08-24 10:38:03 | INFO | app | UI démarrée.
+2025-08-24 10:38:05 | INFO | app | START -> port=COM6, baud=115200
+2025-08-24 10:38:08 | INFO | app | STOP cliqué.
+2025-08-24 10:38:09 | WARNING | app | RESET: nettoyage UI et état.
+2025-08-24 12:47:57 | INFO | app | UI démarrée.
+2025-08-24 12:47:59 | INFO | app | START -> port=COM6, baud=115200
+2025-08-24 12:48:22 | INFO | app | UI démarrée.
+2025-08-24 12:48:24 | INFO | app | START -> port=COM6, baud=115200
+2025-08-24 12:54:08 | INFO | app | UI démarrée.
+2025-08-24 12:54:11 | INFO | app | START -> port=COM6, baud=115200
+2025-08-24 12:54:34 | INFO | app | UI démarrée.
+2025-08-24 12:54:38 | INFO | app | START -> port=COM6, baud=115200
+2025-08-24 12:56:19 | INFO | app | UI démarrée.
+2025-08-24 12:56:20 | INFO | app | START -> port=COM6, baud=115200
+2025-08-24 12:57:27 | INFO | app | UI démarrée.
+2025-08-24 12:57:30 | INFO | app | START -> port=COM6, baud=115200
+2025-08-24 12:57:43 | INFO | app | STOP cliqué.
+2025-08-24 12:57:59 | INFO | app | START -> port=COM6, baud=9600
+2025-08-24 12:58:28 | INFO | app | STOP cliqué.
+2025-08-24 12:58:29 | WARNING | app | RESET: nettoyage UI et état.
+2025-08-24 12:58:31 | WARNING | app | RESET: nettoyage UI et état.
