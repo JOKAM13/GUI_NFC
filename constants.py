@@ -20,6 +20,12 @@ MOUSE_IMAGE_PATH = "assets/mouse.jpg"
 IDTAG_TO_NAME = {
     "ABC123": "Souris Alpha",
      "00F1A2": "Souris Beta",
+     "11BEEF": "Souris Gamma",
+     "C0FFEE": "Souris Delta",
+     "DEAD42": "Souris Epsilon",
+     "FACE01": "Souris Zeta",
+     "BADA55": "Souris Eta",
+     "F00DBE": "Souris Theta"
 }
 
 def resolve_idtag(idtag: str) -> str:

@@ -199,13 +199,13 @@ class Afficheur(QtWidgets.QMainWindow):
     @QtCore.pyqtSlot(dict)
     def on_update(self, mapping):
         import time
-        self.logger.debug(f"Update reçu: zones={list(mapping.keys())}")
+        self.logger.info(f"Update reçu: zones={list(mapping.keys())}")
         for t in self.tiles:
             t.set_empty()
         for idx, ids in mapping.items():
             if 0 <= idx < len(self.tiles):
                 self.tiles[idx].set_ids(ids)
-        time.sleep(2)  # Ajoute une pause d'1 seconde après chaque mise à jour
+        self.logger.info(f"Update terminé: zones={list(mapping.keys())}")
 
     @QtCore.pyqtSlot(list)
     def on_ids_catalog_updated(self, ids_list):
