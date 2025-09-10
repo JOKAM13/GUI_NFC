@@ -4,6 +4,8 @@ from typing import List, Iterable, Optional, Dict
 from datetime import datetime
 import csv, os
 
+EVENT_LABELS_FR = {"enter": "Entree", "stay": "Presence", "leave": "Sortie"}
+
 @dataclass
 class MouseEvent:
     ts: datetime
@@ -42,12 +44,37 @@ class HistoryStoreCSV:
             w = csv.writer(out)
             w.writerow(["timestamp", "mouse_id", "zone_idx", "event"])
             for fname in sorted(os.listdir(self.dir)):
-                if not fname.endswith(".csv"): continue
+                if not fname.endswith(".csv"): 
+                    continue
                 full = os.path.join(self.dir, fname)
                 with open(full, "r", encoding="utf-8") as f:
                     reader = csv.reader(f)
                     header = next(reader, None)  # skip header
                     for row in reader:
-                        if not row: continue
-                        if mouse_ids and row[1] not in mouse_ids: continue
-                        w.writerow(row)
+                        if not row: 
+                            continue
+                        if mouse_ids and row[1] not in mouse_ids: 
+                            continue
+                        # row = [timestamp, mouse_id, zone_idx, event_en]
+                        ev_en = row[3] if len(row) > 3 else ""
+                        ev_fr = EVENT_LABELS_FR.get(ev_en, ev_en)
+                        w.writerow([row[0], row[1], row[2], ev_fr])
+
+
+    def preload_ids_from_disk(self):
+        """Retourne tous les mouse_id présents dans les CSV du dossier logs/."""
+        ids = set(self._mem.keys())
+        try:
+            for fname in os.listdir(self.dir):
+                if not fname.endswith(".csv"):
+                    continue
+                full = os.path.join(self.dir, fname)
+                with open(full, "r", encoding="utf-8") as f:
+                    reader = csv.reader(f)
+                    next(reader, None)  # header
+                    for row in reader:
+                        if row and len(row) >= 2 and row[1]:
+                            ids.add(row[1])  # mouse_id
+        except Exception:
+            pass
+        return sorted(ids)

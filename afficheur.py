@@ -5,6 +5,8 @@ from widgets import GridTile
 from controle_donnee import ControleDonnee
 from qtlogger import setup_logger
 
+EVENT_LABELS_FR = {"enter": "Entree", "stay": "Presence", "leave": "Sortie"}
+
 def _list_serial_ports():
     try:
         from serial.tools import list_ports
@@ -135,13 +137,22 @@ class Afficheur(QtWidgets.QMainWindow):
         btns.addStretch(1); btns.addWidget(self.btn_copy_logs); btns.addWidget(self.btn_clear_logs); v.addLayout(btns)
         root.addWidget(log_box)
 
+        # Précharger la liste des souris déjà connues (depuis les logs présents)
+        try:
+            initial_ids = self._controle.get_mouse_ids()
+            if initial_ids:
+                for mid in initial_ids:
+                    self.cb_mouse.addItem(mid)
+        except Exception:
+            pass
+
         self._set_running(False)
         self.logger.info("UI démarrée.")
 
     # helpers
     def _mk_button(self, text:str):
         b = QtWidgets.QPushButton(text); b.setMinimumHeight(40)
-        b.setStyleSheet("QPushButton { font-size: 14px; font-weight: 700; border-radius: 10px; padding: 6px 12px; border: 1px solid #707070; background: #FFFFFF; } QPushButton:hover { filter: brightness(1.05); } QPushButton:pressed { filter: brightness(0.95); }")
+        b.setStyleSheet("QPushButton { font-size: 14px; font-weight: 700; border-radius: 10px; padding: 6px 12px; border: 1px solid #707070; background: #FFFFFF; }")
         return b
 
     def _refresh_ports(self):
@@ -193,19 +204,19 @@ class Afficheur(QtWidgets.QMainWindow):
         confirm = QtWidgets.QMessageBox.question(self, "Vider l'historique", "Effacer tous les fichiers de logs ?", QtWidgets.QMessageBox.Yes | QtWidgets.QMessageBox.No)
         if confirm == QtWidgets.QMessageBox.Yes:
             self._controle.clear_history()
+            self.cb_mouse.clear()  # vider la liste visible
             QtWidgets.QMessageBox.information(self, "Historique", "Historique vidé.")
 
     # slots data
     @QtCore.pyqtSlot(dict)
     def on_update(self, mapping):
         import time
-        self.logger.info(f"Update reçu: zones={list(mapping.keys())}")
+        self.logger.debug(f"Update reçu: zones={list(mapping.keys())}")
         for t in self.tiles:
             t.set_empty()
         for idx, ids in mapping.items():
             if 0 <= idx < len(self.tiles):
                 self.tiles[idx].set_ids(ids)
-        self.logger.info(f"Update terminé: zones={list(mapping.keys())}")
 
     @QtCore.pyqtSlot(list)
     def on_ids_catalog_updated(self, ids_list):
@@ -240,7 +251,7 @@ class Afficheur(QtWidgets.QMainWindow):
         for r, ev in enumerate(events):
             table.setItem(r, 0, QtWidgets.QTableWidgetItem(ev.ts.strftime("%Y-%m-%d %H:%M:%S")))
             table.setItem(r, 1, QtWidgets.QTableWidgetItem(str(ev.zone_idx)))
-            table.setItem(r, 2, QtWidgets.QTableWidgetItem(ev.event))
+            table.setItem(r, 2, QtWidgets.QTableWidgetItem(EVENT_LABELS_FR.get(ev.event, ev.event)))
         table.resizeColumnsToContents()
         h.addWidget(table, 1)
 
