@@ -250,7 +250,7 @@ class Afficheur(QtWidgets.QMainWindow):
         table.horizontalHeader().setStretchLastSection(True)
         for r, ev in enumerate(events):
             table.setItem(r, 0, QtWidgets.QTableWidgetItem(ev.ts.strftime("%Y-%m-%d %H:%M:%S")))
-            table.setItem(r, 1, QtWidgets.QTableWidgetItem(str(ev.zone_idx)))
+            table.setItem(r, 1, QtWidgets.QTableWidgetItem(str(ev.zone_idx + 1)))
             table.setItem(r, 2, QtWidgets.QTableWidgetItem(EVENT_LABELS_FR.get(ev.event, ev.event)))
         table.resizeColumnsToContents()
         h.addWidget(table, 1)

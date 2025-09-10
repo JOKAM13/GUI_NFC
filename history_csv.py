@@ -64,7 +64,11 @@ class HistoryStoreCSV:
                         continue
                     ev_en = row[3] if len(row) > 3 else ""
                     ev_fr = EVENT_LABELS_FR.get(ev_en, ev_en)
-                    w.writerow([row[0], row[1], row[2], ev_fr])
+                    try:
+                        z1 = str(int(row[2]) + 1)
+                    except Exception:
+                        z1 = row[2]  # au cas où ce ne serait pas un entier
+                    w.writerow([row[0], row[1], z1, ev_fr])
 
 
 

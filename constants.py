@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 ZONE_NAMES = [
-    "Zone A","Zone B","Zone C","Zone D","Zone E",
-    "Zone F","Zone G","Zone H","Zone I","Zone J",
-    "Zone K","Zone L","Zone M","Zone N","Zone O",
+    "Zone 1","Zone 2","Zone 3","Zone 4","Zone 5",
+    "Zone 6","Zone 7","Zone 8","Zone 9","Zone 10",
+    "Zone 11","Zone 12","Zone 13","Zone 14","Zone 15",
 ]
 
 PASTEL_BG   = "#EFEFEF"   # fond neutre pour cases vides
