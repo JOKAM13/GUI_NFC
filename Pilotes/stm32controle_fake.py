@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import random
 from PyQt5 import QtCore
-from stm32controle import STM32Controle
+from Pilotes.stm32controle import STM32Controle
 
 class STM32ControleFake(STM32Controle):
     def __init__(self, parent=None, period_ms=600, pool_size=30, max_per_zone=3):

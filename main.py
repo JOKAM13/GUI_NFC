@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
 from PyQt5 import QtWidgets
 import sys
-from controle_donnee import ControleDonnee
-from stm32controle_fake import STM32ControleFake
+from Domaine.controle_donnee import ControleDonnee
+from Pilotes.stm32controle_fake import STM32ControleFake
 # from stm32controle_serial import STM32ControleSerial
-from afficheur import Afficheur
-from stm32controle_serial import STM32ControleSerial
+from Affichage.afficheur import Afficheur
+from Pilotes.stm32controle_serial import STM32ControleSerial
 
 def main():
     app = QtWidgets.QApplication(sys.argv)

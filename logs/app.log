@@ -9128,3 +9128,16 @@
 2025-09-10 11:03:29 | INFO | app | UI démarrée.
 2025-09-10 11:15:54 | INFO | app | START -> port=COM6, baud=115200
 2025-09-10 11:16:13 | INFO | app | STOP cliqué.
+2025-09-10 15:52:15 | INFO | app | UI démarrée.
+2025-09-10 15:52:19 | INFO | app | START -> port=COM6, baud=115200
+2025-09-10 15:52:26 | INFO | app | STOP cliqué.
+2025-09-10 17:09:29 | INFO | app | UI démarrée.
+2025-09-10 17:09:37 | INFO | app | START -> port=COM6, baud=115200
+2025-09-10 17:09:56 | INFO | app | STOP cliqué.
+2025-09-10 17:11:48 | INFO | app | START -> port=COM6, baud=115200
+2025-09-10 17:11:57 | INFO | app | STOP cliqué.
+2025-09-10 17:18:31 | WARNING | app | RESET: nettoyage UI et état.
+2025-09-10 17:19:00 | WARNING | app | RESET: nettoyage UI et état.
+2025-09-10 17:37:20 | INFO | app | UI démarrée.
+2025-09-10 17:37:24 | INFO | app | START -> port=COM6, baud=115200
+2025-09-10 17:37:54 | INFO | app | STOP cliqué.

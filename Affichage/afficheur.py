@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 from PyQt5 import QtCore, QtWidgets, QtGui
-from constants import APP_BG, TITLE_BG, TITLE_FG, PANEL_BG, GRID_BORDER, ZONE_NAMES, MOUSE_IMAGE_PATH
-from widgets import GridTile
-from controle_donnee import ControleDonnee
-from qtlogger import setup_logger
+from Utils.constants import APP_BG, TITLE_BG, TITLE_FG, PANEL_BG, GRID_BORDER, ZONE_NAMES, MOUSE_IMAGE_PATH
+from Affichage.widgets import GridTile
+from Domaine.controle_donnee import ControleDonnee
+from Utils.qtlogger import setup_logger
 
 EVENT_LABELS_FR = {"enter": "Entree", "stay": "Presence", "leave": "Sortie"}
 

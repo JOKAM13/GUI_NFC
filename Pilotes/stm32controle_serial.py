@@ -2,7 +2,7 @@
 import logging
 import time
 from PyQt5 import QtCore
-from stm32controle import STM32Controle
+from Pilotes.stm32controle import STM32Controle
 
 APP_LOGGER_NAME = "app"
 

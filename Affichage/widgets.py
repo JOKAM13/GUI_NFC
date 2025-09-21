@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 from PyQt5 import QtCore, QtWidgets
-from constants import PASTEL_BG, GRID_BORDER, GREEN_ACTIVE
+from Utils.constants import PASTEL_BG, GRID_BORDER, GREEN_ACTIVE
 
 class GridTile(QtWidgets.QFrame):
     def __init__(self, zone_name: str, parent=None):
