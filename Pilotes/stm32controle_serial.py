@@ -2,7 +2,9 @@
 import logging
 import time
 from PyQt5 import QtCore
+
 from Pilotes.stm32controle import STM32Controle
+
 
 APP_LOGGER_NAME = "app"
 
@@ -31,7 +33,7 @@ class STM32ControleSerial(STM32Controle):
             return
         self.logger.info("Démarrage du thread de communication série.")
         self._thread = QtCore.QThread()
-        self._worker = _SerialWorker(self._port, self._baud, logger=self.logger)  # <-- passe le même logger
+        self._worker = _SerialWorker(self._port, self._baud, logger=self.logger)  
         self._worker.moveToThread(self._thread)
         self._worker.updated.connect(self.updated)
         self._thread.started.connect(self._worker.run)
@@ -112,7 +114,7 @@ class _SerialWorker(QtCore.QObject):
     def stop(self):
         self.logger.info("Arrêt du worker série demandé.")
         self._running = False
-        # flush final pour ne rien perdre
+       
         self._flush()
 
     # ---------- Accumulation & emission ----------

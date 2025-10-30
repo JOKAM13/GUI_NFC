@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 from PyQt5 import QtCore
 from Pilotes.stm32controle import STM32Controle
 from Stockage.history_csv import HistoryStoreCSV
@@ -15,11 +14,11 @@ class ControleDonnee(QtCore.QObject):
         self._stm = stm32controle
         self._stm.updated.connect(self._on_raw_update)
         self._history = store or HistoryStoreCSV("logs")
-        self._last_presence = {}      # {mouse_id: zone_idx} (présence courante)
-        self._last_event = {}         # NEW: {mouse_id: (event_type, zone_idx)} pour dédupliquer 'stay'
+        self._last_presence = {}      
+        self._last_event = {}         # NEW: pour dédupliquer les 'stay'
         self._known_ids = set()
 
-        # --- NEW: émettre les IDs présents sur disque dès le départ
+        # --- NEW: émettre id present depuis le debut 
         try:
             pre_ids = set(self._history.preload_ids_from_disk())
             if pre_ids:
@@ -33,11 +32,11 @@ class ControleDonnee(QtCore.QObject):
     def reset(self):
         self._stm.reset()
         self._last_presence.clear()
-        self._last_event.clear()      # NEW
+        self._last_event.clear()
 
-    def set_num_mice(self, n: int): pass  # non utilisé
+    def set_num_mice(self, n: int): pass  
 
-    # --- NEW: get_mouse_ids inclut aussi les IDs trouvés dans les CSV existants
+    
     def get_mouse_ids(self):
         ids = set(self._history.get_mouse_ids())
         try:
@@ -56,7 +55,7 @@ class ControleDonnee(QtCore.QObject):
             except: pass
         if hasattr(self._history, "_mem"): self._history._mem.clear()
         self._last_presence.clear()
-        self._last_event.clear()      # NEW
+        self._last_event.clear()     
         self._known_ids.clear()
 
     def configure_serial(self, port: str, baudrate: int):
@@ -77,9 +76,9 @@ class ControleDonnee(QtCore.QObject):
         def add(zone_idx: int, raw_idtag: str):
             zone = antenne_to_zone(zone_idx)
             name = resolve_idtag(raw_idtag)
-            normalized.setdefault(zone, []).append(name)
+            normalized.setdefault(zone, []).append(name) #  ici j'ajoute le nom reel de la souris pour que ce soit plus lisible dans l'interface
 
-        # --- normalisation (inchangée)
+       
         if isinstance(mapping, dict):
             if "readings" in mapping and isinstance(mapping["readings"], list):
                 for item in mapping["readings"]:

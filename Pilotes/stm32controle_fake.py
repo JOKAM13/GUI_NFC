@@ -29,7 +29,7 @@ class STM32ControleFake(STM32Controle):
     def reset(self):
         self.updated.emit({})
 
-    def set_num_mice(self, n): pass  # non utilisé ici
+    def set_num_mice(self, n): pass  
 
     def _tick(self):
         total_zones = 15
@@ -37,7 +37,7 @@ class STM32ControleFake(STM32Controle):
         chosen_ids = random.sample(self._ids_pool, n)
         mapping = {}
         for mouse_id in chosen_ids:
-            # essayer de limiter à 3 par zone
+            #  3 par zone
             for _ in range(4):
                 idx = random.randrange(total_zones)
                 lst = mapping.setdefault(idx, [])
