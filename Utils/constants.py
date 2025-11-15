@@ -18,15 +18,38 @@ MOUSE_IMAGE_PATH = "assets/mouse.jpg"
 
 # Table de correspondance idtag -> nom lisible
 IDTAG_TO_NAME = {
-    "ABC123": "Souris Alpha",
-     "00F1A2": "Souris Beta",
-     "11BEEF": "Souris Gamma",
-     "C0FFEE": "Souris Delta",
-     "DEAD42": "Souris Epsilon",
-     "FACE01": "Souris Zeta",
-     "BADA55": "Souris Eta",
-     "F00DBE": "Souris Theta"
+    # "Souris-01": "Souris Alpha",
+    #  "Souris-02": "Souris Beta",
+    #  "Souris-03": "Souris Gamma",
+    #  "Souris-04": "Souris Delta",
+    #  "Souris-05": "Souris Epsilon",
+    #  "Souris-06": "Souris Zeta",
+    #  "Souris-07": "Souris Eta",
+    #  "Souris-08": "Souris Theta"
 }
+
+# ======== Commandes du multiplexeur PE42582A-X========
+CMD_SCAN_ON  = "SCAN 1"
+CMD_SCAN_OFF = "SCAN 0"
+CMD_SEL      = "SEL {n}"
+CMD_RATE     = "RATE {ms}"
+CMD_ANT_Q    = "ANT?"
+CMD_LIST     = "LIST {items}"
+CMD_DEBUG    = "DEBUG"
+CMD_DEBUG_ON = "DEBUG ON"
+CMD_DEBUG_OFF= "DEBUG OFF"
+
+# ======== 8 UID factices pour MUX PE42582A-X ========
+FAKE_UIDS = [
+    "Souris-01",
+    "Souris-02",
+    "Souris-03",
+    "Souris-04",
+    "Souris-05",
+    "Souris-06",
+    "Souris-07",
+    "Souris-08",
+]
 
 def resolve_idtag(idtag: str) -> str:
     return IDTAG_TO_NAME.get(str(idtag), str(idtag))

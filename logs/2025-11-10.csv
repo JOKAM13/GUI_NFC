@@ -1,0 +1,4539 @@
+timestamp;mouse_id;zone_idx;event
+2025-11-10T00:01:57;Souris Alpha;1;enter
+2025-11-10T00:01:57;Souris Zeta;3;enter
+2025-11-10T00:01:57;Souris Gamma;4;enter
+2025-11-10T00:01:57;Souris Alpha;1;stay
+2025-11-10T00:01:57;Souris Delta;5;enter
+2025-11-10T00:01:57;Souris Eta;5;enter
+2025-11-10T00:01:57;Souris Epsilon;6;enter
+2025-11-10T00:01:57;Souris Beta;0;enter
+2025-11-10T00:01:57;Souris Theta;0;enter
+2025-11-10T00:01:58;Souris Beta;0;stay
+2025-11-10T00:01:58;Souris Theta;0;stay
+2025-11-10T00:01:58;Souris Gamma;4;stay
+2025-11-10T00:01:58;Souris Alpha;1;leave
+2025-11-10T00:01:58;Souris Alpha;5;enter
+2025-11-10T00:01:58;Souris Delta;5;stay
+2025-11-10T00:01:58;Souris Eta;5;stay
+2025-11-10T00:01:58;Souris Epsilon;6;stay
+2025-11-10T00:01:58;Souris Zeta;3;stay
+2025-11-10T00:01:59;Souris Alpha;5;stay
+2025-11-10T00:02:00;Souris Theta;0;leave
+2025-11-10T00:02:00;Souris Theta;7;enter
+2025-11-10T00:02:00;Souris Theta;7;stay
+2025-11-10T00:02:01;Souris Epsilon;6;leave
+2025-11-10T00:02:02;Souris Epsilon;6;enter
+2025-11-10T00:02:02;Souris Eta;5;leave
+2025-11-10T00:02:02;Souris Eta;3;enter
+2025-11-10T00:02:02;Souris Theta;7;leave
+2025-11-10T00:02:02;Souris Gamma;4;leave
+2025-11-10T00:02:02;Souris Epsilon;6;stay
+2025-11-10T00:02:02;Souris Eta;3;stay
+2025-11-10T00:02:02;Souris Theta;7;enter
+2025-11-10T00:02:03;Souris Gamma;7;enter
+2025-11-10T00:02:03;Souris Theta;7;stay
+2025-11-10T00:02:03;Souris Beta;0;leave
+2025-11-10T00:02:04;Souris Gamma;7;stay
+2025-11-10T00:02:04;Souris Beta;4;enter
+2025-11-10T00:02:04;Souris Epsilon;6;leave
+2025-11-10T00:02:04;Souris Epsilon;2;enter
+2025-11-10T00:02:04;Souris Beta;4;stay
+2025-11-10T00:02:05;Souris Epsilon;2;stay
+2025-11-10T00:02:07;Souris Delta;5;leave
+2025-11-10T00:02:07;Souris Delta;1;enter
+2025-11-10T00:02:07;Souris Delta;1;stay
+2025-11-10T00:02:08;Souris Zeta;3;leave
+2025-11-10T00:02:08;Souris Zeta;5;enter
+2025-11-10T00:02:09;Souris Alpha;5;leave
+2025-11-10T00:02:09;Souris Alpha;4;enter
+2025-11-10T00:02:09;Souris Zeta;5;stay
+2025-11-10T00:02:09;Souris Alpha;4;stay
+2025-11-10T00:02:11;Souris Eta;3;leave
+2025-11-10T00:02:11;Souris Eta;6;enter
+2025-11-10T00:02:12;Souris Beta;4;leave
+2025-11-10T00:02:12;Souris Beta;2;enter
+2025-11-10T00:02:12;Souris Eta;6;stay
+2025-11-10T00:02:12;Souris Theta;7;leave
+2025-11-10T00:02:12;Souris Theta;3;enter
+2025-11-10T00:02:12;Souris Beta;2;stay
+2025-11-10T00:02:12;Souris Theta;3;leave
+2025-11-10T00:02:13;Souris Theta;3;enter
+2025-11-10T00:02:14;Souris Theta;3;stay
+2025-11-10T00:02:14;Souris Gamma;7;leave
+2025-11-10T00:02:14;Souris Gamma;6;enter
+2025-11-10T00:02:14;Souris Epsilon;2;leave
+2025-11-10T00:02:14;Souris Epsilon;4;enter
+2025-11-10T00:02:14;Souris Gamma;6;stay
+2025-11-10T00:02:15;Souris Epsilon;4;stay
+2025-11-10T00:02:16;Souris Zeta;5;leave
+2025-11-10T00:02:17;Souris Zeta;5;enter
+2025-11-10T00:02:17;Souris Zeta;5;leave
+2025-11-10T00:02:17;Souris Zeta;0;enter
+2025-11-10T00:02:18;Souris Delta;1;leave
+2025-11-10T00:02:18;Souris Delta;7;enter
+2025-11-10T00:02:18;Souris Zeta;0;stay
+2025-11-10T00:02:19;Souris Delta;7;leave
+2025-11-10T00:02:19;Souris Alpha;4;leave
+2025-11-10T00:02:19;Souris Alpha;7;enter
+2025-11-10T00:02:19;Souris Delta;7;enter
+2025-11-10T00:02:20;Souris Alpha;7;stay
+2025-11-10T00:02:20;Souris Delta;7;stay
+2025-11-10T00:02:21;Souris Alpha;7;leave
+2025-11-10T00:02:21;Souris Delta;7;leave
+2025-11-10T00:02:21;Souris Gamma;6;leave
+2025-11-10T00:02:21;Souris Gamma;3;enter
+2025-11-10T00:02:21;Souris Alpha;7;enter
+2025-11-10T00:02:21;Souris Delta;7;enter
+2025-11-10T00:02:22;Souris Eta;6;leave
+2025-11-10T00:02:22;Souris Eta;0;enter
+2025-11-10T00:02:22;Souris Gamma;3;stay
+2025-11-10T00:02:22;Souris Alpha;7;stay
+2025-11-10T00:02:22;Souris Delta;7;stay
+2025-11-10T00:02:22;Souris Beta;2;leave
+2025-11-10T00:02:22;Souris Beta;6;enter
+2025-11-10T00:02:22;Souris Eta;0;stay
+2025-11-10T00:02:23;Souris Epsilon;4;leave
+2025-11-10T00:02:23;Souris Epsilon;5;enter
+2025-11-10T00:02:23;Souris Beta;6;stay
+2025-11-10T00:02:24;Souris Epsilon;5;stay
+2025-11-10T00:02:24;Souris Theta;3;leave
+2025-11-10T00:02:24;Souris Theta;2;enter
+2025-11-10T00:02:24;Souris Theta;2;stay
+2025-11-10T00:02:29;Souris Alpha;7;leave
+2025-11-10T00:02:29;Souris Alpha;3;enter
+2025-11-10T00:02:29;Souris Zeta;0;leave
+2025-11-10T00:02:29;Souris Zeta;2;enter
+2025-11-10T00:02:30;Souris Zeta;2;stay
+2025-11-10T00:02:30;Souris Alpha;3;stay
+2025-11-10T00:02:30;Souris Delta;7;leave
+2025-11-10T00:02:30;Souris Delta;1;enter
+2025-11-10T00:02:31;Souris Delta;1;stay
+2025-11-10T00:02:31;Souris Gamma;3;leave
+2025-11-10T00:02:31;Souris Gamma;5;enter
+2025-11-10T00:02:31;Souris Eta;0;leave
+2025-11-10T00:02:31;Souris Eta;1;enter
+2025-11-10T00:02:32;Souris Beta;6;leave
+2025-11-10T00:02:32;Souris Beta;3;enter
+2025-11-10T00:02:32;Souris Gamma;5;stay
+2025-11-10T00:02:32;Souris Theta;2;leave
+2025-11-10T00:02:32;Souris Theta;0;enter
+2025-11-10T00:02:32;Souris Eta;1;stay
+2025-11-10T00:02:33;Souris Beta;3;stay
+2025-11-10T00:02:33;Souris Theta;0;stay
+2025-11-10T00:02:33;Souris Epsilon;5;leave
+2025-11-10T00:02:33;Souris Epsilon;6;enter
+2025-11-10T00:02:34;Souris Epsilon;6;stay
+2025-11-10T00:02:37;Souris Epsilon;6;leave
+2025-11-10T00:02:38;Souris Epsilon;6;enter
+2025-11-10T00:02:38;Souris Epsilon;6;stay
+2025-11-10T00:02:39;Souris Alpha;3;leave
+2025-11-10T00:02:39;Souris Alpha;0;enter
+2025-11-10T00:02:39;Souris Alpha;0;stay
+2025-11-10T00:02:40;Souris Zeta;2;leave
+2025-11-10T00:02:40;Souris Zeta;1;enter
+2025-11-10T00:02:41;Souris Delta;1;leave
+2025-11-10T00:02:41;Souris Delta;6;enter
+2025-11-10T00:02:41;Souris Zeta;1;stay
+2025-11-10T00:02:41;Souris Delta;6;stay
+2025-11-10T00:02:42;Souris Theta;0;leave
+2025-11-10T00:02:42;Souris Theta;6;enter
+2025-11-10T00:02:42;Souris Beta;3;leave
+2025-11-10T00:02:42;Souris Beta;1;enter
+2025-11-10T00:02:43;Souris Theta;6;stay
+2025-11-10T00:02:43;Souris Beta;1;stay
+2025-11-10T00:02:43;Souris Gamma;5;leave
+2025-11-10T00:02:43;Souris Gamma;2;enter
+2025-11-10T00:02:43;Souris Eta;1;leave
+2025-11-10T00:02:43;Souris Eta;4;enter
+2025-11-10T00:02:43;Souris Gamma;2;stay
+2025-11-10T00:02:44;Souris Eta;4;stay
+2025-11-10T00:02:45;Souris Epsilon;6;leave
+2025-11-10T00:02:45;Souris Epsilon;2;enter
+2025-11-10T00:02:45;Souris Epsilon;2;stay
+2025-11-10T00:02:47;Souris Alpha;0;leave
+2025-11-10T00:02:47;Souris Alpha;6;enter
+2025-11-10T00:02:48;Souris Alpha;6;stay
+2025-11-10T00:02:50;Souris Theta;6;leave
+2025-11-10T00:02:50;Souris Theta;4;enter
+2025-11-10T00:02:50;Souris Delta;6;leave
+2025-11-10T00:02:50;Souris Delta;1;enter
+2025-11-10T00:02:51;Souris Theta;4;stay
+2025-11-10T00:02:51;Souris Delta;1;stay
+2025-11-10T00:02:51;Souris Zeta;1;leave
+2025-11-10T00:02:51;Souris Zeta;3;enter
+2025-11-10T00:02:51;Souris Gamma;2;leave
+2025-11-10T00:02:51;Souris Epsilon;2;leave
+2025-11-10T00:02:51;Souris Zeta;3;stay
+2025-11-10T00:02:51;Souris Gamma;0;enter
+2025-11-10T00:02:51;Souris Epsilon;2;enter
+2025-11-10T00:02:52;Souris Beta;1;leave
+2025-11-10T00:02:52;Souris Beta;4;enter
+2025-11-10T00:02:52;Souris Gamma;0;stay
+2025-11-10T00:02:52;Souris Epsilon;2;stay
+2025-11-10T00:02:53;Souris Beta;4;stay
+2025-11-10T00:02:54;Souris Epsilon;2;leave
+2025-11-10T00:02:54;Souris Epsilon;6;enter
+2025-11-10T00:02:55;Souris Eta;4;leave
+2025-11-10T00:02:55;Souris Eta;3;enter
+2025-11-10T00:02:55;Souris Epsilon;6;stay
+2025-11-10T00:02:55;Souris Eta;3;stay
+2025-11-10T00:02:58;Souris Alpha;6;leave
+2025-11-10T00:02:58;Souris Alpha;5;enter
+2025-11-10T00:02:58;Souris Alpha;5;stay
+2025-11-10T00:02:59;Souris Alpha;5;leave
+2025-11-10T00:03:00;Souris Alpha;5;enter
+2025-11-10T00:03:00;Souris Zeta;3;leave
+2025-11-10T00:03:00;Souris Zeta;4;enter
+2025-11-10T00:03:00;Souris Zeta;4;stay
+2025-11-10T00:03:00;Souris Alpha;5;stay
+2025-11-10T00:03:01;Souris Theta;4;leave
+2025-11-10T00:03:01;Souris Theta;0;enter
+2025-11-10T00:03:01;Souris Delta;1;leave
+2025-11-10T00:03:01;Souris Delta;3;enter
+2025-11-10T00:03:01;Souris Gamma;0;leave
+2025-11-10T00:03:01;Souris Gamma;3;enter
+2025-11-10T00:03:02;Souris Beta;4;leave
+2025-11-10T00:03:02;Souris Beta;7;enter
+2025-11-10T00:03:02;Souris Theta;0;stay
+2025-11-10T00:03:02;Souris Gamma;3;stay
+2025-11-10T00:03:02;Souris Delta;3;stay
+2025-11-10T00:03:02;Souris Zeta;4;leave
+2025-11-10T00:03:03;Souris Beta;7;stay
+2025-11-10T00:03:03;Souris Epsilon;6;leave
+2025-11-10T00:03:05;Souris Eta;3;leave
+2025-11-10T00:03:05;Souris Eta;5;enter
+2025-11-10T00:03:05;Souris Epsilon;4;enter
+2025-11-10T00:03:05;Souris Zeta;4;enter
+2025-11-10T00:03:06;Souris Epsilon;4;stay
+2025-11-10T00:03:06;Souris Zeta;4;stay
+2025-11-10T00:03:06;Souris Alpha;5;leave
+2025-11-10T00:03:06;Souris Alpha;2;enter
+2025-11-10T00:03:06;Souris Eta;5;stay
+2025-11-10T00:03:07;Souris Alpha;2;stay
+2025-11-10T00:03:10;Souris Epsilon;4;leave
+2025-11-10T00:03:10;Souris Zeta;4;leave
+2025-11-10T00:03:11;Souris Delta;3;leave
+2025-11-10T00:03:11;Souris Delta;6;enter
+2025-11-10T00:03:11;Souris Epsilon;4;enter
+2025-11-10T00:03:11;Souris Zeta;4;enter
+2025-11-10T00:03:12;Souris Theta;0;leave
+2025-11-10T00:03:12;Souris Theta;3;enter
+2025-11-10T00:03:12;Souris Epsilon;4;stay
+2025-11-10T00:03:12;Souris Delta;6;stay
+2025-11-10T00:03:12;Souris Zeta;4;leave
+2025-11-10T00:03:12;Souris Zeta;6;enter
+2025-11-10T00:03:12;Souris Theta;3;stay
+2025-11-10T00:03:12;Souris Beta;7;leave
+2025-11-10T00:03:12;Souris Beta;4;enter
+2025-11-10T00:03:12;Souris Gamma;3;leave
+2025-11-10T00:03:12;Souris Gamma;4;enter
+2025-11-10T00:03:12;Souris Zeta;6;stay
+2025-11-10T00:03:13;Souris Epsilon;4;leave
+2025-11-10T00:03:13;Souris Epsilon;2;enter
+2025-11-10T00:03:13;Souris Beta;4;stay
+2025-11-10T00:03:13;Souris Gamma;4;stay
+2025-11-10T00:03:13;Souris Epsilon;2;stay
+2025-11-10T00:03:13;Souris Eta;5;leave
+2025-11-10T00:03:14;Souris Eta;6;enter
+2025-11-10T00:03:14;Souris Theta;3;leave
+2025-11-10T00:03:15;Souris Eta;6;stay
+2025-11-10T00:03:16;Souris Alpha;2;leave
+2025-11-10T00:03:16;Souris Alpha;1;enter
+2025-11-10T00:03:16;Souris Theta;3;enter
+2025-11-10T00:03:17;Souris Alpha;1;stay
+2025-11-10T00:03:17;Souris Theta;3;stay
+2025-11-10T00:03:17;Souris Epsilon;2;leave
+2025-11-10T00:03:17;Souris Epsilon;2;enter
+2025-11-10T00:03:18;Souris Epsilon;2;stay
+2025-11-10T00:03:20;Souris Zeta;6;leave
+2025-11-10T00:03:20;Souris Zeta;7;enter
+2025-11-10T00:03:20;Souris Theta;3;leave
+2025-11-10T00:03:20;Souris Theta;2;enter
+2025-11-10T00:03:21;Souris Theta;2;stay
+2025-11-10T00:03:21;Souris Zeta;7;stay
+2025-11-10T00:03:22;Souris Epsilon;2;leave
+2025-11-10T00:03:22;Souris Epsilon;6;enter
+2025-11-10T00:03:22;Souris Gamma;4;leave
+2025-11-10T00:03:22;Souris Gamma;1;enter
+2025-11-10T00:03:23;Souris Gamma;1;stay
+2025-11-10T00:03:23;Souris Delta;6;leave
+2025-11-10T00:03:23;Souris Delta;2;enter
+2025-11-10T00:03:23;Souris Epsilon;6;stay
+2025-11-10T00:03:23;Souris Delta;2;stay
+2025-11-10T00:03:24;Souris Beta;4;leave
+2025-11-10T00:03:24;Souris Beta;3;enter
+2025-11-10T00:03:25;Souris Beta;3;stay
+2025-11-10T00:03:25;Souris Eta;6;leave
+2025-11-10T00:03:25;Souris Eta;7;enter
+2025-11-10T00:03:26;Souris Eta;7;stay
+2025-11-10T00:03:27;Souris Delta;2;leave
+2025-11-10T00:03:27;Souris Theta;2;leave
+2025-11-10T00:03:27;Souris Alpha;1;leave
+2025-11-10T00:03:27;Souris Alpha;0;enter
+2025-11-10T00:03:27;Souris Delta;2;enter
+2025-11-10T00:03:27;Souris Theta;2;enter
+2025-11-10T00:03:28;Souris Alpha;0;stay
+2025-11-10T00:03:28;Souris Delta;2;stay
+2025-11-10T00:03:28;Souris Theta;2;stay
+2025-11-10T00:03:29;Souris Theta;2;leave
+2025-11-10T00:03:29;Souris Theta;0;enter
+2025-11-10T00:03:30;Souris Theta;0;stay
+2025-11-10T00:03:30;Souris Delta;2;leave
+2025-11-10T00:03:31;Souris Delta;2;enter
+2025-11-10T00:03:31;Souris Alpha;0;leave
+2025-11-10T00:03:31;Souris Theta;0;leave
+2025-11-10T00:03:32;Souris Zeta;7;leave
+2025-11-10T00:03:32;Souris Zeta;3;enter
+2025-11-10T00:03:32;Souris Delta;2;stay
+2025-11-10T00:03:32;Souris Alpha;0;enter
+2025-11-10T00:03:32;Souris Theta;0;enter
+2025-11-10T00:03:32;Souris Epsilon;6;leave
+2025-11-10T00:03:32;Souris Epsilon;0;enter
+2025-11-10T00:03:32;Souris Alpha;0;stay
+2025-11-10T00:03:32;Souris Theta;0;stay
+2025-11-10T00:03:32;Souris Delta;2;leave
+2025-11-10T00:03:32;Souris Delta;3;enter
+2025-11-10T00:03:32;Souris Zeta;3;stay
+2025-11-10T00:03:33;Souris Gamma;1;leave
+2025-11-10T00:03:33;Souris Gamma;7;enter
+2025-11-10T00:03:33;Souris Epsilon;0;stay
+2025-11-10T00:03:33;Souris Delta;3;stay
+2025-11-10T00:03:33;Souris Gamma;7;stay
+2025-11-10T00:03:34;Souris Eta;7;leave
+2025-11-10T00:03:34;Souris Eta;4;enter
+2025-11-10T00:03:35;Souris Eta;4;stay
+2025-11-10T00:03:35;Souris Beta;3;leave
+2025-11-10T00:03:35;Souris Beta;7;enter
+2025-11-10T00:03:36;Souris Beta;7;stay
+2025-11-10T00:03:37;Souris Alpha;0;leave
+2025-11-10T00:03:37;Souris Alpha;1;enter
+2025-11-10T00:03:38;Souris Alpha;1;stay
+2025-11-10T00:03:38;Souris Epsilon;0;leave
+2025-11-10T00:03:38;Souris Theta;0;leave
+2025-11-10T00:03:39;Souris Epsilon;0;enter
+2025-11-10T00:03:39;Souris Theta;0;enter
+2025-11-10T00:03:40;Souris Theta;0;leave
+2025-11-10T00:03:40;Souris Theta;6;enter
+2025-11-10T00:03:40;Souris Epsilon;0;stay
+2025-11-10T00:03:40;Souris Theta;6;stay
+2025-11-10T00:03:42;Souris Delta;3;leave
+2025-11-10T00:03:42;Souris Delta;4;enter
+2025-11-10T00:03:42;Souris Gamma;7;leave
+2025-11-10T00:03:42;Souris Gamma;1;enter
+2025-11-10T00:03:42;Souris Delta;4;stay
+2025-11-10T00:03:42;Souris Eta;4;leave
+2025-11-10T00:03:42;Souris Eta;5;enter
+2025-11-10T00:03:43;Souris Gamma;1;stay
+2025-11-10T00:03:43;Souris Zeta;3;leave
+2025-11-10T00:03:43;Souris Zeta;6;enter
+2025-11-10T00:03:43;Souris Eta;5;stay
+2025-11-10T00:03:44;Souris Zeta;6;stay
+2025-11-10T00:03:44;Souris Epsilon;0;leave
+2025-11-10T00:03:44;Souris Epsilon;4;enter
+2025-11-10T00:03:45;Souris Alpha;1;leave
+2025-11-10T00:03:45;Souris Alpha;2;enter
+2025-11-10T00:03:45;Souris Epsilon;4;stay
+2025-11-10T00:03:45;Souris Eta;5;leave
+2025-11-10T00:03:45;Souris Alpha;2;stay
+2025-11-10T00:03:45;Souris Eta;5;enter
+2025-11-10T00:03:46;Souris Beta;7;leave
+2025-11-10T00:03:46;Souris Beta;2;enter
+2025-11-10T00:03:46;Souris Eta;5;stay
+2025-11-10T00:03:47;Souris Beta;2;stay
+2025-11-10T00:03:48;Souris Eta;5;leave
+2025-11-10T00:03:50;Souris Eta;5;enter
+2025-11-10T00:03:50;Souris Theta;6;leave
+2025-11-10T00:03:50;Souris Theta;5;enter
+2025-11-10T00:03:50;Souris Eta;5;stay
+2025-11-10T00:03:50;Souris Theta;5;stay
+2025-11-10T00:03:51;Souris Delta;4;leave
+2025-11-10T00:03:51;Souris Delta;6;enter
+2025-11-10T00:03:51;Souris Gamma;1;leave
+2025-11-10T00:03:51;Souris Gamma;0;enter
+2025-11-10T00:03:51;Souris Eta;5;leave
+2025-11-10T00:03:51;Souris Theta;5;leave
+2025-11-10T00:03:52;Souris Zeta;6;leave
+2025-11-10T00:03:52;Souris Zeta;3;enter
+2025-11-10T00:03:52;Souris Delta;6;leave
+2025-11-10T00:03:52;Souris Epsilon;4;leave
+2025-11-10T00:03:52;Souris Gamma;0;leave
+2025-11-10T00:03:52;Souris Alpha;2;leave
+2025-11-10T00:03:52;Souris Beta;2;leave
+2025-11-10T00:04:05;Souris Beta;6;enter
+2025-11-10T00:04:05;Souris Zeta;3;leave
+2025-11-10T00:04:05;Souris Zeta;6;enter
+2025-11-10T00:04:05;Souris Theta;2;enter
+2025-11-10T00:04:05;Souris Alpha;3;enter
+2025-11-10T00:04:05;Souris Gamma;3;enter
+2025-11-10T00:04:05;Souris Epsilon;3;enter
+2025-11-10T00:04:05;Souris Beta;6;stay
+2025-11-10T00:04:05;Souris Zeta;6;stay
+2025-11-10T00:04:05;Souris Delta;0;enter
+2025-11-10T00:04:05;Souris Eta;0;enter
+2025-11-10T00:04:06;Souris Theta;2;stay
+2025-11-10T00:04:06;Souris Alpha;3;stay
+2025-11-10T00:04:06;Souris Gamma;3;stay
+2025-11-10T00:04:06;Souris Epsilon;3;stay
+2025-11-10T00:04:06;Souris Delta;0;stay
+2025-11-10T00:04:06;Souris Eta;0;stay
+2025-11-10T00:04:07;Souris Beta;6;leave
+2025-11-10T00:04:07;Souris Beta;1;enter
+2025-11-10T00:04:07;Souris Theta;2;leave
+2025-11-10T00:04:07;Souris Theta;4;enter
+2025-11-10T00:04:07;Souris Beta;1;stay
+2025-11-10T00:04:08;Souris Theta;4;stay
+2025-11-10T00:04:12;Souris Alpha;3;leave
+2025-11-10T00:04:12;Souris Alpha;5;enter
+2025-11-10T00:04:12;Souris Delta;0;leave
+2025-11-10T00:04:12;Souris Delta;7;enter
+2025-11-10T00:04:12;Souris Eta;0;leave
+2025-11-10T00:04:12;Souris Eta;4;enter
+2025-11-10T00:04:12;Souris Gamma;3;leave
+2025-11-10T00:04:12;Souris Gamma;4;enter
+2025-11-10T00:04:12;Souris Alpha;5;stay
+2025-11-10T00:04:13;Souris Epsilon;3;leave
+2025-11-10T00:04:13;Souris Epsilon;5;enter
+2025-11-10T00:04:13;Souris Zeta;6;leave
+2025-11-10T00:04:13;Souris Zeta;5;enter
+2025-11-10T00:04:13;Souris Gamma;4;stay
+2025-11-10T00:04:13;Souris Eta;4;stay
+2025-11-10T00:04:13;Souris Delta;7;stay
+2025-11-10T00:04:14;Souris Epsilon;5;stay
+2025-11-10T00:04:14;Souris Zeta;5;stay
+2025-11-10T00:04:16;Souris Theta;4;leave
+2025-11-10T00:04:16;Souris Theta;6;enter
+2025-11-10T00:04:17;Souris Theta;6;stay
+2025-11-10T00:04:18;Souris Beta;1;leave
+2025-11-10T00:04:18;Souris Beta;7;enter
+2025-11-10T00:04:19;Souris Beta;7;stay
+2025-11-10T00:04:19;Souris Alpha;5;leave
+2025-11-10T00:04:19;Souris Epsilon;5;leave
+2025-11-10T00:04:19;Souris Zeta;5;leave
+2025-11-10T00:04:19;Souris Alpha;5;enter
+2025-11-10T00:04:19;Souris Epsilon;5;enter
+2025-11-10T00:04:19;Souris Zeta;5;enter
+2025-11-10T00:04:20;Souris Alpha;5;stay
+2025-11-10T00:04:20;Souris Epsilon;5;stay
+2025-11-10T00:04:20;Souris Zeta;5;stay
+2025-11-10T00:04:21;Souris Alpha;5;leave
+2025-11-10T00:04:21;Souris Epsilon;5;leave
+2025-11-10T00:04:21;Souris Zeta;5;leave
+2025-11-10T00:04:21;Souris Delta;7;leave
+2025-11-10T00:04:21;Souris Delta;2;enter
+2025-11-10T00:04:21;Souris Alpha;5;enter
+2025-11-10T00:04:21;Souris Epsilon;5;enter
+2025-11-10T00:04:21;Souris Zeta;5;enter
+2025-11-10T00:04:22;Souris Delta;2;stay
+2025-11-10T00:04:22;Souris Alpha;5;stay
+2025-11-10T00:04:22;Souris Epsilon;5;stay
+2025-11-10T00:04:22;Souris Zeta;5;stay
+2025-11-10T00:04:22;Souris Epsilon;5;leave
+2025-11-10T00:04:22;Souris Epsilon;7;enter
+2025-11-10T00:04:22;Souris Alpha;5;leave
+2025-11-10T00:04:22;Souris Alpha;0;enter
+2025-11-10T00:04:23;Souris Epsilon;7;stay
+2025-11-10T00:04:23;Souris Alpha;0;stay
+2025-11-10T00:04:23;Souris Eta;4;leave
+2025-11-10T00:04:23;Souris Eta;0;enter
+2025-11-10T00:04:24;Souris Gamma;4;leave
+2025-11-10T00:04:24;Souris Gamma;7;enter
+2025-11-10T00:04:24;Souris Eta;0;stay
+2025-11-10T00:04:24;Souris Zeta;5;leave
+2025-11-10T00:04:24;Souris Zeta;4;enter
+2025-11-10T00:04:24;Souris Gamma;7;stay
+2025-11-10T00:04:25;Souris Zeta;4;stay
+2025-11-10T00:04:27;Souris Theta;6;leave
+2025-11-10T00:04:27;Souris Theta;5;enter
+2025-11-10T00:04:28;Souris Theta;5;stay
+2025-11-10T00:04:28;Souris Beta;7;leave
+2025-11-10T00:04:28;Souris Beta;0;enter
+2025-11-10T00:04:29;Souris Beta;0;stay
+2025-11-10T00:04:31;Souris Delta;2;leave
+2025-11-10T00:04:31;Souris Delta;6;enter
+2025-11-10T00:04:31;Souris Delta;6;stay
+2025-11-10T00:04:32;Souris Gamma;7;leave
+2025-11-10T00:04:32;Souris Gamma;1;enter
+2025-11-10T00:04:32;Souris Epsilon;7;leave
+2025-11-10T00:04:32;Souris Epsilon;1;enter
+2025-11-10T00:04:32;Souris Delta;6;leave
+2025-11-10T00:04:32;Souris Alpha;0;leave
+2025-11-10T00:04:32;Souris Alpha;6;enter
+2025-11-10T00:04:32;Souris Delta;6;enter
+2025-11-10T00:04:32;Souris Gamma;1;stay
+2025-11-10T00:04:32;Souris Epsilon;1;stay
+2025-11-10T00:04:32;Souris Eta;0;leave
+2025-11-10T00:04:32;Souris Eta;3;enter
+2025-11-10T00:04:33;Souris Alpha;6;stay
+2025-11-10T00:04:33;Souris Delta;6;stay
+2025-11-10T00:04:33;Souris Eta;3;stay
+2025-11-10T00:04:36;Souris Zeta;4;leave
+2025-11-10T00:04:36;Souris Zeta;1;enter
+2025-11-10T00:04:36;Souris Zeta;1;stay
+2025-11-10T00:04:38;Souris Beta;0;leave
+2025-11-10T00:04:38;Souris Beta;6;enter
+2025-11-10T00:04:39;Souris Theta;5;leave
+2025-11-10T00:04:39;Souris Theta;0;enter
+2025-11-10T00:04:39;Souris Beta;6;stay
+2025-11-10T00:04:39;Souris Theta;0;stay
+2025-11-10T00:04:42;Souris Delta;6;leave
+2025-11-10T00:04:42;Souris Delta;4;enter
+2025-11-10T00:04:42;Souris Gamma;1;leave
+2025-11-10T00:04:42;Souris Gamma;2;enter
+2025-11-10T00:04:42;Souris Epsilon;1;leave
+2025-11-10T00:04:42;Souris Epsilon;4;enter
+2025-11-10T00:04:43;Souris Eta;3;leave
+2025-11-10T00:04:43;Souris Eta;7;enter
+2025-11-10T00:04:43;Souris Alpha;6;leave
+2025-11-10T00:04:43;Souris Alpha;4;enter
+2025-11-10T00:04:43;Souris Delta;4;stay
+2025-11-10T00:04:43;Souris Epsilon;4;stay
+2025-11-10T00:04:43;Souris Gamma;2;stay
+2025-11-10T00:04:43;Souris Alpha;4;stay
+2025-11-10T00:04:43;Souris Eta;7;stay
+2025-11-10T00:04:47;Souris Zeta;1;leave
+2025-11-10T00:04:47;Souris Zeta;7;enter
+2025-11-10T00:04:48;Souris Zeta;7;stay
+2025-11-10T00:04:48;Souris Beta;6;leave
+2025-11-10T00:04:48;Souris Beta;1;enter
+2025-11-10T00:04:48;Souris Beta;1;stay
+2025-11-10T00:04:50;Souris Theta;0;leave
+2025-11-10T00:04:50;Souris Theta;5;enter
+2025-11-10T00:04:51;Souris Gamma;2;leave
+2025-11-10T00:04:51;Souris Gamma;4;enter
+2025-11-10T00:04:51;Souris Delta;4;leave
+2025-11-10T00:04:51;Souris Delta;6;enter
+2025-11-10T00:04:51;Souris Eta;7;leave
+2025-11-10T00:04:51;Souris Eta;1;enter
+2025-11-10T00:04:51;Souris Theta;5;stay
+2025-11-10T00:04:51;Souris Eta;1;stay
+2025-11-10T00:04:51;Souris Gamma;4;stay
+2025-11-10T00:04:51;Souris Epsilon;4;leave
+2025-11-10T00:04:51;Souris Epsilon;6;enter
+2025-11-10T00:04:51;Souris Delta;6;stay
+2025-11-10T00:04:52;Souris Epsilon;6;stay
+2025-11-10T00:04:54;Souris Theta;5;leave
+2025-11-10T00:04:55;Souris Alpha;4;leave
+2025-11-10T00:04:55;Souris Alpha;5;enter
+2025-11-10T00:04:55;Souris Theta;5;enter
+2025-11-10T00:04:55;Souris Alpha;5;stay
+2025-11-10T00:04:55;Souris Theta;5;stay
+2025-11-10T00:04:56;Souris Delta;6;leave
+2025-11-10T00:04:56;Souris Epsilon;6;leave
+2025-11-10T00:04:56;Souris Delta;6;enter
+2025-11-10T00:04:56;Souris Epsilon;6;enter
+2025-11-10T00:04:57;Souris Delta;6;stay
+2025-11-10T00:04:57;Souris Epsilon;6;stay
+2025-11-10T00:04:58;Souris Beta;1;leave
+2025-11-10T00:04:58;Souris Beta;6;enter
+2025-11-10T00:04:58;Souris-;6;enter
+2025-11-10T00:04:58;Souris Beta;6;stay
+2025-11-10T00:04:59;Souris Zeta;7;leave
+2025-11-10T00:04:59;Souris Zeta;4;enter
+2025-11-10T00:04:59;Souris-;6;leave
+2025-11-10T00:05:00;Souris Zeta;4;stay
+2025-11-10T00:05:00;Souris Eta;1;leave
+2025-11-10T00:05:00;Souris Eta;3;enter
+2025-11-10T00:05:00;Souris Theta;5;leave
+2025-11-10T00:05:00;Souris Theta;6;enter
+2025-11-10T00:05:01;Souris Eta;3;stay
+2025-11-10T00:05:01;Souris Gamma;4;leave
+2025-11-10T00:05:01;Souris Gamma;7;enter
+2025-11-10T00:05:01;Souris Epsilon;6;leave
+2025-11-10T00:05:01;Souris Epsilon;4;enter
+2025-11-10T00:05:01;Souris Theta;6;stay
+2025-11-10T00:05:01;Souris Epsilon;4;stay
+2025-11-10T00:05:01;Souris Gamma;7;stay
+2025-11-10T00:05:02;Souris Delta;6;leave
+2025-11-10T00:05:02;Souris Delta;5;enter
+2025-11-10T00:05:03;Souris Delta;5;stay
+2025-11-10T00:05:05;Souris Alpha;5;leave
+2025-11-10T00:05:05;Souris Alpha;0;enter
+2025-11-10T00:05:05;Souris Alpha;0;stay
+2025-11-10T00:05:08;Souris Beta;6;leave
+2025-11-10T00:05:08;Souris Beta;3;enter
+2025-11-10T00:05:08;Souris Zeta;4;leave
+2025-11-10T00:05:08;Souris Zeta;2;enter
+2025-11-10T00:05:08;Souris Beta;3;stay
+2025-11-10T00:05:09;Souris Zeta;2;stay
+2025-11-10T00:05:10;Souris Eta;3;leave
+2025-11-10T00:05:10;Souris Eta;4;enter
+2025-11-10T00:05:11;Souris Eta;4;stay
+2025-11-10T00:05:12;Souris Delta;5;leave
+2025-11-10T00:05:12;Souris Delta;7;enter
+2025-11-10T00:05:12;Souris Gamma;7;leave
+2025-11-10T00:05:12;Souris Gamma;6;enter
+2025-11-10T00:05:12;Souris Gamma;6;stay
+2025-11-10T00:05:12;Souris Epsilon;4;leave
+2025-11-10T00:05:12;Souris Epsilon;6;enter
+2025-11-10T00:05:12;Souris Theta;6;leave
+2025-11-10T00:05:12;Souris Theta;5;enter
+2025-11-10T00:05:12;Souris Delta;7;stay
+2025-11-10T00:05:13;Souris Theta;5;stay
+2025-11-10T00:05:13;Souris Epsilon;6;stay
+2025-11-10T00:05:13;Souris Alpha;0;leave
+2025-11-10T00:05:13;Souris Alpha;3;enter
+2025-11-10T00:05:13;Souris Alpha;3;stay
+2025-11-10T00:05:13;Souris Gamma;6;leave
+2025-11-10T00:05:13;Souris Epsilon;6;leave
+2025-11-10T00:05:14;Souris Gamma;6;enter
+2025-11-10T00:05:14;Souris Epsilon;6;enter
+2025-11-10T00:05:15;Souris Gamma;6;stay
+2025-11-10T00:05:15;Souris Epsilon;6;stay
+2025-11-10T00:05:15;Souris Eta;4;leave
+2025-11-10T00:05:16;Souris Eta;4;enter
+2025-11-10T00:05:17;Souris Eta;4;stay
+2025-11-10T00:05:17;Souris Zeta;2;leave
+2025-11-10T00:05:17;Souris Zeta;5;enter
+2025-11-10T00:05:18;Souris Beta;3;leave
+2025-11-10T00:05:18;Souris Beta;1;enter
+2025-11-10T00:05:18;Souris Zeta;5;stay
+2025-11-10T00:05:18;Souris Beta;1;stay
+2025-11-10T00:05:21;Souris Epsilon;6;leave
+2025-11-10T00:05:21;Souris Epsilon;5;enter
+2025-11-10T00:05:22;Souris Epsilon;5;stay
+2025-11-10T00:05:22;Souris Eta;4;leave
+2025-11-10T00:05:22;Souris Eta;1;enter
+2025-11-10T00:05:22;Souris Alpha;3;leave
+2025-11-10T00:05:22;Souris Alpha;4;enter
+2025-11-10T00:05:23;Souris Gamma;6;leave
+2025-11-10T00:05:23;Souris Gamma;1;enter
+2025-11-10T00:05:23;Souris Eta;1;stay
+2025-11-10T00:05:23;Souris Delta;7;leave
+2025-11-10T00:05:23;Souris Delta;2;enter
+2025-11-10T00:05:23;Souris Alpha;4;stay
+2025-11-10T00:05:23;Souris Gamma;1;stay
+2025-11-10T00:05:23;Souris Delta;2;stay
+2025-11-10T00:05:23;Souris Theta;5;leave
+2025-11-10T00:05:23;Souris Theta;3;enter
+2025-11-10T00:05:24;Souris Delta;2;leave
+2025-11-10T00:05:24;Souris Delta;1;enter
+2025-11-10T00:05:24;Souris Theta;3;stay
+2025-11-10T00:05:25;Souris Delta;1;leave
+2025-11-10T00:05:25;Souris Delta;2;enter
+2025-11-10T00:05:25;Souris Delta;2;stay
+2025-11-10T00:05:27;Souris Delta;2;leave
+2025-11-10T00:05:27;Souris Beta;1;leave
+2025-11-10T00:05:27;Souris Beta;5;enter
+2025-11-10T00:05:27;Souris Delta;2;enter
+2025-11-10T00:05:28;Souris Beta;5;stay
+2025-11-10T00:05:28;Souris Zeta;5;leave
+2025-11-10T00:05:28;Souris Zeta;7;enter
+2025-11-10T00:05:28;Souris Delta;2;leave
+2025-11-10T00:05:29;Souris Delta;2;enter
+2025-11-10T00:05:29;Souris Zeta;7;stay
+2025-11-10T00:05:29;Souris Delta;2;stay
+2025-11-10T00:05:31;Souris Eta;1;leave
+2025-11-10T00:05:31;Souris Eta;4;enter
+2025-11-10T00:05:32;Souris Eta;4;stay
+2025-11-10T00:05:32;Souris Epsilon;5;leave
+2025-11-10T00:05:32;Souris Epsilon;0;enter
+2025-11-10T00:05:32;Souris Epsilon;0;stay
+2025-11-10T00:05:32;Souris Delta;2;leave
+2025-11-10T00:05:32;Souris Delta;1;enter
+2025-11-10T00:05:33;Souris Delta;1;stay
+2025-11-10T00:05:34;Souris Alpha;4;leave
+2025-11-10T00:05:34;Souris Alpha;6;enter
+2025-11-10T00:05:34;Souris Gamma;1;leave
+2025-11-10T00:05:34;Souris Gamma;4;enter
+2025-11-10T00:05:34;Souris Theta;3;leave
+2025-11-10T00:05:34;Souris Theta;2;enter
+2025-11-10T00:05:34;Souris Gamma;4;stay
+2025-11-10T00:05:34;Souris Alpha;6;stay
+2025-11-10T00:05:35;Souris Theta;2;stay
+2025-11-10T00:05:37;Souris Zeta;7;leave
+2025-11-10T00:05:37;Souris Zeta;2;enter
+2025-11-10T00:05:37;Souris Beta;5;leave
+2025-11-10T00:05:37;Souris Beta;4;enter
+2025-11-10T00:05:37;Souris Zeta;2;stay
+2025-11-10T00:05:38;Souris Beta;4;stay
+2025-11-10T00:05:40;Souris Eta;4;leave
+2025-11-10T00:05:40;Souris Eta;2;enter
+2025-11-10T00:05:40;Souris Eta;2;stay
+2025-11-10T00:05:42;Souris Delta;1;leave
+2025-11-10T00:05:42;Souris Delta;4;enter
+2025-11-10T00:05:42;Souris Alpha;6;leave
+2025-11-10T00:05:42;Souris Alpha;0;enter
+2025-11-10T00:05:42;Souris Epsilon;0;leave
+2025-11-10T00:05:42;Souris Epsilon;1;enter
+2025-11-10T00:05:42;Souris Delta;4;stay
+2025-11-10T00:05:43;Souris Epsilon;1;stay
+2025-11-10T00:05:43;Souris Alpha;0;leave
+2025-11-10T00:05:44;Souris Alpha;0;enter
+2025-11-10T00:05:44;Souris Alpha;0;stay
+2025-11-10T00:05:44;Souris Theta;2;leave
+2025-11-10T00:05:44;Souris Theta;1;enter
+2025-11-10T00:05:45;Souris Gamma;4;leave
+2025-11-10T00:05:45;Souris Gamma;0;enter
+2025-11-10T00:05:45;Souris Theta;1;stay
+2025-11-10T00:05:46;Souris Gamma;0;stay
+2025-11-10T00:05:46;Souris Beta;4;leave
+2025-11-10T00:05:46;Souris Beta;3;enter
+2025-11-10T00:05:47;Souris Beta;3;leave
+2025-11-10T00:05:47;Souris Beta;3;enter
+2025-11-10T00:05:48;Souris Beta;3;stay
+2025-11-10T00:05:49;Souris Zeta;2;leave
+2025-11-10T00:05:49;Souris Zeta;4;enter
+2025-11-10T00:05:49;Souris Zeta;4;stay
+2025-11-10T00:05:50;Souris Delta;4;leave
+2025-11-10T00:05:50;Souris Delta;2;enter
+2025-11-10T00:05:50;Souris Beta;3;leave
+2025-11-10T00:05:51;Souris Beta;3;enter
+2025-11-10T00:05:51;Souris Delta;2;stay
+2025-11-10T00:05:51;Souris Eta;2;leave
+2025-11-10T00:05:51;Souris Eta;5;enter
+2025-11-10T00:05:51;Souris Beta;3;stay
+2025-11-10T00:05:51;Souris Eta;5;stay
+2025-11-10T00:05:52;Souris Alpha;0;leave
+2025-11-10T00:05:52;Souris Alpha;2;enter
+2025-11-10T00:05:53;Souris Epsilon;1;leave
+2025-11-10T00:05:53;Souris Epsilon;5;enter
+2025-11-10T00:05:53;Souris Alpha;2;stay
+2025-11-10T00:05:53;Souris Beta;3;leave
+2025-11-10T00:05:54;Souris Beta;3;enter
+2025-11-10T00:05:54;Souris Epsilon;5;stay
+2025-11-10T00:05:54;Souris Beta;3;leave
+2025-11-10T00:05:54;Souris Beta;2;enter
+2025-11-10T00:05:55;Souris Gamma;0;leave
+2025-11-10T00:05:55;Souris Gamma;1;enter
+2025-11-10T00:05:55;Souris Beta;2;stay
+2025-11-10T00:05:56;Souris Gamma;1;stay
+2025-11-10T00:05:56;Souris Theta;1;leave
+2025-11-10T00:05:56;Souris Theta;3;enter
+2025-11-10T00:05:56;Souris Theta;3;stay
+2025-11-10T00:05:57;Souris Zeta;4;leave
+2025-11-10T00:05:57;Souris Zeta;7;enter
+2025-11-10T00:05:57;Souris Zeta;7;stay
+2025-11-10T00:05:59;Souris Delta;2;leave
+2025-11-10T00:05:59;Souris Delta;3;enter
+2025-11-10T00:05:59;Souris Eta;5;leave
+2025-11-10T00:05:59;Souris Eta;6;enter
+2025-11-10T00:06:00;Souris Delta;3;stay
+2025-11-10T00:06:00;Souris Eta;6;stay
+2025-11-10T00:06:02;Souris Alpha;2;leave
+2025-11-10T00:06:02;Souris Alpha;3;enter
+2025-11-10T00:06:02;Souris Epsilon;5;leave
+2025-11-10T00:06:02;Souris Epsilon;4;enter
+2025-11-10T00:06:03;Souris Beta;2;leave
+2025-11-10T00:06:03;Souris Beta;5;enter
+2025-11-10T00:06:03;Souris Alpha;3;stay
+2025-11-10T00:06:03;Souris Epsilon;4;stay
+2025-11-10T00:06:04;Souris Gamma;1;leave
+2025-11-10T00:06:04;Souris Gamma;6;enter
+2025-11-10T00:06:04;Souris Beta;5;stay
+2025-11-10T00:06:04;Souris Gamma;6;stay
+2025-11-10T00:06:06;Souris Theta;3;leave
+2025-11-10T00:06:06;Souris Theta;2;enter
+2025-11-10T00:06:06;Souris Zeta;7;leave
+2025-11-10T00:06:06;Souris Zeta;0;enter
+2025-11-10T00:06:06;Souris Theta;2;stay
+2025-11-10T00:06:07;Souris Zeta;0;stay
+2025-11-10T00:06:09;Souris Eta;6;leave
+2025-11-10T00:06:09;Souris Eta;4;enter
+2025-11-10T00:06:09;Souris Eta;4;stay
+2025-11-10T00:06:10;Souris Delta;3;leave
+2025-11-10T00:06:10;Souris Beta;5;leave
+2025-11-10T00:06:10;Souris Gamma;6;leave
+2025-11-10T00:06:10;Souris Zeta;0;leave
+2025-11-10T00:06:10;Souris Theta;2;leave
+2025-11-10T00:07:57;Souris-03;2;enter
+2025-11-10T00:07:58;Souris-04;3;enter
+2025-11-10T00:07:58;Souris-01;4;enter
+2025-11-10T00:07:58;Souris-05;4;enter
+2025-11-10T00:07:58;Souris-06;5;enter
+2025-11-10T00:07:58;Souris-07;6;enter
+2025-11-10T00:07:58;Souris-08;7;enter
+2025-11-10T00:07:58;Souris-02;1;enter
+2025-11-10T00:07:58;Souris-03;2;leave
+2025-11-10T00:07:58;Souris-07;6;stay
+2025-11-10T00:07:58;Souris-08;7;stay
+2025-11-10T00:07:58;Souris-02;1;stay
+2025-11-10T00:07:58;Souris-03;0;enter
+2025-11-10T00:07:58;Souris-04;3;stay
+2025-11-10T00:07:58;Souris-01;4;stay
+2025-11-10T00:07:58;Souris-05;4;stay
+2025-11-10T00:07:58;Souris-06;5;stay
+2025-11-10T00:07:59;Souris-02;1;leave
+2025-11-10T00:07:59;Souris-02;3;enter
+2025-11-10T00:07:59;Souris-04;3;leave
+2025-11-10T00:07:59;Souris-04;7;enter
+2025-11-10T00:07:59;Souris-06;5;leave
+2025-11-10T00:07:59;Souris-06;4;enter
+2025-11-10T00:07:59;Souris-03;0;stay
+2025-11-10T00:08:00;Souris-02;3;stay
+2025-11-10T00:08:00;Souris-06;4;stay
+2025-11-10T00:08:00;Souris-04;7;stay
+2025-11-10T00:08:00;Souris-08;7;leave
+2025-11-10T00:08:00;Souris-08;5;enter
+2025-11-10T00:08:01;Souris-08;5;stay
+2025-11-10T00:08:01;Souris-07;6;leave
+2025-11-10T00:08:01;Souris-07;7;enter
+2025-11-10T00:08:02;Souris-07;7;stay
+2025-11-10T00:08:02;Souris-05;4;leave
+2025-11-10T00:08:02;Souris-05;2;enter
+2025-11-10T00:08:02;Souris-05;2;stay
+2025-11-10T00:08:09;Souris-01;4;leave
+2025-11-10T00:08:09;Souris-01;2;enter
+2025-11-10T00:08:09;Souris-06;4;leave
+2025-11-10T00:08:09;Souris-06;3;enter
+2025-11-10T00:08:10;Souris-01;2;stay
+2025-11-10T00:08:10;Souris-04;7;leave
+2025-11-10T00:08:10;Souris-04;3;enter
+2025-11-10T00:08:10;Souris-06;3;stay
+2025-11-10T00:08:10;Souris-05;2;leave
+2025-11-10T00:08:10;Souris-05;5;enter
+2025-11-10T00:08:10;Souris-07;7;leave
+2025-11-10T00:08:10;Souris-07;6;enter
+2025-11-10T00:08:10;Souris-05;5;stay
+2025-11-10T00:08:10;Souris-07;6;stay
+2025-11-10T00:08:10;Souris-03;0;leave
+2025-11-10T00:08:10;Souris-03;4;enter
+2025-11-10T00:08:10;Souris-04;3;stay
+2025-11-10T00:08:10;Souris-02;3;leave
+2025-11-10T00:08:10;Souris-02;4;enter
+2025-11-10T00:08:11;Souris-02;4;stay
+2025-11-10T00:08:11;Souris-03;4;stay
+2025-11-10T00:08:12;Souris-08;5;leave
+2025-11-10T00:08:12;Souris-08;1;enter
+2025-11-10T00:08:12;Souris-02;4;leave
+2025-11-10T00:08:12;Souris-03;4;leave
+2025-11-10T00:08:12;Souris-02;4;enter
+2025-11-10T00:08:12;Souris-03;4;enter
+2025-11-10T00:08:12;Souris-08;1;stay
+2025-11-10T00:08:13;Souris-02;4;leave
+2025-11-10T00:08:13;Souris-03;4;leave
+2025-11-10T00:08:14;Souris-02;4;enter
+2025-11-10T00:08:14;Souris-03;4;enter
+2025-11-10T00:08:14;Souris-02;4;stay
+2025-11-10T00:08:14;Souris-03;4;stay
+2025-11-10T00:08:15;Souris-05;5;leave
+2025-11-10T00:08:15;Souris-05;5;enter
+2025-11-10T00:08:16;Souris-05;5;stay
+2025-11-10T00:08:16;Souris-02;4;leave
+2025-11-10T00:08:16;Souris-03;4;leave
+2025-11-10T00:08:17;Souris-02;4;enter
+2025-11-10T00:08:17;Souris-03;4;enter
+2025-11-10T00:08:17;Souris-06;3;leave
+2025-11-10T00:08:17;Souris-06;1;enter
+2025-11-10T00:08:17;Souris-06;1;stay
+2025-11-10T00:08:17;Souris-02;4;stay
+2025-11-10T00:08:17;Souris-03;4;stay
+2025-11-10T00:08:18;Souris-01;2;leave
+2025-11-10T00:08:18;Souris-01;7;enter
+2025-11-10T00:08:18;Souris-07;6;leave
+2025-11-10T00:08:18;Souris-07;3;enter
+2025-11-10T00:08:19;Souris-07;3;stay
+2025-11-10T00:08:19;Souris-01;7;stay
+2025-11-10T00:08:19;Souris-04;3;leave
+2025-11-10T00:08:19;Souris-04;2;enter
+2025-11-10T00:08:20;Souris-04;2;stay
+2025-11-10T00:08:20;Souris-05;5;leave
+2025-11-10T00:08:20;Souris-05;1;enter
+2025-11-10T00:08:20;Souris-03;4;leave
+2025-11-10T00:08:20;Souris-03;2;enter
+2025-11-10T00:08:20;Souris-08;1;leave
+2025-11-10T00:08:20;Souris-08;6;enter
+2025-11-10T00:08:21;Souris-02;4;leave
+2025-11-10T00:08:21;Souris-02;6;enter
+2025-11-10T00:08:21;Souris-08;6;stay
+2025-11-10T00:08:21;Souris-05;1;stay
+2025-11-10T00:08:21;Souris-03;2;leave
+2025-11-10T00:08:21;Souris-04;2;leave
+2025-11-10T00:08:22;Souris-03;2;enter
+2025-11-10T00:08:22;Souris-04;2;enter
+2025-11-10T00:08:22;Souris-02;6;stay
+2025-11-10T00:08:22;Souris-03;2;stay
+2025-11-10T00:08:22;Souris-04;2;stay
+2025-11-10T00:08:24;Souris-03;2;leave
+2025-11-10T00:08:24;Souris-04;2;leave
+2025-11-10T00:08:25;Souris-03;2;enter
+2025-11-10T00:08:25;Souris-04;2;enter
+2025-11-10T00:08:26;Souris-03;2;leave
+2025-11-10T00:08:26;Souris-04;2;leave
+2025-11-10T00:08:26;Souris-03;2;enter
+2025-11-10T00:08:26;Souris-04;2;enter
+2025-11-10T00:08:27;Souris-03;2;leave
+2025-11-10T00:08:27;Souris-04;2;leave
+2025-11-10T00:08:27;Souris-03;2;enter
+2025-11-10T00:08:27;Souris-04;2;enter
+2025-11-10T00:08:27;Souris-06;1;leave
+2025-11-10T00:08:27;Souris-06;4;enter
+2025-11-10T00:08:28;Souris-04;2;leave
+2025-11-10T00:08:28;Souris-04;6;enter
+2025-11-10T00:08:28;Souris-07;3;leave
+2025-11-10T00:08:28;Souris-07;0;enter
+2025-11-10T00:08:28;Souris-03;2;stay
+2025-11-10T00:08:28;Souris-01;7;leave
+2025-11-10T00:08:28;Souris-01;4;enter
+2025-11-10T00:08:28;Souris-06;4;stay
+2025-11-10T00:08:29;Souris-01;4;stay
+2025-11-10T00:08:29;Souris-04;6;stay
+2025-11-10T00:08:29;Souris-07;0;stay
+2025-11-10T00:08:29;Souris-08;6;leave
+2025-11-10T00:08:29;Souris-08;1;enter
+2025-11-10T00:08:29;Souris-02;6;leave
+2025-11-10T00:08:29;Souris-02;2;enter
+2025-11-10T00:08:29;Souris-08;1;stay
+2025-11-10T00:08:30;Souris-02;2;stay
+2025-11-10T00:08:31;Souris-05;1;leave
+2025-11-10T00:08:31;Souris-05;6;enter
+2025-11-10T00:08:31;Souris-03;2;leave
+2025-11-10T00:08:31;Souris-03;4;enter
+2025-11-10T00:08:31;Souris-03;4;stay
+2025-11-10T00:08:31;Souris-05;6;stay
+2025-11-10T00:08:36;Souris-06;4;leave
+2025-11-10T00:08:36;Souris-06;3;enter
+2025-11-10T00:08:36;Souris-06;3;stay
+2025-11-10T00:08:37;Souris-07;0;leave
+2025-11-10T00:08:37;Souris-07;5;enter
+2025-11-10T00:08:37;Souris-01;4;leave
+2025-11-10T00:08:37;Souris-01;1;enter
+2025-11-10T00:08:38;Souris-01;1;stay
+2025-11-10T00:08:38;Souris-07;5;stay
+2025-11-10T00:08:38;Souris-03;4;leave
+2025-11-10T00:08:39;Souris-03;4;enter
+2025-11-10T00:08:39;Souris-02;2;leave
+2025-11-10T00:08:39;Souris-04;6;leave
+2025-11-10T00:08:39;Souris-04;1;enter
+2025-11-10T00:08:39;Souris-02;2;enter
+2025-11-10T00:08:39;Souris-03;4;stay
+2025-11-10T00:08:40;Souris-04;1;stay
+2025-11-10T00:08:40;Souris-08;1;leave
+2025-11-10T00:08:40;Souris-08;3;enter
+2025-11-10T00:08:40;Souris-02;2;leave
+2025-11-10T00:08:41;Souris-02;7;enter
+2025-11-10T00:08:41;Souris-08;3;stay
+2025-11-10T00:08:41;Souris-03;4;leave
+2025-11-10T00:08:41;Souris-03;7;enter
+2025-11-10T00:08:41;Souris-02;7;stay
+2025-11-10T00:08:41;Souris-03;7;stay
+2025-11-10T00:08:42;Souris-05;6;leave
+2025-11-10T00:08:42;Souris-05;1;enter
+2025-11-10T00:08:42;Souris-05;1;stay
+2025-11-10T00:13:21;Souris-02;0;enter
+2025-11-10T00:13:21;Souris-06;0;enter
+2025-11-10T00:13:26;Souris-07;1;enter
+2025-11-10T00:13:26;Souris-02;0;leave
+2025-11-10T00:13:26;Souris-06;0;leave
+2025-11-10T00:13:26;Souris-02;2;enter
+2025-11-10T00:13:26;Souris-08;2;enter
+2025-11-10T00:13:26;Souris-03;3;enter
+2025-11-10T00:13:26;Souris-01;6;enter
+2025-11-10T00:13:26;Souris-07;1;leave
+2025-11-10T00:13:27;Souris-07;1;enter
+2025-11-10T00:13:27;Souris-02;2;stay
+2025-11-10T00:13:27;Souris-08;2;stay
+2025-11-10T00:13:27;Souris-03;3;stay
+2025-11-10T00:13:27;Souris-06;5;enter
+2025-11-10T00:13:27;Souris-01;6;leave
+2025-11-10T00:13:27;Souris-06;5;stay
+2025-11-10T00:13:27;Souris-01;6;enter
+2025-11-10T00:13:27;Souris-04;0;enter
+2025-11-10T00:13:27;Souris-05;0;enter
+2025-11-10T00:13:27;Souris-07;1;leave
+2025-11-10T00:13:27;Souris-02;2;leave
+2025-11-10T00:13:27;Souris-08;2;leave
+2025-11-10T00:13:28;Souris-01;6;stay
+2025-11-10T00:13:28;Souris-02;2;enter
+2025-11-10T00:13:28;Souris-08;2;enter
+2025-11-10T00:13:28;Souris-07;1;enter
+2025-11-10T00:13:28;Souris-04;0;leave
+2025-11-10T00:13:28;Souris-05;0;leave
+2025-11-10T00:13:28;Souris-03;3;leave
+2025-11-10T00:13:29;Souris-04;0;enter
+2025-11-10T00:13:29;Souris-05;0;enter
+2025-11-10T00:13:29;Souris-01;6;leave
+2025-11-10T00:13:29;Souris-02;2;leave
+2025-11-10T00:13:29;Souris-08;2;leave
+2025-11-10T00:13:29;Souris-07;1;leave
+2025-11-10T00:13:29;Souris-04;0;stay
+2025-11-10T00:13:29;Souris-05;0;stay
+2025-11-10T00:13:30;Souris-01;6;enter
+2025-11-10T00:13:30;Souris-04;0;leave
+2025-11-10T00:13:30;Souris-05;0;leave
+2025-11-10T00:13:31;Souris-01;6;stay
+2025-11-10T00:13:31;Souris-07;1;enter
+2025-11-10T00:13:31;Souris-02;2;enter
+2025-11-10T00:13:31;Souris-08;2;enter
+2025-11-10T00:13:31;Souris-07;1;leave
+2025-11-10T00:13:31;Souris-02;2;leave
+2025-11-10T00:13:31;Souris-08;2;leave
+2025-11-10T00:13:32;Souris-02;2;enter
+2025-11-10T00:13:32;Souris-08;2;enter
+2025-11-10T00:13:32;Souris-01;6;leave
+2025-11-10T00:13:32;Souris-04;0;enter
+2025-11-10T00:13:32;Souris-05;0;enter
+2025-11-10T00:13:32;Souris-02;2;leave
+2025-11-10T00:13:32;Souris-08;2;leave
+2025-11-10T00:13:33;Souris-07;1;enter
+2025-11-10T00:13:33;Souris-04;0;leave
+2025-11-10T00:13:33;Souris-05;0;leave
+2025-11-10T00:13:34;Souris-07;1;leave
+2025-11-10T00:13:34;Souris-07;2;enter
+2025-11-10T00:13:34;Souris-08;2;enter
+2025-11-10T00:13:34;Souris-01;6;enter
+2025-11-10T00:13:34;Souris-04;4;enter
+2025-11-10T00:13:34;Souris-05;4;enter
+2025-11-10T00:13:34;Souris-07;2;leave
+2025-11-10T00:13:34;Souris-08;2;leave
+2025-11-10T00:13:34;Souris-06;5;leave
+2025-11-10T00:13:35;Souris-07;2;enter
+2025-11-10T00:13:35;Souris-08;2;enter
+2025-11-10T00:13:35;Souris-01;6;leave
+2025-11-10T00:13:35;Souris-04;4;leave
+2025-11-10T00:13:35;Souris-05;4;leave
+2025-11-10T00:13:36;Souris-06;5;enter
+2025-11-10T00:13:36;Souris-01;6;enter
+2025-11-10T00:13:36;Souris-04;4;enter
+2025-11-10T00:13:36;Souris-05;4;enter
+2025-11-10T00:13:36;Souris-07;2;leave
+2025-11-10T00:13:36;Souris-08;2;leave
+2025-11-10T00:13:36;Souris-04;4;stay
+2025-11-10T00:13:36;Souris-05;4;stay
+2025-11-10T00:13:36;Souris-02;7;enter
+2025-11-10T00:13:36;Souris-03;7;enter
+2025-11-10T00:13:36;Souris-08;0;enter
+2025-11-10T00:13:36;Souris-06;5;leave
+2025-11-10T00:13:36;Souris-01;6;leave
+2025-11-10T00:13:37;Souris-01;3;enter
+2025-11-10T00:13:37;Souris-06;3;enter
+2025-11-10T00:13:37;Souris-04;4;leave
+2025-11-10T00:13:37;Souris-05;4;leave
+2025-11-10T00:13:37;Souris-02;7;leave
+2025-11-10T00:13:37;Souris-03;7;leave
+2025-11-10T00:13:37;Souris-08;0;leave
+2025-11-10T00:13:37;Souris-04;4;enter
+2025-11-10T00:13:37;Souris-05;4;enter
+2025-11-10T00:13:37;Souris-02;7;enter
+2025-11-10T00:13:37;Souris-03;7;enter
+2025-11-10T00:13:37;Souris-08;0;enter
+2025-11-10T00:13:37;Souris-07;2;enter
+2025-11-10T00:13:37;Souris-01;3;leave
+2025-11-10T00:13:37;Souris-06;3;leave
+2025-11-10T00:13:38;Souris-01;3;enter
+2025-11-10T00:13:38;Souris-06;3;enter
+2025-11-10T00:13:38;Souris-04;4;stay
+2025-11-10T00:13:38;Souris-05;4;stay
+2025-11-10T00:13:38;Souris-02;7;stay
+2025-11-10T00:13:38;Souris-03;7;stay
+2025-11-10T00:13:38;Souris-08;0;leave
+2025-11-10T00:13:38;Souris-07;2;leave
+2025-11-10T00:13:39;Souris-01;3;stay
+2025-11-10T00:13:39;Souris-06;3;stay
+2025-11-10T00:13:39;Souris-03;7;leave
+2025-11-10T00:13:39;Souris-03;6;enter
+2025-11-10T00:13:39;Souris-08;0;enter
+2025-11-10T00:13:39;Souris-04;4;leave
+2025-11-10T00:13:39;Souris-05;4;leave
+2025-11-10T00:13:39;Souris-02;7;leave
+2025-11-10T00:13:39;Souris-03;6;leave
+2025-11-10T00:13:40;Souris-02;7;enter
+2025-11-10T00:13:40;Souris-03;6;enter
+2025-11-10T00:13:40;Souris-07;2;enter
+2025-11-10T00:13:40;Souris-08;0;leave
+2025-11-10T00:13:40;Souris-01;3;leave
+2025-11-10T00:13:40;Souris-06;3;leave
+2025-11-10T00:13:41;Souris-08;0;enter
+2025-11-10T00:13:41;Souris-07;2;stay
+2025-11-10T00:13:41;Souris-04;4;enter
+2025-11-10T00:13:41;Souris-05;4;enter
+2025-11-10T00:13:41;Souris-02;7;leave
+2025-11-10T00:13:41;Souris-03;6;leave
+2025-11-10T00:13:41;Souris-04;4;stay
+2025-11-10T00:13:41;Souris-05;4;stay
+2025-11-10T00:13:41;Souris-08;0;leave
+2025-11-10T00:13:42;Souris-02;6;enter
+2025-11-10T00:13:42;Souris-03;6;enter
+2025-11-10T00:13:42;Souris-08;0;enter
+2025-11-10T00:13:42;Souris-01;3;enter
+2025-11-10T00:13:42;Souris-06;3;enter
+2025-11-10T00:13:42;Souris-04;4;leave
+2025-11-10T00:13:42;Souris-05;4;leave
+2025-11-10T00:13:42;Souris-04;4;enter
+2025-11-10T00:13:42;Souris-05;4;enter
+2025-11-10T00:13:42;Souris-02;6;stay
+2025-11-10T00:13:42;Souris-03;6;stay
+2025-11-10T00:13:42;Souris-08;0;stay
+2025-11-10T00:13:42;Souris-01;3;leave
+2025-11-10T00:13:42;Souris-06;3;leave
+2025-11-10T00:13:43;Souris-04;4;leave
+2025-11-10T00:13:43;Souris-04;0;enter
+2025-11-10T00:13:43;Souris-05;4;leave
+2025-11-10T00:13:43;Souris-02;6;leave
+2025-11-10T00:13:43;Souris-03;6;leave
+2025-11-10T00:13:44;Souris-05;4;enter
+2025-11-10T00:13:44;Souris-02;6;enter
+2025-11-10T00:13:44;Souris-03;6;enter
+2025-11-10T00:13:44;Souris-01;3;enter
+2025-11-10T00:13:44;Souris-06;3;enter
+2025-11-10T00:13:44;Souris-04;0;leave
+2025-11-10T00:13:44;Souris-08;0;leave
+2025-11-10T00:13:44;Souris-07;2;leave
+2025-11-10T00:13:44;Souris-01;3;stay
+2025-11-10T00:13:44;Souris-06;3;stay
+2025-11-10T00:13:44;Souris-05;4;stay
+2025-11-10T00:13:44;Souris-07;5;enter
+2025-11-10T00:13:44;Souris-02;6;stay
+2025-11-10T00:13:44;Souris-03;6;stay
+2025-11-10T00:13:44;Souris-04;0;enter
+2025-11-10T00:13:44;Souris-08;0;enter
+2025-11-10T00:13:45;Souris-05;4;leave
+2025-11-10T00:13:45;Souris-05;1;enter
+2025-11-10T00:13:45;Souris-07;5;stay
+2025-11-10T00:13:45;Souris-01;3;leave
+2025-11-10T00:13:45;Souris-06;3;leave
+2025-11-10T00:13:45;Souris-02;6;leave
+2025-11-10T00:13:45;Souris-03;6;leave
+2025-11-10T00:13:45;Souris-04;0;leave
+2025-11-10T00:13:45;Souris-08;0;leave
+2025-11-10T00:13:46;Souris-05;1;stay
+2025-11-10T00:13:46;Souris-01;3;enter
+2025-11-10T00:13:46;Souris-06;3;enter
+2025-11-10T00:13:46;Souris-04;0;enter
+2025-11-10T00:13:46;Souris-08;0;enter
+2025-11-10T00:13:46;Souris-07;5;leave
+2025-11-10T00:13:46;Souris-01;3;stay
+2025-11-10T00:13:46;Souris-06;3;stay
+2025-11-10T00:13:46;Souris-07;5;enter
+2025-11-10T00:13:46;Souris-08;0;leave
+2025-11-10T00:13:46;Souris-08;5;enter
+2025-11-10T00:13:46;Souris-02;6;enter
+2025-11-10T00:13:46;Souris-03;6;enter
+2025-11-10T00:13:46;Souris-04;0;stay
+2025-11-10T00:13:46;Souris-05;1;leave
+2025-11-10T00:13:47;Souris-07;5;stay
+2025-11-10T00:13:47;Souris-08;5;stay
+2025-11-10T00:13:47;Souris-01;3;leave
+2025-11-10T00:13:47;Souris-06;3;leave
+2025-11-10T00:13:47;Souris-02;6;leave
+2025-11-10T00:13:47;Souris-03;6;leave
+2025-11-10T00:13:47;Souris-04;0;leave
+2025-11-10T00:13:48;Souris-05;1;enter
+2025-11-10T00:13:48;Souris-06;1;enter
+2025-11-10T00:13:48;Souris-07;5;leave
+2025-11-10T00:13:48;Souris-08;5;leave
+2025-11-10T00:13:49;Souris-07;5;enter
+2025-11-10T00:13:49;Souris-08;5;enter
+2025-11-10T00:13:49;Souris-01;0;enter
+2025-11-10T00:13:49;Souris-04;0;enter
+2025-11-10T00:13:49;Souris-05;1;stay
+2025-11-10T00:13:49;Souris-06;1;stay
+2025-11-10T00:13:49;Souris-07;5;stay
+2025-11-10T00:13:49;Souris-08;5;stay
+2025-11-10T00:13:49;Souris-01;0;stay
+2025-11-10T00:13:49;Souris-04;0;stay
+2025-11-10T00:13:50;Souris-02;6;enter
+2025-11-10T00:13:50;Souris-03;6;enter
+2025-11-10T00:13:50;Souris-05;1;leave
+2025-11-10T00:13:50;Souris-06;1;leave
+2025-11-10T00:13:51;Souris-07;5;leave
+2025-11-10T00:13:51;Souris-08;5;leave
+2025-11-10T00:13:51;Souris-02;6;leave
+2025-11-10T00:13:51;Souris-03;6;leave
+2025-11-10T00:13:51;Souris-02;2;enter
+2025-11-10T00:13:51;Souris-03;2;enter
+2025-11-10T00:13:51;Souris-07;5;enter
+2025-11-10T00:13:51;Souris-08;5;enter
+2025-11-10T00:13:52;Souris-07;5;stay
+2025-11-10T00:13:52;Souris-08;5;stay
+2025-11-10T00:13:52;Souris-02;2;leave
+2025-11-10T00:13:52;Souris-03;2;leave
+2025-11-10T00:13:54;Souris-07;5;leave
+2025-11-10T00:13:55;Souris-04;0;leave
+2025-11-10T00:13:55;Souris-04;4;enter
+2025-11-10T00:13:55;Souris-05;1;enter
+2025-11-10T00:13:55;Souris-06;1;enter
+2025-11-10T00:13:55;Souris-08;5;leave
+2025-11-10T00:13:55;Souris-08;4;enter
+2025-11-10T00:13:56;Souris-05;1;leave
+2025-11-10T00:13:56;Souris-05;0;enter
+2025-11-10T00:13:56;Souris-06;1;stay
+2025-11-10T00:13:56;Souris-04;4;stay
+2025-11-10T00:13:56;Souris-08;4;stay
+2025-11-10T00:13:56;Souris-05;0;stay
+2025-11-10T00:13:57;Souris-06;1;leave
+2025-11-10T00:13:58;Souris-06;6;enter
+2025-11-10T00:13:58;Souris-02;2;enter
+2025-11-10T00:13:58;Souris-03;2;enter
+2025-11-10T00:13:58;Souris-07;2;enter
+2025-11-10T00:13:58;Souris-06;6;stay
+2025-11-10T00:13:58;Souris-01;0;leave
+2025-11-10T00:13:58;Souris-05;0;leave
+2025-11-10T00:13:58;Souris-02;2;leave
+2025-11-10T00:13:58;Souris-03;2;leave
+2025-11-10T00:13:58;Souris-07;2;leave
+2025-11-10T00:13:59;Souris-01;0;enter
+2025-11-10T00:13:59;Souris-05;0;enter
+2025-11-10T00:13:59;Souris-01;0;leave
+2025-11-10T00:13:59;Souris-01;5;enter
+2025-11-10T00:13:59;Souris-06;6;leave
+2025-11-10T00:13:59;Souris-05;0;leave
+2025-11-10T00:14:00;Souris-03;2;enter
+2025-11-10T00:14:00;Souris-07;2;enter
+2025-11-10T00:14:00;Souris-01;5;leave
+2025-11-10T00:14:00;Souris-04;4;leave
+2025-11-10T00:14:00;Souris-08;4;leave
+2025-11-10T00:14:01;Souris-03;2;stay
+2025-11-10T00:14:01;Souris-07;2;stay
+2025-11-10T00:14:01;Souris-01;5;enter
+2025-11-10T00:14:01;Souris-05;0;enter
+2025-11-10T00:14:01;Souris-02;4;enter
+2025-11-10T00:14:01;Souris-04;4;enter
+2025-11-10T00:14:01;Souris-08;4;enter
+2025-11-10T00:14:02;Souris-02;4;stay
+2025-11-10T00:14:02;Souris-04;4;stay
+2025-11-10T00:14:02;Souris-08;4;stay
+2025-11-10T00:14:02;Souris-01;5;leave
+2025-11-10T00:14:02;Souris-05;0;leave
+2025-11-10T00:14:03;Souris-05;0;enter
+2025-11-10T00:14:03;Souris-03;2;leave
+2025-11-10T00:14:03;Souris-07;2;leave
+2025-11-10T00:14:03;Souris-02;4;leave
+2025-11-10T00:14:03;Souris-04;4;leave
+2025-11-10T00:14:03;Souris-08;4;leave
+2025-11-10T00:14:03;Souris-07;2;enter
+2025-11-10T00:14:03;Souris-02;4;enter
+2025-11-10T00:14:03;Souris-04;4;enter
+2025-11-10T00:14:03;Souris-08;4;enter
+2025-11-10T00:14:03;Souris-05;0;leave
+2025-11-10T00:14:04;Souris-07;2;stay
+2025-11-10T00:14:04;Souris-01;5;enter
+2025-11-10T00:14:04;Souris-03;5;enter
+2025-11-10T00:14:04;Souris-02;4;leave
+2025-11-10T00:14:04;Souris-04;4;leave
+2025-11-10T00:14:04;Souris-08;4;leave
+2025-11-10T00:14:04;Souris-06;6;enter
+2025-11-10T00:14:04;Souris-02;4;enter
+2025-11-10T00:14:04;Souris-04;4;enter
+2025-11-10T00:14:04;Souris-08;4;enter
+2025-11-10T00:14:04;Souris-01;5;leave
+2025-11-10T00:14:04;Souris-03;5;leave
+2025-11-10T00:14:05;Souris-05;0;enter
+2025-11-10T00:14:05;Souris-02;4;stay
+2025-11-10T00:14:05;Souris-04;4;stay
+2025-11-10T00:14:05;Souris-08;4;stay
+2025-11-10T00:14:05;Souris-06;6;leave
+2025-11-10T00:14:05;Souris-07;2;leave
+2025-11-10T00:14:06;Souris-07;3;enter
+2025-11-10T00:14:06;Souris-05;0;leave
+2025-11-10T00:14:06;Souris-02;4;leave
+2025-11-10T00:14:06;Souris-04;4;leave
+2025-11-10T00:14:06;Souris-08;4;leave
+2025-11-10T00:14:06;Souris-01;5;enter
+2025-11-10T00:14:06;Souris-03;5;enter
+2025-11-10T00:14:06;Souris-07;3;stay
+2025-11-10T00:14:07;Souris-08;3;enter
+2025-11-10T00:14:07;Souris-04;6;enter
+2025-11-10T00:14:07;Souris-06;6;enter
+2025-11-10T00:14:07;Souris-02;4;enter
+2025-11-10T00:14:07;Souris-01;5;leave
+2025-11-10T00:14:07;Souris-03;5;leave
+2025-11-10T00:14:08;Souris-02;4;stay
+2025-11-10T00:14:08;Souris-04;6;stay
+2025-11-10T00:14:08;Souris-06;6;stay
+2025-11-10T00:14:08;Souris-05;7;enter
+2025-11-10T00:14:08;Souris-07;3;leave
+2025-11-10T00:14:08;Souris-08;3;leave
+2025-11-10T00:14:08;Souris-07;3;enter
+2025-11-10T00:14:08;Souris-08;3;enter
+2025-11-10T00:14:08;Souris-06;6;leave
+2025-11-10T00:14:08;Souris-06;0;enter
+2025-11-10T00:14:08;Souris-02;4;leave
+2025-11-10T00:14:08;Souris-04;6;leave
+2025-11-10T00:14:08;Souris-05;7;leave
+2025-11-10T00:14:09;Souris-07;3;stay
+2025-11-10T00:14:09;Souris-08;3;stay
+2025-11-10T00:14:09;Souris-01;7;enter
+2025-11-10T00:14:09;Souris-05;7;enter
+2025-11-10T00:14:09;Souris-06;0;leave
+2025-11-10T00:14:09;Souris-02;4;enter
+2025-11-10T00:14:09;Souris-03;5;enter
+2025-11-10T00:14:09;Souris-07;3;leave
+2025-11-10T00:14:09;Souris-08;3;leave
+2025-11-10T00:14:09;Souris-01;7;leave
+2025-11-10T00:14:09;Souris-05;7;leave
+2025-11-10T00:14:10;Souris-07;3;enter
+2025-11-10T00:14:10;Souris-08;3;enter
+2025-11-10T00:14:10;Souris-04;6;enter
+2025-11-10T00:14:10;Souris-02;4;leave
+2025-11-10T00:14:10;Souris-03;5;leave
+2025-11-10T00:14:11;Souris-07;3;stay
+2025-11-10T00:14:11;Souris-08;3;stay
+2025-11-10T00:14:11;Souris-02;5;enter
+2025-11-10T00:14:11;Souris-03;5;enter
+2025-11-10T00:14:11;Souris-06;0;enter
+2025-11-10T00:14:11;Souris-04;6;leave
+2025-11-10T00:14:11;Souris-04;6;enter
+2025-11-10T00:14:11;Souris-02;5;stay
+2025-11-10T00:14:11;Souris-03;5;stay
+2025-11-10T00:14:11;Souris-07;3;leave
+2025-11-10T00:14:11;Souris-08;3;leave
+2025-11-10T00:14:11;Souris-06;0;leave
+2025-11-10T00:14:12;Souris-06;0;enter
+2025-11-10T00:14:12;Souris-04;6;leave
+2025-11-10T00:14:13;Souris-01;7;enter
+2025-11-10T00:14:13;Souris-05;7;enter
+2025-11-10T00:14:13;Souris-06;0;stay
+2025-11-10T00:14:13;Souris-07;3;enter
+2025-11-10T00:14:13;Souris-08;3;enter
+2025-11-10T00:14:13;Souris-02;5;leave
+2025-11-10T00:14:13;Souris-03;5;leave
+2025-11-10T00:14:13;Souris-04;6;enter
+2025-11-10T00:14:13;Souris-01;7;stay
+2025-11-10T00:14:13;Souris-05;7;stay
+2025-11-10T00:14:13;Souris-07;3;stay
+2025-11-10T00:14:13;Souris-08;3;stay
+2025-11-10T00:14:13;Souris-02;5;enter
+2025-11-10T00:14:14;Souris-02;5;stay
+2025-11-10T00:14:14;Souris-04;6;leave
+2025-11-10T00:14:14;Souris-04;6;enter
+2025-11-10T00:14:14;Souris-01;7;leave
+2025-11-10T00:14:14;Souris-05;7;leave
+2025-11-10T00:14:14;Souris-07;3;leave
+2025-11-10T00:14:14;Souris-08;3;leave
+2025-11-10T00:14:14;Souris-02;5;leave
+2025-11-10T00:14:14;Souris-06;0;leave
+2025-11-10T00:14:15;Souris-07;3;enter
+2025-11-10T00:14:15;Souris-08;3;enter
+2025-11-10T00:14:15;Souris-06;0;enter
+2025-11-10T00:14:15;Souris-03;1;enter
+2025-11-10T00:14:15;Souris-04;6;leave
+2025-11-10T00:14:15;Souris-04;1;enter
+2025-11-10T00:14:27;Souris-01;4;enter
+2025-11-10T00:14:27;Souris-02;4;enter
+2025-11-10T00:14:27;Souris-06;0;leave
+2025-11-10T00:14:27;Souris-06;4;enter
+2025-11-10T00:14:27;Souris-07;3;leave
+2025-11-10T00:14:27;Souris-08;3;leave
+2025-11-10T00:14:27;Souris-03;1;leave
+2025-11-10T00:14:27;Souris-04;1;leave
+2025-11-10T00:14:29;Souris-03;7;enter
+2025-11-10T00:14:29;Souris-08;7;enter
+2025-11-10T00:14:29;Souris-01;4;leave
+2025-11-10T00:14:29;Souris-02;4;leave
+2025-11-10T00:14:29;Souris-06;4;leave
+2025-11-10T00:14:29;Souris-01;0;enter
+2025-11-10T00:14:29;Souris-04;0;enter
+2025-11-10T00:14:29;Souris-03;7;leave
+2025-11-10T00:14:29;Souris-08;7;leave
+2025-11-10T00:14:30;Souris-07;2;enter
+2025-11-10T00:14:30;Souris-01;0;leave
+2025-11-10T00:14:30;Souris-04;0;leave
+2025-11-10T00:14:31;Souris-05;3;enter
+2025-11-10T00:14:31;Souris-07;2;leave
+2025-11-10T00:14:31;Souris-02;4;enter
+2025-11-10T00:14:31;Souris-06;4;enter
+2025-11-10T00:14:31;Souris-05;3;leave
+2025-11-10T00:14:33;Souris-03;7;enter
+2025-11-10T00:14:33;Souris-08;7;enter
+2025-11-10T00:14:33;Souris-02;4;leave
+2025-11-10T00:14:33;Souris-06;4;leave
+2025-11-10T00:14:33;Souris-01;0;enter
+2025-11-10T00:14:33;Souris-04;0;enter
+2025-11-10T00:14:33;Souris-03;7;leave
+2025-11-10T00:14:33;Souris-08;7;leave
+2025-11-10T00:14:34;Souris-05;1;enter
+2025-11-10T00:14:34;Souris-01;0;leave
+2025-11-10T00:14:34;Souris-04;0;leave
+2025-11-10T00:14:35;Souris-02;3;enter
+2025-11-10T00:14:35;Souris-05;1;leave
+2025-11-10T00:14:35;Souris-04;4;enter
+2025-11-10T00:14:35;Souris-07;4;enter
+2025-11-10T00:14:35;Souris-02;3;leave
+2025-11-10T00:14:36;Souris-06;5;enter
+2025-11-10T00:14:36;Souris-04;4;leave
+2025-11-10T00:14:36;Souris-07;4;leave
+2025-11-10T00:14:37;Souris-03;6;enter
+2025-11-10T00:14:37;Souris-06;5;leave
+2025-11-10T00:14:37;Souris-08;7;enter
+2025-11-10T00:14:37;Souris-03;6;leave
+2025-11-10T00:14:38;Souris-01;0;enter
+2025-11-10T00:14:38;Souris-05;1;enter
+2025-11-10T00:14:38;Souris-08;7;leave
+2025-11-10T00:14:39;Souris-01;0;leave
+2025-11-10T00:14:39;Souris-01;3;enter
+2025-11-10T00:14:39;Souris-02;3;enter
+2025-11-10T00:14:39;Souris-05;1;leave
+2025-11-10T00:14:39;Souris-04;4;enter
+2025-11-10T00:14:39;Souris-07;4;enter
+2025-11-10T00:14:39;Souris-01;3;leave
+2025-11-10T00:14:39;Souris-02;3;leave
+2025-11-10T00:14:40;Souris-06;5;enter
+2025-11-10T00:14:40;Souris-04;4;leave
+2025-11-10T00:14:40;Souris-07;4;leave
+2025-11-10T00:14:41;Souris-03;6;enter
+2025-11-10T00:14:41;Souris-08;6;enter
+2025-11-10T00:14:41;Souris-06;5;leave
+2025-11-10T00:14:42;Souris-05;1;enter
+2025-11-10T00:14:42;Souris-03;6;leave
+2025-11-10T00:14:42;Souris-08;6;leave
+2025-11-10T00:14:43;Souris-01;3;enter
+2025-11-10T00:14:43;Souris-05;1;leave
+2025-11-10T00:14:43;Souris-04;4;enter
+2025-11-10T00:14:43;Souris-01;3;leave
+2025-11-10T00:14:44;Souris-05;5;enter
+2025-11-10T00:14:44;Souris-04;4;leave
+2025-11-10T00:14:45;Souris-03;6;enter
+2025-11-10T00:14:45;Souris-08;6;enter
+2025-11-10T00:14:45;Souris-05;5;leave
+2025-11-10T00:14:45;Souris-02;7;enter
+2025-11-10T00:14:45;Souris-07;7;enter
+2025-11-10T00:14:45;Souris-03;6;leave
+2025-11-10T00:14:45;Souris-08;6;leave
+2025-11-10T00:14:46;Souris-06;1;enter
+2025-11-10T00:14:46;Souris-02;7;leave
+2025-11-10T00:14:46;Souris-07;7;leave
+2025-11-10T00:14:47;Souris-01;3;enter
+2025-11-10T00:14:47;Souris-06;1;leave
+2025-11-10T00:14:48;Souris-03;5;enter
+2025-11-10T00:14:48;Souris-05;5;enter
+2025-11-10T00:14:48;Souris-01;3;leave
+2025-11-10T00:14:48;Souris-04;6;enter
+2025-11-10T00:14:48;Souris-08;6;enter
+2025-11-10T00:14:48;Souris-03;5;leave
+2025-11-10T00:14:48;Souris-05;5;leave
+2025-11-10T00:14:49;Souris-01;7;enter
+2025-11-10T00:14:49;Souris-02;7;enter
+2025-11-10T00:14:49;Souris-07;7;enter
+2025-11-10T00:14:49;Souris-04;6;leave
+2025-11-10T00:14:49;Souris-08;6;leave
+2025-11-10T00:14:50;Souris-06;1;enter
+2025-11-10T00:14:50;Souris-01;7;leave
+2025-11-10T00:14:50;Souris-02;7;leave
+2025-11-10T00:14:50;Souris-07;7;leave
+2025-11-10T00:14:52;Souris-03;5;enter
+2025-11-10T00:14:52;Souris-05;5;enter
+2025-11-10T00:14:52;Souris-06;1;leave
+2025-11-10T00:14:52;Souris-04;6;enter
+2025-11-10T00:14:52;Souris-03;5;leave
+2025-11-10T00:14:52;Souris-05;5;leave
+2025-11-10T00:14:53;Souris-01;7;enter
+2025-11-10T00:14:53;Souris-07;7;enter
+2025-11-10T00:14:53;Souris-04;6;leave
+2025-11-10T00:14:54;Souris-06;0;enter
+2025-11-10T00:14:54;Souris-08;0;enter
+2025-11-10T00:14:54;Souris-01;7;leave
+2025-11-10T00:14:54;Souris-07;7;leave
+2025-11-10T00:14:54;Souris-02;1;enter
+2025-11-10T00:14:54;Souris-05;1;enter
+2025-11-10T00:14:54;Souris-06;0;leave
+2025-11-10T00:14:54;Souris-08;0;leave
+2025-11-10T00:14:56;Souris-03;5;enter
+2025-11-10T00:14:56;Souris-02;1;leave
+2025-11-10T00:14:56;Souris-05;1;leave
+2025-11-10T00:14:57;Souris-06;0;enter
+2025-11-10T00:14:57;Souris-07;0;enter
+2025-11-10T00:14:57;Souris-08;0;enter
+2025-11-10T00:14:57;Souris-03;5;leave
+2025-11-10T00:14:58;Souris-02;1;enter
+2025-11-10T00:14:58;Souris-05;1;enter
+2025-11-10T00:14:58;Souris-06;0;leave
+2025-11-10T00:14:58;Souris-07;0;leave
+2025-11-10T00:14:58;Souris-08;0;leave
+2025-11-10T00:14:59;Souris-01;3;enter
+2025-11-10T00:14:59;Souris-02;1;leave
+2025-11-10T00:14:59;Souris-05;1;leave
+2025-11-10T00:15:00;Souris-04;5;enter
+2025-11-10T00:15:00;Souris-01;3;leave
+2025-11-10T00:15:00;Souris-03;6;enter
+2025-11-10T00:15:00;Souris-04;5;leave
+2025-11-10T00:15:01;Souris-08;7;enter
+2025-11-10T00:15:01;Souris-03;6;leave
+2025-11-10T00:15:02;Souris-02;0;enter
+2025-11-10T00:15:02;Souris-07;0;enter
+2025-11-10T00:15:02;Souris-08;7;leave
+2025-11-10T00:15:02;Souris-05;1;enter
+2025-11-10T00:15:02;Souris-02;0;leave
+2025-11-10T00:15:02;Souris-07;0;leave
+2025-11-10T00:15:03;Souris-06;2;enter
+2025-11-10T00:15:03;Souris-01;3;enter
+2025-11-10T00:15:03;Souris-05;1;leave
+2025-11-10T00:15:04;Souris-04;5;enter
+2025-11-10T00:15:04;Souris-06;2;leave
+2025-11-10T00:15:04;Souris-01;3;leave
+2025-11-10T00:15:04;Souris-03;6;enter
+2025-11-10T00:15:04;Souris-04;5;leave
+2025-11-10T00:15:05;Souris-08;7;enter
+2025-11-10T00:15:05;Souris-03;6;leave
+2025-11-10T00:15:06;Souris-02;0;enter
+2025-11-10T00:15:06;Souris-04;0;enter
+2025-11-10T00:15:06;Souris-08;7;leave
+2025-11-10T00:15:06;Souris-06;2;enter
+2025-11-10T00:15:06;Souris-02;0;leave
+2025-11-10T00:15:06;Souris-04;0;leave
+2025-11-10T00:15:07;Souris-05;3;enter
+2025-11-10T00:15:07;Souris-06;2;leave
+2025-11-10T00:15:08;Souris-01;4;enter
+2025-11-10T00:15:08;Souris-07;4;enter
+2025-11-10T00:15:08;Souris-05;3;leave
+2025-11-10T00:15:08;Souris-03;6;enter
+2025-11-10T00:15:08;Souris-01;4;leave
+2025-11-10T00:15:08;Souris-07;4;leave
+2025-11-10T00:15:09;Souris-08;7;enter
+2025-11-10T00:15:09;Souris-03;6;leave
+2025-11-10T00:15:10;Souris-02;0;enter
+2025-11-10T00:15:10;Souris-04;0;enter
+2025-11-10T00:15:10;Souris-08;7;leave
+2025-11-10T00:15:11;Souris-03;3;enter
+2025-11-10T00:15:11;Souris-05;3;enter
+2025-11-10T00:15:11;Souris-02;0;leave
+2025-11-10T00:15:11;Souris-04;0;leave
+2025-11-10T00:15:11;Souris-01;4;enter
+2025-11-10T00:15:11;Souris-06;4;enter
+2025-11-10T00:15:11;Souris-07;4;enter
+2025-11-10T00:15:11;Souris-03;3;leave
+2025-11-10T00:15:11;Souris-05;3;leave
+2025-11-10T00:15:12;Souris-02;5;enter
+2025-11-10T00:15:12;Souris-01;4;leave
+2025-11-10T00:15:12;Souris-06;4;leave
+2025-11-10T00:15:12;Souris-07;4;leave
+2025-11-10T00:15:13;Souris-04;0;enter
+2025-11-10T00:15:13;Souris-05;0;enter
+2025-11-10T00:15:13;Souris-02;5;leave
+2025-11-10T00:15:14;Souris-08;1;enter
+2025-11-10T00:15:14;Souris-04;0;leave
+2025-11-10T00:15:14;Souris-05;0;leave
+2025-11-10T00:15:15;Souris-03;3;enter
+2025-11-10T00:15:15;Souris-08;1;leave
+2025-11-10T00:15:15;Souris-01;4;enter
+2025-11-10T00:15:15;Souris-06;4;enter
+2025-11-10T00:15:15;Souris-03;3;leave
+2025-11-10T00:15:16;Souris-02;5;enter
+2025-11-10T00:15:16;Souris-01;4;leave
+2025-11-10T00:15:16;Souris-06;4;leave
+2025-11-10T00:15:17;Souris-04;6;enter
+2025-11-10T00:15:17;Souris-02;5;leave
+2025-11-10T00:15:17;Souris-07;7;enter
+2025-11-10T00:15:17;Souris-04;6;leave
+2025-11-10T00:15:18;Souris-05;0;enter
+2025-11-10T00:15:18;Souris-08;1;enter
+2025-11-10T00:15:18;Souris-07;7;leave
+2025-11-10T00:15:19;Souris-01;2;enter
+2025-11-10T00:15:19;Souris-05;0;leave
+2025-11-10T00:15:19;Souris-08;1;leave
+2025-11-10T00:15:19;Souris-03;3;enter
+2025-11-10T00:15:19;Souris-01;2;leave
+2025-11-10T00:15:20;Souris-06;4;enter
+2025-11-10T00:15:20;Souris-02;5;enter
+2025-11-10T00:15:20;Souris-03;3;leave
+2025-11-10T00:15:20;Souris-04;6;enter
+2025-11-10T00:15:20;Souris-06;4;leave
+2025-11-10T00:15:20;Souris-02;5;leave
+2025-11-10T00:15:21;Souris-07;7;enter
+2025-11-10T00:15:21;Souris-04;6;leave
+2025-11-10T00:15:22;Souris-03;0;enter
+2025-11-10T00:15:22;Souris-05;0;enter
+2025-11-10T00:15:22;Souris-07;7;leave
+2025-11-10T00:15:22;Souris-08;1;enter
+2025-11-10T00:15:22;Souris-03;0;leave
+2025-11-10T00:15:22;Souris-05;0;leave
+2025-11-10T00:15:23;Souris-01;2;enter
+2025-11-10T00:15:23;Souris-08;1;leave
+2025-11-10T00:15:24;Souris-02;4;enter
+2025-11-10T00:15:24;Souris-05;4;enter
+2025-11-10T00:15:24;Souris-08;4;enter
+2025-11-10T00:15:24;Souris-01;2;leave
+2025-11-10T00:15:24;Souris-06;6;enter
+2025-11-10T00:15:24;Souris-02;4;leave
+2025-11-10T00:15:24;Souris-05;4;leave
+2025-11-10T00:15:24;Souris-08;4;leave
+2025-11-10T00:15:25;Souris-03;0;enter
+2025-11-10T00:15:25;Souris-06;6;leave
+2025-11-10T00:15:26;Souris-07;1;enter
+2025-11-10T00:15:26;Souris-03;0;leave
+2025-11-10T00:15:27;Souris-02;4;enter
+2025-11-10T00:15:27;Souris-05;4;enter
+2025-11-10T00:15:27;Souris-08;4;enter
+2025-11-10T00:15:27;Souris-07;1;leave
+2025-11-10T00:15:28;Souris-01;5;enter
+2025-11-10T00:15:28;Souris-04;5;enter
+2025-11-10T00:15:28;Souris-02;4;leave
+2025-11-10T00:15:28;Souris-05;4;leave
+2025-11-10T00:15:28;Souris-08;4;leave
+2025-11-10T00:15:29;Souris-06;6;enter
+2025-11-10T00:15:29;Souris-01;5;leave
+2025-11-10T00:15:29;Souris-04;5;leave
+2025-11-10T00:15:30;Souris-03;1;enter
+2025-11-10T00:15:30;Souris-07;1;enter
+2025-11-10T00:15:30;Souris-06;6;leave
+2025-11-10T00:15:31;Souris-02;4;enter
+2025-11-10T00:15:31;Souris-05;4;enter
+2025-11-10T00:15:31;Souris-08;4;enter
+2025-11-10T00:15:31;Souris-03;1;leave
+2025-11-10T00:15:31;Souris-07;1;leave
+2025-11-10T00:15:32;Souris-01;5;enter
+2025-11-10T00:15:32;Souris-04;5;enter
+2025-11-10T00:15:32;Souris-02;4;leave
+2025-11-10T00:15:32;Souris-05;4;leave
+2025-11-10T00:15:32;Souris-08;4;leave
+2025-11-10T00:15:33;Souris-08;6;enter
+2025-11-10T00:15:33;Souris-01;5;leave
+2025-11-10T00:15:33;Souris-04;5;leave
+2025-11-10T00:15:33;Souris-05;7;enter
+2025-11-10T00:15:33;Souris-06;7;enter
+2025-11-10T00:15:33;Souris-08;6;leave
+2025-11-10T00:15:34;Souris-02;1;enter
+2025-11-10T00:15:34;Souris-03;1;enter
+2025-11-10T00:15:34;Souris-07;1;enter
+2025-11-10T00:15:34;Souris-05;7;leave
+2025-11-10T00:15:34;Souris-06;7;leave
+2025-11-10T00:15:36;Souris-08;6;enter
+2025-11-10T00:15:36;Souris-02;1;leave
+2025-11-10T00:15:36;Souris-03;1;leave
+2025-11-10T00:15:36;Souris-07;1;leave
+2025-11-10T00:15:37;Souris-01;7;enter
+2025-11-10T00:15:37;Souris-05;7;enter
+2025-11-10T00:15:37;Souris-06;7;enter
+2025-11-10T00:15:37;Souris-08;6;leave
+2025-11-10T00:15:38;Souris-04;0;enter
+2025-11-10T00:15:38;Souris-01;7;leave
+2025-11-10T00:15:38;Souris-05;7;leave
+2025-11-10T00:15:38;Souris-06;7;leave
+2025-11-10T00:15:38;Souris-02;1;enter
+2025-11-10T00:15:38;Souris-03;1;enter
+2025-11-10T00:15:38;Souris-04;0;leave
+2025-11-10T00:15:39;Souris-07;4;enter
+2025-11-10T00:15:39;Souris-02;1;leave
+2025-11-10T00:15:39;Souris-03;1;leave
+2025-11-10T00:15:40;Souris-08;6;enter
+2025-11-10T00:15:40;Souris-07;4;leave
+2025-11-10T00:15:41;Souris-01;7;enter
+2025-11-10T00:15:41;Souris-05;7;enter
+2025-11-10T00:15:41;Souris-06;7;enter
+2025-11-10T00:15:41;Souris-08;6;leave
+2025-11-10T00:15:42;Souris-04;0;enter
+2025-11-10T00:15:42;Souris-01;7;leave
+2025-11-10T00:15:42;Souris-05;7;leave
+2025-11-10T00:15:42;Souris-06;7;leave
+2025-11-10T00:15:42;Souris-02;1;enter
+2025-11-10T00:15:42;Souris-05;1;enter
+2025-11-10T00:15:42;Souris-04;0;leave
+2025-11-10T00:15:43;Souris-08;2;enter
+2025-11-10T00:15:43;Souris-02;1;leave
+2025-11-10T00:15:43;Souris-05;1;leave
+2025-11-10T00:15:43;Souris-03;3;enter
+2025-11-10T00:15:43;Souris-07;4;enter
+2025-11-10T00:15:43;Souris-08;2;leave
+2025-11-10T00:15:44;Souris-01;5;enter
+2025-11-10T00:15:44;Souris-03;3;leave
+2025-11-10T00:15:44;Souris-07;4;leave
+2025-11-10T00:15:45;Souris-02;0;enter
+2025-11-10T00:15:45;Souris-01;5;leave
+2025-11-10T00:15:46;Souris-05;1;enter
+2025-11-10T00:15:46;Souris-07;1;enter
+2025-11-10T00:15:46;Souris-02;0;leave
+2025-11-10T00:15:47;Souris-08;2;enter
+2025-11-10T00:15:47;Souris-05;1;leave
+2025-11-10T00:15:47;Souris-07;1;leave
+2025-11-10T00:15:47;Souris-03;3;enter
+2025-11-10T00:15:47;Souris-06;3;enter
+2025-11-10T00:15:47;Souris-08;2;leave
+2025-11-10T00:15:48;Souris-01;5;enter
+2025-11-10T00:15:48;Souris-03;3;leave
+2025-11-10T00:15:48;Souris-06;3;leave
+2025-11-10T00:15:49;Souris-04;7;enter
+2025-11-10T00:15:49;Souris-01;5;leave
+2025-11-10T00:15:49;Souris-02;0;enter
+2025-11-10T00:15:49;Souris-04;7;leave
+2025-11-10T00:15:50;Souris-05;1;enter
+2025-11-10T00:15:50;Souris-07;1;enter
+2025-11-10T00:15:50;Souris-02;0;leave
+2025-11-10T00:15:51;Souris-06;3;enter
+2025-11-10T00:15:51;Souris-08;3;enter
+2025-11-10T00:15:51;Souris-05;1;leave
+2025-11-10T00:15:51;Souris-07;1;leave
+2025-11-10T00:15:52;Souris-01;5;enter
+2025-11-10T00:15:52;Souris-03;5;enter
+2025-11-10T00:15:52;Souris-06;3;leave
+2025-11-10T00:15:52;Souris-08;3;leave
+2025-11-10T00:15:53;Souris-04;7;enter
+2025-11-10T00:15:53;Souris-01;5;leave
+2025-11-10T00:15:53;Souris-03;5;leave
+2025-11-10T00:15:53;Souris-02;0;enter
+2025-11-10T00:15:53;Souris-04;7;leave
+2025-11-10T00:15:54;Souris-01;1;enter
+2025-11-10T00:15:54;Souris-02;0;leave
+2025-11-10T00:15:55;Souris-05;3;enter
+2025-11-10T00:15:55;Souris-08;3;enter
+2025-11-10T00:15:55;Souris-01;1;leave
+2025-11-10T00:15:56;Souris-03;5;enter
+2025-11-10T00:15:56;Souris-07;5;enter
+2025-11-10T00:15:56;Souris-05;3;leave
+2025-11-10T00:15:56;Souris-08;3;leave
+2025-11-10T00:15:56;Souris-04;6;enter
+2025-11-10T00:15:56;Souris-06;6;enter
+2025-11-10T00:15:56;Souris-03;5;leave
+2025-11-10T00:15:56;Souris-07;5;leave
+2025-11-10T00:15:58;Souris-01;1;enter
+2025-11-10T00:15:58;Souris-02;1;enter
+2025-11-10T00:15:58;Souris-04;6;leave
+2025-11-10T00:15:58;Souris-06;6;leave
+2025-11-10T00:15:59;Souris-05;3;enter
+2025-11-10T00:15:59;Souris-01;1;leave
+2025-11-10T00:15:59;Souris-02;1;leave
+2025-11-10T00:16:00;Souris-07;5;enter
+2025-11-10T00:16:00;Souris-05;3;leave
+2025-11-10T00:16:01;Souris-04;6;enter
+2025-11-10T00:16:01;Souris-06;6;enter
+2025-11-10T00:16:01;Souris-08;6;enter
+2025-11-10T00:16:01;Souris-07;5;leave
+2025-11-10T00:16:01;Souris-03;0;enter
+2025-11-10T00:16:01;Souris-05;0;enter
+2025-11-10T00:16:01;Souris-04;6;leave
+2025-11-10T00:16:01;Souris-06;6;leave
+2025-11-10T00:16:01;Souris-08;6;leave
+2025-11-10T00:16:02;Souris-01;1;enter
+2025-11-10T00:16:02;Souris-02;1;enter
+2025-11-10T00:16:02;Souris-03;0;leave
+2025-11-10T00:16:02;Souris-05;0;leave
+2025-11-10T00:16:03;Souris-07;2;enter
+2025-11-10T00:16:03;Souris-01;1;leave
+2025-11-10T00:16:03;Souris-02;1;leave
+2025-11-10T00:16:04;Souris-06;6;enter
+2025-11-10T00:16:04;Souris-08;6;enter
+2025-11-10T00:16:04;Souris-07;2;leave
+2025-11-10T00:16:05;Souris-01;7;enter
+2025-11-10T00:16:05;Souris-06;6;leave
+2025-11-10T00:16:05;Souris-08;6;leave
+2025-11-10T00:16:06;Souris-03;0;enter
+2025-11-10T00:16:06;Souris-05;0;enter
+2025-11-10T00:16:06;Souris-06;0;enter
+2025-11-10T00:16:06;Souris-01;7;leave
+2025-11-10T00:16:06;Souris-07;2;enter
+2025-11-10T00:16:06;Souris-03;0;leave
+2025-11-10T00:16:06;Souris-05;0;leave
+2025-11-10T00:16:06;Souris-06;0;leave
+2025-11-10T00:16:07;Souris-04;3;enter
+2025-11-10T00:16:07;Souris-07;2;leave
+2025-11-10T00:16:08;Souris-02;5;enter
+2025-11-10T00:16:08;Souris-04;3;leave
+2025-11-10T00:16:09;Souris-01;7;enter
+2025-11-10T00:16:09;Souris-02;5;leave
+2025-11-10T00:16:10;Souris-05;0;enter
+2025-11-10T00:16:10;Souris-06;0;enter
+2025-11-10T00:16:10;Souris-01;7;leave
+2025-11-10T00:16:10;Souris-07;2;enter
+2025-11-10T00:16:10;Souris-08;2;enter
+2025-11-10T00:16:10;Souris-05;0;leave
+2025-11-10T00:16:10;Souris-06;0;leave
+2025-11-10T00:16:11;Souris-04;3;enter
+2025-11-10T00:16:11;Souris-07;2;leave
+2025-11-10T00:16:11;Souris-08;2;leave
+2025-11-10T00:16:12;Souris-02;5;enter
+2025-11-10T00:16:12;Souris-03;5;enter
+2025-11-10T00:16:12;Souris-04;3;leave
+2025-11-10T00:16:13;Souris-01;7;enter
+2025-11-10T00:16:13;Souris-02;5;leave
+2025-11-10T00:16:13;Souris-03;5;leave
+2025-11-10T00:16:14;Souris-06;0;enter
+2025-11-10T00:16:14;Souris-01;7;leave
+2025-11-10T00:16:14;Souris-05;1;enter
+2025-11-10T00:16:14;Souris-06;0;leave
+2025-11-10T00:16:15;Souris-08;2;enter
+2025-11-10T00:16:15;Souris-05;1;leave
+2025-11-10T00:16:15;Souris-07;3;enter
+2025-11-10T00:16:15;Souris-08;2;leave
+2025-11-10T00:16:46;Souris-07;3;stay
+2025-11-10T00:16:46;Souris-02;3;enter
+2025-11-10T00:16:46;Souris-03;3;enter
+2025-11-10T00:16:46;Souris-05;6;enter
+2025-11-10T00:16:46;Souris-06;5;enter
+2025-11-10T00:16:46;Souris-08;6;enter
+2025-11-10T00:16:46;Souris-04;0;enter
+2025-11-10T00:16:46;Souris-07;3;leave
+2025-11-10T00:16:47;Souris-07;3;enter
+2025-11-10T00:16:47;Souris-06;5;leave
+2025-11-10T00:16:47;Souris-06;6;enter
+2025-11-10T00:16:47;Souris-02;3;leave
+2025-11-10T00:16:47;Souris-03;3;leave
+2025-11-10T00:16:47;Souris-05;6;leave
+2025-11-10T00:16:47;Souris-08;6;leave
+2025-11-10T00:16:47;Souris-04;0;leave
+2025-11-10T00:16:48;Souris-03;4;enter
+2025-11-10T00:16:48;Souris-07;3;leave
+2025-11-10T00:16:48;Souris-06;6;leave
+2025-11-10T00:16:48;Souris-04;7;enter
+2025-11-10T00:16:48;Souris-08;2;enter
+2025-11-10T00:16:48;Souris-03;4;leave
+2025-11-10T00:16:49;Souris-01;6;enter
+2025-11-10T00:16:49;Souris-05;6;enter
+2025-11-10T00:16:49;Souris-02;5;enter
+2025-11-10T00:16:49;Souris-06;5;enter
+2025-11-10T00:16:49;Souris-04;7;leave
+2025-11-10T00:16:49;Souris-08;2;leave
+2025-11-10T00:16:50;Souris-07;3;enter
+2025-11-10T00:16:50;Souris-08;2;enter
+2025-11-10T00:16:50;Souris-02;5;stay
+2025-11-10T00:16:50;Souris-04;0;enter
+2025-11-10T00:16:50;Souris-03;3;enter
+2025-11-10T00:16:50;Souris-01;6;leave
+2025-11-10T00:16:50;Souris-05;6;leave
+2025-11-10T00:16:50;Souris-06;5;leave
+2025-11-10T00:16:50;Souris-01;6;enter
+2025-11-10T00:16:50;Souris-02;5;leave
+2025-11-10T00:16:50;Souris-02;6;enter
+2025-11-10T00:16:50;Souris-04;0;leave
+2025-11-10T00:16:50;Souris-04;6;enter
+2025-11-10T00:16:50;Souris-05;6;enter
+2025-11-10T00:16:50;Souris-06;6;enter
+2025-11-10T00:16:50;Souris-07;3;leave
+2025-11-10T00:16:50;Souris-07;2;enter
+2025-11-10T00:16:50;Souris-08;2;stay
+2025-11-10T00:16:50;Souris-03;3;leave
+2025-11-10T00:16:51;Souris-04;6;leave
+2025-11-10T00:16:51;Souris-04;0;enter
+2025-11-10T00:16:51;Souris-06;6;stay
+2025-11-10T00:16:51;Souris-01;6;leave
+2025-11-10T00:16:51;Souris-02;6;leave
+2025-11-10T00:16:51;Souris-05;6;leave
+2025-11-10T00:16:51;Souris-07;2;leave
+2025-11-10T00:16:51;Souris-02;5;enter
+2025-11-10T00:16:51;Souris-03;2;enter
+2025-11-10T00:16:51;Souris-04;0;leave
+2025-11-10T00:16:51;Souris-06;6;leave
+2025-11-10T00:16:52;Souris-02;5;stay
+2025-11-10T00:16:52;Souris-04;0;enter
+2025-11-10T00:16:52;Souris-05;0;enter
+2025-11-10T00:16:52;Souris-03;2;leave
+2025-11-10T00:16:52;Souris-08;2;leave
+2025-11-10T00:16:53;Souris-01;6;enter
+2025-11-10T00:16:53;Souris-06;6;enter
+2025-11-10T00:16:53;Souris-08;3;enter
+2025-11-10T00:16:53;Souris-04;0;leave
+2025-11-10T00:16:53;Souris-05;0;leave
+2025-11-10T00:16:53;Souris-08;3;leave
+2025-11-10T00:16:53;Souris-08;2;enter
+2025-11-10T00:16:53;Souris-02;5;leave
+2025-11-10T00:16:53;Souris-01;6;leave
+2025-11-10T00:16:53;Souris-06;6;leave
+2025-11-10T00:19:03;Souris-05;2;enter
+2025-11-10T00:19:03;Souris-07;2;enter
+2025-11-10T00:19:03;Souris-08;2;stay
+2025-11-10T00:19:04;Souris-01;6;enter
+2025-11-10T00:19:04;Souris-06;6;enter
+2025-11-10T00:19:04;Souris-05;2;leave
+2025-11-10T00:19:04;Souris-07;2;leave
+2025-11-10T00:19:04;Souris-08;2;leave
+2025-11-10T00:19:06;Souris-03;4;enter
+2025-11-10T00:19:06;Souris-01;6;leave
+2025-11-10T00:19:06;Souris-06;6;leave
+2025-11-10T00:19:10;Souris-01;6;enter
+2025-11-10T00:19:10;Souris-03;4;leave
+2025-11-10T00:19:10;Souris-05;7;enter
+2025-11-10T00:19:10;Souris-04;0;enter
+2025-11-10T00:19:10;Souris-02;1;enter
+2025-11-10T00:19:10;Souris-07;1;enter
+2025-11-10T00:19:10;Souris-08;3;enter
+2025-11-10T00:19:10;Souris-06;5;enter
+2025-11-10T00:19:10;Souris-01;6;stay
+2025-11-10T00:19:10;Souris-03;2;enter
+2025-11-10T00:19:11;Souris-05;7;stay
+2025-11-10T00:19:11;Souris-04;0;stay
+2025-11-10T00:19:11;Souris-02;1;stay
+2025-11-10T00:19:11;Souris-07;1;stay
+2025-11-10T00:19:11;Souris-08;3;stay
+2025-11-10T00:19:11;Souris-06;5;stay
+2025-11-10T00:19:11;Souris-03;2;stay
+2025-11-10T00:19:12;Souris-01;6;leave
+2025-11-10T00:19:12;Souris-01;7;enter
+2025-11-10T00:19:13;Souris-01;7;stay
+2025-11-10T00:19:15;Souris-02;1;leave
+2025-11-10T00:19:15;Souris-02;6;enter
+2025-11-10T00:19:15;Souris-02;6;stay
+2025-11-10T00:19:16;Souris-04;0;leave
+2025-11-10T00:19:16;Souris-04;2;enter
+2025-11-10T00:29:08;Souris-01;5;enter
+2025-11-10T00:29:08;Souris-08;5;enter
+2025-11-10T00:29:09;Souris-06;0;enter
+2025-11-10T00:29:09;Souris-05;1;enter
+2025-11-10T00:29:09;Souris-04;3;enter
+2025-11-10T00:29:09;Souris-03;4;enter
+2025-11-10T00:29:09;Souris-07;4;enter
+2025-11-10T00:29:09;Souris-01;5;stay
+2025-11-10T00:29:09;Souris-08;5;stay
+2025-11-10T00:29:09;Souris-02;7;enter
+2025-11-10T00:29:09;Souris-02;7;stay
+2025-11-10T00:29:09;Souris-06;0;stay
+2025-11-10T00:29:09;Souris-05;1;stay
+2025-11-10T00:29:09;Souris-04;3;stay
+2025-11-10T00:29:09;Souris-03;4;stay
+2025-11-10T00:29:09;Souris-07;4;stay
+2025-11-10T00:29:10;Souris-07;4;leave
+2025-11-10T00:29:10;Souris-07;6;enter
+2025-11-10T00:29:11;Souris-03;4;leave
+2025-11-10T00:29:11;Souris-03;3;enter
+2025-11-10T00:29:11;Souris-04;3;leave
+2025-11-10T00:29:11;Souris-04;0;enter
+2025-11-10T00:29:11;Souris-07;6;stay
+2025-11-10T00:29:11;Souris-03;3;stay
+2025-11-10T00:29:11;Souris-04;0;stay
+2025-11-10T00:29:13;Souris-08;5;leave
+2025-11-10T00:29:13;Souris-08;6;enter
+2025-11-10T00:29:13;Souris-01;5;leave
+2025-11-10T00:29:13;Souris-01;7;enter
+2025-11-10T00:29:13;Souris-08;6;stay
+2025-11-10T00:29:13;Souris-01;7;stay
+2025-11-10T00:29:14;Souris-06;0;leave
+2025-11-10T00:29:14;Souris-06;7;enter
+2025-11-10T00:29:15;Souris-06;7;stay
+2025-11-10T00:29:17;Souris-01;7;leave
+2025-11-10T00:29:17;Souris-02;7;leave
+2025-11-10T00:29:17;Souris-06;7;leave
+2025-11-10T00:29:18;Souris-01;7;enter
+2025-11-10T00:29:18;Souris-02;7;enter
+2025-11-10T00:29:18;Souris-06;7;enter
+2025-11-10T00:29:18;Souris-01;7;stay
+2025-11-10T00:29:18;Souris-02;7;stay
+2025-11-10T00:29:18;Souris-06;7;stay
+2025-11-10T00:29:21;Souris-02;7;leave
+2025-11-10T00:29:21;Souris-02;0;enter
+2025-11-10T00:29:21;Souris-05;1;leave
+2025-11-10T00:29:21;Souris-05;3;enter
+2025-11-10T00:29:21;Souris-07;6;leave
+2025-11-10T00:29:21;Souris-07;1;enter
+2025-11-10T00:29:21;Souris-05;3;stay
+2025-11-10T00:29:21;Souris-02;0;stay
+2025-11-10T00:29:21;Souris-07;1;stay
+2025-11-10T00:29:22;Souris-04;0;leave
+2025-11-10T00:29:22;Souris-04;2;enter
+2025-11-10T00:29:23;Souris-04;2;stay
+2025-11-10T00:29:23;Souris-01;7;leave
+2025-11-10T00:29:23;Souris-01;4;enter
+2025-11-10T00:29:24;Souris-01;4;stay
+2025-11-10T00:29:25;Souris-03;3;leave
+2025-11-10T00:29:25;Souris-03;0;enter
+2025-11-10T00:29:26;Souris-03;0;stay
+2025-11-10T00:29:26;Souris-07;1;leave
+2025-11-10T00:29:26;Souris-07;1;enter
+2025-11-10T00:29:26;Souris-08;6;leave
+2025-11-10T00:29:26;Souris-08;5;enter
+2025-11-10T00:29:27;Souris-08;5;stay
+2025-11-10T00:29:27;Souris-07;1;stay
+2025-11-10T00:29:28;Souris-06;7;leave
+2025-11-10T00:29:28;Souris-06;1;enter
+2025-11-10T00:29:29;Souris-06;1;stay
+2025-11-10T00:29:30;Souris-06;1;leave
+2025-11-10T00:29:30;Souris-07;1;leave
+2025-11-10T00:29:30;Souris-01;4;leave
+2025-11-10T00:29:31;Souris-01;4;enter
+2025-11-10T00:29:31;Souris-06;1;enter
+2025-11-10T00:29:31;Souris-07;1;enter
+2025-11-10T00:29:31;Souris-01;4;leave
+2025-11-10T00:29:32;Souris-01;4;enter
+2025-11-10T00:29:32;Souris-07;1;leave
+2025-11-10T00:29:32;Souris-07;6;enter
+2025-11-10T00:29:32;Souris-06;1;leave
+2025-11-10T00:29:33;Souris-07;6;stay
+2025-11-10T00:29:33;Souris-06;1;enter
+2025-11-10T00:29:33;Souris-01;4;stay
+2025-11-10T00:29:33;Souris-06;1;stay
+2025-11-10T00:29:34;Souris-04;2;leave
+2025-11-10T00:29:34;Souris-04;5;enter
+2025-11-10T00:29:34;Souris-05;3;leave
+2025-11-10T00:29:34;Souris-05;5;enter
+2025-11-10T00:29:34;Souris-04;5;stay
+2025-11-10T00:29:35;Souris-05;5;stay
+2025-11-10T00:29:36;Souris-01;4;leave
+2025-11-10T00:29:36;Souris-01;6;enter
+2025-11-10T00:29:36;Souris-02;0;leave
+2025-11-10T00:29:36;Souris-02;4;enter
+2025-11-10T00:29:36;Souris-02;4;stay
+2025-11-10T00:29:36;Souris-01;6;stay
+2025-11-10T00:29:39;Souris-03;0;leave
+2025-11-10T00:29:39;Souris-03;1;enter
+2025-11-10T00:29:40;Souris-03;1;stay
+2025-11-10T00:29:40;Souris-08;5;leave
+2025-11-10T00:29:40;Souris-08;3;enter
+2025-11-10T00:29:41;Souris-08;3;stay
+2025-11-10T00:29:42;Souris-06;1;leave
+2025-11-10T00:29:42;Souris-06;2;enter
+2025-11-10T00:29:43;Souris-06;2;stay
+2025-11-10T00:29:44;Souris-07;6;leave
+2025-11-10T00:29:44;Souris-07;3;enter
+2025-11-10T00:29:45;Souris-07;3;stay
+2025-11-10T00:29:46;Souris-03;1;leave
+2025-11-10T00:29:46;Souris-03;1;enter
+2025-11-10T00:29:46;Souris-04;5;leave
+2025-11-10T00:29:46;Souris-04;2;enter
+2025-11-10T00:29:46;Souris-05;5;leave
+2025-11-10T00:29:46;Souris-05;0;enter
+2025-11-10T00:29:47;Souris-04;2;stay
+2025-11-10T00:29:47;Souris-05;0;stay
+2025-11-10T00:29:47;Souris-03;1;stay
+2025-11-10T00:29:47;Souris-02;4;leave
+2025-11-10T00:29:47;Souris-02;5;enter
+2025-11-10T00:29:48;Souris-01;6;leave
+2025-11-10T00:29:48;Souris-01;2;enter
+2025-11-10T00:29:48;Souris-02;5;stay
+2025-11-10T00:29:49;Souris-01;2;stay
+2025-11-10T00:29:51;Souris-08;3;leave
+2025-11-10T00:29:51;Souris-08;7;enter
+2025-11-10T00:29:51;Souris-08;7;stay
+2025-11-10T00:29:54;Souris-03;1;leave
+2025-11-10T00:29:54;Souris-03;4;enter
+2025-11-10T00:29:54;Souris-07;3;leave
+2025-11-10T00:29:54;Souris-07;3;enter
+2025-11-10T00:29:54;Souris-03;4;stay
+2025-11-10T00:29:55;Souris-07;3;stay
+2025-11-10T00:29:55;Souris-06;2;leave
+2025-11-10T00:29:55;Souris-06;4;enter
+2025-11-10T00:29:56;Souris-06;4;stay
+2025-11-10T00:29:57;Souris-04;2;leave
+2025-11-10T00:29:57;Souris-04;1;enter
+2025-11-10T00:29:58;Souris-04;1;stay
+2025-11-10T00:29:58;Souris-07;3;leave
+2025-11-10T00:29:58;Souris-07;4;enter
+2025-11-10T00:29:59;Souris-07;4;stay
+2025-11-10T00:29:59;Souris-02;5;leave
+2025-11-10T00:29:59;Souris-02;7;enter
+2025-11-10T00:29:59;Souris-05;0;leave
+2025-11-10T00:30:00;Souris-02;7;stay
+2025-11-10T00:30:00;Souris-05;6;enter
+2025-11-10T00:30:01;Souris-05;6;stay
+2025-11-10T00:30:02;Souris-01;2;leave
+2025-11-10T00:30:02;Souris-01;3;enter
+2025-11-10T00:30:02;Souris-01;3;stay
+2025-11-10T00:30:05;Souris-08;7;leave
+2025-11-10T00:30:05;Souris-08;6;enter
+2025-11-10T00:30:05;Souris-08;6;stay
+2025-11-10T00:30:07;Souris-06;4;leave
+2025-11-10T00:30:07;Souris-06;0;enter
+2025-11-10T00:30:07;Souris-06;0;stay
+2025-11-10T00:30:09;Souris-03;4;leave
+2025-11-10T00:30:09;Souris-03;2;enter
+2025-11-10T00:30:09;Souris-03;2;stay
+2025-11-10T00:30:10;Souris-04;1;leave
+2025-11-10T00:30:10;Souris-04;2;enter
+2025-11-10T00:30:10;Souris-07;4;leave
+2025-11-10T00:30:10;Souris-07;3;enter
+2025-11-10T00:30:11;Souris-04;2;stay
+2025-11-10T00:30:11;Souris-07;3;stay
+2025-11-10T00:30:12;Souris-02;7;leave
+2025-11-10T00:30:12;Souris-02;0;enter
+2025-11-10T00:30:13;Souris-02;0;stay
+2025-11-10T00:30:13;Souris-01;3;leave
+2025-11-10T00:30:14;Souris-01;7;enter
+2025-11-10T00:30:14;Souris-01;7;stay
+2025-11-10T00:30:14;Souris-05;6;leave
+2025-11-10T00:30:14;Souris-05;7;enter
+2025-11-10T00:30:15;Souris-05;7;stay
+2025-11-10T00:30:16;Souris-08;6;leave
+2025-11-10T00:30:16;Souris-08;1;enter
+2025-11-10T00:30:16;Souris-02;0;leave
+2025-11-10T00:30:16;Souris-06;0;leave
+2025-11-10T00:30:17;Souris-02;0;enter
+2025-11-10T00:30:17;Souris-06;0;enter
+2025-11-10T00:30:17;Souris-08;1;stay
+2025-11-10T00:30:17;Souris-02;0;stay
+2025-11-10T00:30:17;Souris-06;0;stay
+2025-11-10T00:30:18;Souris-02;0;leave
+2025-11-10T00:30:18;Souris-06;0;leave
+2025-11-10T00:30:19;Souris-02;0;enter
+2025-11-10T00:30:19;Souris-06;0;enter
+2025-11-10T00:30:19;Souris-08;1;leave
+2025-11-10T00:30:19;Souris-08;1;enter
+2025-11-10T00:30:19;Souris-02;0;stay
+2025-11-10T00:30:19;Souris-06;0;stay
+2025-11-10T00:30:20;Souris-08;1;stay
+2025-11-10T00:30:20;Souris-03;2;leave
+2025-11-10T00:30:20;Souris-03;6;enter
+2025-11-10T00:30:20;Souris-03;6;stay
+2025-11-10T00:30:21;Souris-04;2;leave
+2025-11-10T00:30:21;Souris-04;4;enter
+2025-11-10T00:30:22;Souris-06;0;leave
+2025-11-10T00:30:22;Souris-06;1;enter
+2025-11-10T00:30:22;Souris-04;4;stay
+2025-11-10T00:30:22;Souris-06;1;stay
+2025-11-10T00:30:24;Souris-07;3;leave
+2025-11-10T00:30:24;Souris-07;0;enter
+2025-11-10T00:30:24;Souris-07;0;stay
+2025-11-10T00:30:25;Souris-02;0;leave
+2025-11-10T00:30:25;Souris-02;4;enter
+2025-11-10T00:30:25;Souris-02;4;stay
+2025-11-10T00:30:27;Souris-08;1;leave
+2025-11-10T00:30:27;Souris-08;0;enter
+2025-11-10T00:30:27;Souris-08;0;stay
+2025-11-10T00:30:28;Souris-01;7;leave
+2025-11-10T00:30:28;Souris-01;5;enter
+2025-11-10T00:30:28;Souris-05;7;leave
+2025-11-10T00:30:28;Souris-05;2;enter
+2025-11-10T00:30:29;Souris-05;2;stay
+2025-11-10T00:30:29;Souris-01;5;leave
+2025-11-10T00:30:29;Souris-01;5;enter
+2025-11-10T00:30:30;Souris-01;5;stay
+2025-11-10T00:30:30;Souris-06;1;leave
+2025-11-10T00:30:30;Souris-06;1;enter
+2025-11-10T00:30:31;Souris-06;1;stay
+2025-11-10T00:30:32;Souris-06;1;leave
+2025-11-10T00:30:33;Souris-06;1;enter
+2025-11-10T00:30:34;Souris-06;1;stay
+2025-11-10T00:30:34;Souris-07;0;leave
+2025-11-10T00:30:34;Souris-07;5;enter
+2025-11-10T00:30:35;Souris-03;6;leave
+2025-11-10T00:30:35;Souris-03;0;enter
+2025-11-10T00:30:35;Souris-04;4;leave
+2025-11-10T00:30:35;Souris-04;0;enter
+2025-11-10T00:30:35;Souris-07;5;stay
+2025-11-10T00:30:35;Souris-03;0;stay
+2025-11-10T00:30:35;Souris-04;0;stay
+2025-11-10T00:30:35;Souris-06;1;leave
+2025-11-10T00:30:36;Souris-06;2;enter
+2025-11-10T00:30:36;Souris-02;4;leave
+2025-11-10T00:30:37;Souris-06;2;stay
+2025-11-10T00:30:37;Souris-02;1;enter
+2025-11-10T00:30:37;Souris-02;1;stay
+2025-11-10T00:30:38;Souris-01;5;leave
+2025-11-10T00:30:38;Souris-01;6;enter
+2025-11-10T00:30:38;Souris-02;1;leave
+2025-11-10T00:30:38;Souris-01;6;stay
+2025-11-10T00:30:38;Souris-02;1;enter
+2025-11-10T00:30:39;Souris-02;1;stay
+2025-11-10T00:30:40;Souris-08;0;leave
+2025-11-10T00:30:40;Souris-08;5;enter
+2025-11-10T00:30:40;Souris-02;1;leave
+2025-11-10T00:30:40;Souris-08;5;stay
+2025-11-10T00:30:41;Souris-02;1;enter
+2025-11-10T00:30:42;Souris-02;1;stay
+2025-11-10T00:30:42;Souris-05;2;leave
+2025-11-10T00:30:42;Souris-05;4;enter
+2025-11-10T00:30:42;Souris-02;1;leave
+2025-11-10T00:30:43;Souris-02;1;enter
+2025-11-10T00:30:43;Souris-05;4;stay
+2025-11-10T00:30:43;Souris-02;1;stay
+2025-11-10T00:30:44;Souris-02;1;leave
+2025-11-10T00:30:45;Souris-02;1;enter
+2025-11-10T00:30:45;Souris-02;1;stay
+2025-11-10T00:30:47;Souris-02;1;leave
+2025-11-10T00:30:47;Souris-02;1;enter
+2025-11-10T00:30:48;Souris-02;1;stay
+2025-11-10T00:30:48;Souris-04;0;leave
+2025-11-10T00:30:48;Souris-04;4;enter
+2025-11-10T00:30:48;Souris-07;5;leave
+2025-11-10T00:30:48;Souris-07;4;enter
+2025-11-10T00:30:48;Souris-08;5;leave
+2025-11-10T00:30:48;Souris-06;2;leave
+2025-11-10T00:30:49;Souris-04;4;stay
+2025-11-10T00:30:49;Souris-07;4;stay
+2025-11-10T00:30:49;Souris-06;5;enter
+2025-11-10T00:30:49;Souris-08;5;enter
+2025-11-10T00:30:49;Souris-03;0;leave
+2025-11-10T00:30:49;Souris-03;6;enter
+2025-11-10T00:30:50;Souris-06;5;stay
+2025-11-10T00:30:50;Souris-08;5;stay
+2025-11-10T00:30:50;Souris-03;6;stay
+2025-11-10T00:30:50;Souris-02;1;leave
+2025-11-10T00:30:50;Souris-02;3;enter
+2025-11-10T00:30:50;Souris-02;3;stay
+2025-11-10T00:30:52;Souris-01;6;leave
+2025-11-10T00:30:52;Souris-01;1;enter
+2025-11-10T00:30:52;Souris-01;1;stay
+2025-11-10T00:30:52;Souris-06;5;leave
+2025-11-10T00:30:52;Souris-08;5;leave
+2025-11-10T00:30:53;Souris-06;5;enter
+2025-11-10T00:30:53;Souris-08;5;enter
+2025-11-10T00:30:53;Souris-05;4;leave
+2025-11-10T00:30:53;Souris-05;3;enter
+2025-11-10T00:30:53;Souris-06;5;stay
+2025-11-10T00:30:53;Souris-08;5;stay
+2025-11-10T00:30:54;Souris-08;5;leave
+2025-11-10T00:30:54;Souris-08;7;enter
+2025-11-10T00:30:54;Souris-05;3;stay
+2025-11-10T00:30:55;Souris-08;7;stay
+2025-11-10T00:30:55;Souris-04;4;leave
+2025-11-10T00:30:55;Souris-07;4;leave
+2025-11-10T00:30:55;Souris-04;4;enter
+2025-11-10T00:30:55;Souris-07;4;enter
+2025-11-10T00:30:56;Souris-04;4;stay
+2025-11-10T00:30:56;Souris-07;4;stay
+2025-11-10T00:30:57;Souris-04;4;leave
+2025-11-10T00:30:57;Souris-07;4;leave
+2025-11-10T00:30:58;Souris-04;4;enter
+2025-11-10T00:30:58;Souris-07;4;enter
+2025-11-10T00:30:58;Souris-04;4;stay
+2025-11-10T00:30:58;Souris-07;4;stay
+2025-11-10T00:31:00;Souris-07;4;leave
+2025-11-10T00:31:00;Souris-07;3;enter
+2025-11-10T00:31:01;Souris-06;5;leave
+2025-11-10T00:31:01;Souris-06;7;enter
+2025-11-10T00:31:01;Souris-02;3;leave
+2025-11-10T00:31:01;Souris-02;7;enter
+2025-11-10T00:31:01;Souris-07;3;stay
+2025-11-10T00:31:02;Souris-02;7;stay
+2025-11-10T00:31:02;Souris-06;7;stay
+2025-11-10T00:31:02;Souris-04;4;leave
+2025-11-10T00:31:02;Souris-04;3;enter
+2025-11-10T00:31:03;Souris-04;3;stay
+2025-11-10T00:31:03;Souris-03;6;leave
+2025-11-10T00:31:03;Souris-03;5;enter
+2025-11-10T00:31:03;Souris-03;5;stay
+2025-11-10T00:31:03;Souris-08;7;leave
+2025-11-10T00:31:03;Souris-08;1;enter
+2025-11-10T00:31:04;Souris-01;1;leave
+2025-11-10T00:31:04;Souris-01;7;enter
+2025-11-10T00:31:04;Souris-08;1;stay
+2025-11-10T00:31:05;Souris-01;7;stay
+2025-11-10T00:31:06;Souris-05;3;leave
+2025-11-10T00:31:06;Souris-05;6;enter
+2025-11-10T00:31:07;Souris-05;6;stay
+2025-11-10T00:31:12;Souris-06;7;leave
+2025-11-10T00:31:12;Souris-06;4;enter
+2025-11-10T00:31:13;Souris-07;3;leave
+2025-11-10T00:31:13;Souris-07;2;enter
+2025-11-10T00:31:13;Souris-06;4;stay
+2025-11-10T00:31:13;Souris-07;2;stay
+2025-11-10T00:31:15;Souris-08;1;leave
+2025-11-10T00:31:15;Souris-08;2;enter
+2025-11-10T00:31:15;Souris-02;7;leave
+2025-11-10T00:31:15;Souris-02;2;enter
+2025-11-10T00:31:15;Souris-08;2;stay
+2025-11-10T00:31:16;Souris-02;2;stay
+2025-11-10T00:31:16;Souris-04;3;leave
+2025-11-10T00:31:16;Souris-04;4;enter
+2025-11-10T00:31:16;Souris-01;7;leave
+2025-11-10T00:31:16;Souris-01;6;enter
+2025-11-10T00:31:16;Souris-03;5;leave
+2025-11-10T00:31:16;Souris-03;5;enter
+2025-11-10T00:31:16;Souris-01;6;stay
+2025-11-10T00:31:16;Souris-04;4;stay
+2025-11-10T00:31:17;Souris-03;5;leave
+2025-11-10T00:31:18;Souris-03;3;enter
+2025-11-10T00:31:18;Souris-03;3;stay
+2025-11-10T00:31:19;Souris-03;3;leave
+2025-11-10T00:31:20;Souris-05;6;leave
+2025-11-10T00:31:20;Souris-05;5;enter
+2025-11-10T00:31:20;Souris-03;3;enter
+2025-11-10T00:31:21;Souris-03;3;stay
+2025-11-10T00:31:21;Souris-05;5;stay
+2025-11-10T00:31:21;Souris-03;3;leave
+2025-11-10T00:31:23;Souris-03;3;enter
+2025-11-10T00:31:23;Souris-07;2;leave
+2025-11-10T00:31:23;Souris-07;0;enter
+2025-11-10T00:31:23;Souris-03;3;leave
+2025-11-10T00:31:24;Souris-07;0;stay
+2025-11-10T00:31:24;Souris-03;3;enter
+2025-11-10T00:31:25;Souris-03;3;stay
+2025-11-10T00:31:25;Souris-08;2;leave
+2025-11-10T00:31:25;Souris-08;6;enter
+2025-11-10T00:31:25;Souris-06;4;leave
+2025-11-10T00:31:25;Souris-06;5;enter
+2025-11-10T00:31:26;Souris-06;5;stay
+2025-11-10T00:31:26;Souris-08;6;stay
+2025-11-10T00:31:27;Souris-04;4;leave
+2025-11-10T00:31:27;Souris-04;0;enter
+2025-11-10T00:31:28;Souris-04;0;stay
+2025-11-10T00:31:28;Souris-03;3;leave
+2025-11-10T00:31:28;Souris-03;0;enter
+2025-11-10T00:31:29;Souris-03;0;stay
+2025-11-10T00:31:29;Souris-01;6;leave
+2025-11-10T00:31:29;Souris-01;2;enter
+2025-11-10T00:31:30;Souris-01;2;stay
+2025-11-10T00:31:30;Souris-02;2;leave
+2025-11-10T00:31:30;Souris-02;4;enter
+2025-11-10T00:31:30;Souris-02;4;stay
+2025-11-10T00:31:31;Souris-05;5;leave
+2025-11-10T00:31:31;Souris-05;3;enter
+2025-11-10T00:31:31;Souris-02;4;leave
+2025-11-10T00:31:32;Souris-02;4;enter
+2025-11-10T00:31:32;Souris-05;3;stay
+2025-11-10T00:31:33;Souris-02;4;stay
+2025-11-10T00:31:34;Souris-02;4;leave
+2025-11-10T00:31:35;Souris-02;4;enter
+2025-11-10T00:31:35;Souris-02;4;stay
+2025-11-10T00:31:35;Souris-06;5;leave
+2025-11-10T00:31:35;Souris-06;2;enter
+2025-11-10T00:31:36;Souris-06;2;stay
+2025-11-10T00:31:36;Souris-08;6;leave
+2025-11-10T00:31:36;Souris-08;4;enter
+2025-11-10T00:31:37;Souris-08;4;stay
+2025-11-10T00:31:37;Souris-07;0;leave
+2025-11-10T00:31:37;Souris-07;7;enter
+2025-11-10T00:31:37;Souris-05;3;leave
+2025-11-10T00:31:38;Souris-07;7;stay
+2025-11-10T00:31:38;Souris-04;0;leave
+2025-11-10T00:31:38;Souris-04;5;enter
+2025-11-10T00:31:38;Souris-03;0;leave
+2025-11-10T00:31:38;Souris-03;1;enter
+2025-11-10T00:31:38;Souris-05;3;enter
+2025-11-10T00:31:38;Souris-04;5;stay
+2025-11-10T00:31:39;Souris-03;1;stay
+2025-11-10T00:31:39;Souris-05;3;stay
+2025-11-10T00:31:40;Souris-02;4;leave
+2025-11-10T00:31:40;Souris-02;5;enter
+2025-11-10T00:31:41;Souris-02;5;stay
+2025-11-10T00:31:43;Souris-05;3;leave
+2025-11-10T00:31:43;Souris-05;3;enter
+2025-11-10T00:31:43;Souris-01;2;leave
+2025-11-10T00:31:43;Souris-01;4;enter
+2025-11-10T00:31:44;Souris-05;3;stay
+2025-11-10T00:31:44;Souris-01;4;stay
+2025-11-10T00:31:45;Souris-05;3;leave
+2025-11-10T00:31:45;Souris-05;4;enter
+2025-11-10T00:31:46;Souris-05;4;stay
+2025-11-10T00:31:49;Souris-03;1;leave
+2025-11-10T00:31:49;Souris-03;7;enter
+2025-11-10T00:31:49;Souris-03;7;stay
+2025-11-10T00:31:49;Souris-07;7;leave
+2025-11-10T00:31:49;Souris-07;0;enter
+2025-11-10T00:31:50;Souris-04;5;leave
+2025-11-10T00:31:50;Souris-04;1;enter
+2025-11-10T00:31:50;Souris-06;2;leave
+2025-11-10T00:31:50;Souris-06;7;enter
+2025-11-10T00:31:50;Souris-07;0;leave
+2025-11-10T00:31:51;Souris-06;7;stay
+2025-11-10T00:31:51;Souris-04;1;stay
+2025-11-10T00:31:51;Souris-08;4;leave
+2025-11-10T00:31:51;Souris-08;2;enter
+2025-11-10T00:31:51;Souris-07;0;enter
+2025-11-10T00:31:51;Souris-07;0;stay
+2025-11-10T00:31:51;Souris-08;2;stay
+2025-11-10T00:31:51;Souris-04;1;leave
+2025-11-10T00:31:52;Souris-04;1;enter
+2025-11-10T00:31:52;Souris-07;0;leave
+2025-11-10T00:31:53;Souris-02;5;leave
+2025-11-10T00:31:53;Souris-02;1;enter
+2025-11-10T00:31:53;Souris-07;0;enter
+2025-11-10T00:31:53;Souris-04;1;stay
+2025-11-10T00:31:53;Souris-07;0;stay
+2025-11-10T00:31:53;Souris-02;1;stay
+2025-11-10T00:31:53;Souris-01;4;leave
+2025-11-10T00:31:53;Souris-01;5;enter
+2025-11-10T00:31:54;Souris-01;5;stay
+2025-11-10T00:31:54;Souris-07;0;leave
+2025-11-10T00:31:55;Souris-07;0;enter
+2025-11-10T00:31:56;Souris-07;0;stay
+2025-11-10T00:31:59;Souris-07;0;leave
+2025-11-10T00:31:59;Souris-07;7;enter
+2025-11-10T00:32:00;Souris-05;4;leave
+2025-11-10T00:32:00;Souris-05;0;enter
+2025-11-10T00:32:00;Souris-07;7;stay
+2025-11-10T00:32:01;Souris-05;0;stay
+2025-11-10T00:32:01;Souris-06;7;leave
+2025-11-10T00:32:01;Souris-06;5;enter
+2025-11-10T00:32:01;Souris-05;0;leave
+2025-11-10T00:32:02;Souris-03;7;leave
+2025-11-10T00:32:02;Souris-03;2;enter
+2025-11-10T00:32:02;Souris-08;2;leave
+2025-11-10T00:32:02;Souris-08;4;enter
+2025-11-10T00:32:02;Souris-06;5;stay
+2025-11-10T00:32:02;Souris-05;0;enter
+2025-11-10T00:32:03;Souris-05;0;stay
+2025-11-10T00:32:03;Souris-03;2;stay
+2025-11-10T00:32:03;Souris-08;4;stay
+2025-11-10T00:32:04;Souris-01;5;leave
+2025-11-10T00:32:04;Souris-01;7;enter
+2025-11-10T00:32:05;Souris-01;7;stay
+2025-11-10T00:32:05;Souris-04;1;leave
+2025-11-10T00:32:05;Souris-04;3;enter
+2025-11-10T00:32:06;Souris-04;3;stay
+2025-11-10T00:32:06;Souris-02;1;leave
+2025-11-10T00:32:06;Souris-02;1;enter
+2025-11-10T00:32:07;Souris-02;1;leave
+2025-11-10T00:32:07;Souris-02;2;enter
+2025-11-10T00:32:07;Souris-04;3;leave
+2025-11-10T00:32:08;Souris-04;3;enter
+2025-11-10T00:32:08;Souris-02;2;stay
+2025-11-10T00:32:08;Souris-04;3;stay
+2025-11-10T00:32:09;Souris-04;3;leave
+2025-11-10T00:32:09;Souris-04;3;enter
+2025-11-10T00:32:10;Souris-04;3;stay
+2025-11-10T00:32:12;Souris-08;4;leave
+2025-11-10T00:32:12;Souris-08;3;enter
+2025-11-10T00:32:13;Souris-05;0;leave
+2025-11-10T00:32:13;Souris-05;5;enter
+2025-11-10T00:32:13;Souris-08;3;stay
+2025-11-10T00:32:13;Souris-03;2;leave
+2025-11-10T00:32:13;Souris-03;6;enter
+2025-11-10T00:32:13;Souris-05;5;stay
+2025-11-10T00:32:13;Souris-03;6;leave
+2025-11-10T00:32:13;Souris-07;7;leave
+2025-11-10T00:32:14;Souris-03;6;enter
+2025-11-10T00:32:14;Souris-07;6;enter
+2025-11-10T00:32:15;Souris-03;6;stay
+2025-11-10T00:32:15;Souris-07;6;stay
+2025-11-10T00:32:16;Souris-06;5;leave
+2025-11-10T00:32:16;Souris-06;3;enter
+2025-11-10T00:32:16;Souris-06;3;stay
+2025-11-10T00:32:18;Souris-04;3;leave
+2025-11-10T00:32:18;Souris-04;0;enter
+2025-11-10T00:32:19;Souris-01;7;leave
+2025-11-10T00:32:19;Souris-01;5;enter
+2025-11-10T00:32:19;Souris-04;0;stay
+2025-11-10T00:32:19;Souris-01;5;stay
+2025-11-10T00:32:21;Souris-02;2;leave
+2025-11-10T00:32:21;Souris-02;4;enter
+2025-11-10T00:32:22;Souris-02;4;stay
+2025-11-10T00:32:22;Souris-02;4;leave
+2025-11-10T00:32:24;Souris-02;4;enter
+2025-11-10T00:32:24;Souris-05;5;leave
+2025-11-10T00:32:24;Souris-05;7;enter
+2025-11-10T00:32:24;Souris-02;4;leave
+2025-11-10T00:32:25;Souris-07;6;leave
+2025-11-10T00:32:25;Souris-07;1;enter
+2025-11-10T00:32:25;Souris-02;4;enter
+2025-11-10T00:32:25;Souris-05;7;leave
+2025-11-10T00:32:26;Souris-05;7;enter
+2025-11-10T00:32:26;Souris-07;1;stay
+2025-11-10T00:32:26;Souris-02;4;stay
+2025-11-10T00:32:26;Souris-05;7;stay
+2025-11-10T00:32:26;Souris-02;4;leave
+2025-11-10T00:32:27;Souris-03;6;leave
+2025-11-10T00:32:27;Souris-03;7;enter
+2025-11-10T00:32:27;Souris-02;4;enter
+2025-11-10T00:32:27;Souris-08;3;leave
+2025-11-10T00:32:27;Souris-08;4;enter
+2025-11-10T00:32:27;Souris-02;4;stay
+2025-11-10T00:32:27;Souris-08;4;stay
+2025-11-10T00:32:27;Souris-03;7;stay
+2025-11-10T00:32:27;Souris-06;3;leave
+2025-11-10T00:32:27;Souris-06;7;enter
+2025-11-10T00:32:27;Souris-04;0;leave
+2025-11-10T00:32:28;Souris-06;7;stay
+2025-11-10T00:32:29;Souris-04;0;enter
+2025-11-10T00:32:29;Souris-04;0;leave
+2025-11-10T00:32:31;Souris-01;5;leave
+2025-11-10T00:32:31;Souris-01;3;enter
+2025-11-10T00:32:31;Souris-01;3;stay
+2025-11-10T00:32:31;Souris-04;0;enter
+2025-11-10T00:32:32;Souris-04;0;leave
+2025-11-10T00:32:32;Souris-04;1;enter
+2025-11-10T00:32:32;Souris-02;4;leave
+2025-11-10T00:32:32;Souris-02;3;enter
+2025-11-10T00:32:32;Souris-04;1;stay
+2025-11-10T00:32:33;Souris-02;3;stay
+2025-11-10T00:32:37;Souris-05;7;leave
+2025-11-10T00:32:37;Souris-05;4;enter
+2025-11-10T00:32:37;Souris-05;4;stay
+2025-11-10T00:32:38;Souris-07;1;leave
+2025-11-10T00:32:38;Souris-07;7;enter
+2025-11-10T00:32:39;Souris-07;7;stay
+2025-11-10T00:32:39;Souris-06;7;leave
+2025-11-10T00:32:39;Souris-06;5;enter
+2025-11-10T00:32:39;Souris-05;4;leave
+2025-11-10T00:32:39;Souris-08;4;leave
+2025-11-10T00:32:40;Souris-06;5;stay
+2025-11-10T00:32:40;Souris-05;4;enter
+2025-11-10T00:32:40;Souris-08;4;enter
+2025-11-10T00:32:41;Souris-05;4;stay
+2025-11-10T00:32:41;Souris-08;4;leave
+2025-11-10T00:32:41;Souris-08;3;enter
+2025-11-10T00:32:41;Souris-03;7;leave
+2025-11-10T00:32:41;Souris-03;0;enter
+2025-11-10T00:32:41;Souris-08;3;stay
+2025-11-10T00:32:42;Souris-03;0;stay
+2025-11-10T00:32:42;Souris-05;4;leave
+2025-11-10T00:32:42;Souris-05;4;enter
+2025-11-10T00:32:43;Souris-04;1;leave
+2025-11-10T00:32:43;Souris-04;5;enter
+2025-11-10T00:32:43;Souris-05;4;stay
+2025-11-10T00:32:44;Souris-04;5;stay
+2025-11-10T00:32:44;Souris-05;4;leave
+2025-11-10T00:32:45;Souris-01;3;leave
+2025-11-10T00:32:45;Souris-01;2;enter
+2025-11-10T00:32:45;Souris-03;0;leave
+2025-11-10T00:32:46;Souris-03;0;enter
+2025-11-10T00:32:46;Souris-01;2;stay
+2025-11-10T00:32:46;Souris-05;4;enter
+2025-11-10T00:32:46;Souris-03;0;stay
+2025-11-10T00:32:46;Souris-02;3;leave
+2025-11-10T00:32:46;Souris-02;4;enter
+2025-11-10T00:32:46;Souris-05;4;stay
+2025-11-10T00:32:47;Souris-02;4;stay
+2025-11-10T00:32:49;Souris-05;4;leave
+2025-11-10T00:32:49;Souris-05;1;enter
+2025-11-10T00:32:49;Souris-05;1;stay
+2025-11-10T00:32:49;Souris-07;7;leave
+2025-11-10T00:32:49;Souris-07;2;enter
+2025-11-10T00:32:49;Souris-06;5;leave
+2025-11-10T00:32:49;Souris-06;6;enter
+2025-11-10T00:32:50;Souris-06;6;stay
+2025-11-10T00:32:50;Souris-07;2;stay
+2025-11-10T00:32:51;Souris-08;3;leave
+2025-11-10T00:32:51;Souris-08;3;enter
+2025-11-10T00:32:52;Souris-08;3;stay
+2025-11-10T00:32:54;Souris-03;0;leave
+2025-11-10T00:32:54;Souris-03;4;enter
+2025-11-10T00:32:54;Souris-08;3;leave
+2025-11-10T00:32:54;Souris-08;6;enter
+2025-11-10T00:32:54;Souris-03;4;stay
+2025-11-10T00:32:54;Souris-04;5;leave
+2025-11-10T00:32:55;Souris-08;6;stay
+2025-11-10T00:32:56;Souris-04;5;enter
+2025-11-10T00:32:57;Souris-04;5;leave
+2025-11-10T00:32:58;Souris-01;2;leave
+2025-11-10T00:32:58;Souris-01;0;enter
+2025-11-10T00:32:58;Souris-04;1;enter
+2025-11-10T00:32:58;Souris-05;1;leave
+2025-11-10T00:32:58;Souris-05;3;enter
+2025-11-10T00:32:58;Souris-02;4;leave
+2025-11-10T00:32:58;Souris-02;2;enter
+2025-11-10T00:32:59;Souris-01;0;stay
+2025-11-10T00:32:59;Souris-04;1;stay
+2025-11-10T00:32:59;Souris-02;2;stay
+2025-11-10T00:32:59;Souris-05;3;stay
+2025-11-10T00:33:00;Souris-06;6;leave
+2025-11-10T00:33:00;Souris-06;5;enter
+2025-11-10T00:33:00;Souris-06;5;stay
+2025-11-10T00:33:01;Souris-03;4;leave
+2025-11-10T00:33:02;Souris-03;4;enter
+2025-11-10T00:33:02;Souris-03;4;stay
+2025-11-10T00:33:02;Souris-06;5;leave
+2025-11-10T00:33:03;Souris-06;5;enter
+2025-11-10T00:33:03;Souris-07;2;leave
+2025-11-10T00:33:03;Souris-07;4;enter
+2025-11-10T00:33:04;Souris-07;4;stay
+2025-11-10T00:33:04;Souris-06;5;stay
+2025-11-10T00:33:04;Souris-02;2;leave
+2025-11-10T00:33:05;Souris-08;6;leave
+2025-11-10T00:33:05;Souris-08;5;enter
+2025-11-10T00:33:05;Souris-02;2;enter
+2025-11-10T00:33:05;Souris-08;5;stay
+2025-11-10T00:33:05;Souris-02;2;stay
+2025-11-10T00:33:06;Souris-03;4;leave
+2025-11-10T00:33:06;Souris-03;7;enter
+2025-11-10T00:33:07;Souris-03;7;stay
+2025-11-10T00:33:11;Souris-02;2;leave
+2025-11-10T00:33:11;Souris-02;0;enter
+2025-11-10T00:33:12;Souris-02;0;stay
+2025-11-10T00:33:12;Souris-05;3;leave
+2025-11-10T00:33:12;Souris-05;5;enter
+2025-11-10T00:33:12;Souris-06;5;leave
+2025-11-10T00:33:12;Souris-06;2;enter
+2025-11-10T00:33:12;Souris-05;5;stay
+2025-11-10T00:33:12;Souris-04;1;leave
+2025-11-10T00:33:12;Souris-04;2;enter
+2025-11-10T00:33:12;Souris-06;2;stay
+2025-11-10T00:33:12;Souris-01;0;leave
+2025-11-10T00:33:13;Souris-04;2;stay
+2025-11-10T00:33:13;Souris-01;6;enter
+2025-11-10T00:33:14;Souris-01;6;stay
+2025-11-10T00:33:15;Souris-08;5;leave
+2025-11-10T00:33:15;Souris-08;0;enter
+2025-11-10T00:33:16;Souris-08;0;stay
+2025-11-10T00:33:17;Souris-07;4;leave
+2025-11-10T00:33:17;Souris-07;6;enter
+2025-11-10T00:33:18;Souris-07;6;stay
+2025-11-10T00:33:20;Souris-03;7;leave
+2025-11-10T00:33:21;Souris-03;1;enter
+2025-11-10T00:33:22;Souris-03;1;leave
+2025-11-10T00:33:23;Souris-02;0;leave
+2025-11-10T00:33:23;Souris-02;5;enter
+2025-11-10T00:33:23;Souris-03;1;enter
+2025-11-10T00:33:23;Souris-03;1;stay
+2025-11-10T00:33:23;Souris-02;5;stay
+2025-11-10T00:33:25;Souris-05;5;leave
+2025-11-10T00:33:25;Souris-05;1;enter
+2025-11-10T00:33:25;Souris-04;2;leave
+2025-11-10T00:33:25;Souris-04;1;enter
+2025-11-10T00:33:25;Souris-04;1;stay
+2025-11-10T00:33:25;Souris-05;1;stay
+2025-11-10T00:33:27;Souris-06;2;leave
+2025-11-10T00:33:27;Souris-06;6;enter
+2025-11-10T00:33:27;Souris-06;6;stay
+2025-11-10T00:33:27;Souris-01;6;leave
+2025-11-10T00:33:27;Souris-01;7;enter
+2025-11-10T00:33:28;Souris-01;7;stay
+2025-11-10T00:33:28;Souris-08;0;leave
+2025-11-10T00:33:28;Souris-08;3;enter
+2025-11-10T00:33:28;Souris-08;3;stay
+2025-11-10T00:33:28;Souris-07;6;leave
+2025-11-10T00:33:29;Souris-07;4;enter
+2025-11-10T00:33:30;Souris-07;4;stay
+2025-11-10T00:33:30;Souris-06;6;leave
+2025-11-10T00:33:31;Souris-06;6;enter
+2025-11-10T00:33:32;Souris-06;6;stay
+2025-11-10T00:33:32;Souris-02;5;leave
+2025-11-10T00:33:33;Souris-02;5;enter
+2025-11-10T00:33:33;Souris-07;4;leave
+2025-11-10T00:33:33;Souris-07;4;enter
+2025-11-10T00:33:33;Souris-02;5;stay
+2025-11-10T00:33:34;Souris-07;4;stay
+2025-11-10T00:33:35;Souris-02;5;leave
+2025-11-10T00:33:35;Souris-02;1;enter
+2025-11-10T00:33:35;Souris-03;1;leave
+2025-11-10T00:33:36;Souris-02;1;stay
+2025-11-10T00:33:37;Souris-03;2;enter
+2025-11-10T00:33:37;Souris-03;2;leave
+2025-11-10T00:33:38;Souris-03;2;enter
+2025-11-10T00:33:38;Souris-03;2;stay
+2025-11-10T00:33:38;Souris-05;1;leave
+2025-11-10T00:33:38;Souris-05;2;enter
+2025-11-10T00:33:38;Souris-06;6;leave
+2025-11-10T00:33:38;Souris-06;0;enter
+2025-11-10T00:33:39;Souris-05;2;stay
+2025-11-10T00:33:39;Souris-06;0;stay
+2025-11-10T00:33:40;Souris-01;7;leave
+2025-11-10T00:33:40;Souris-01;3;enter
+2025-11-10T00:33:40;Souris-04;1;leave
+2025-11-10T00:33:40;Souris-04;4;enter
+2025-11-10T00:33:40;Souris-04;4;stay
+2025-11-10T00:33:40;Souris-01;3;stay
+2025-11-10T00:33:42;Souris-07;4;leave
+2025-11-10T00:33:42;Souris-07;3;enter
+2025-11-10T00:33:42;Souris-08;3;leave
+2025-11-10T00:33:42;Souris-08;7;enter
+2025-11-10T00:33:42;Souris-07;3;stay
+2025-11-10T00:33:43;Souris-08;7;stay
+2025-11-10T00:33:44;Souris-06;0;leave
+2025-11-10T00:33:44;Souris-01;3;leave
+2025-11-10T00:33:44;Souris-07;3;leave
+2025-11-10T00:33:45;Souris-06;0;enter
+2025-11-10T00:33:45;Souris-06;0;stay
+2025-11-10T00:33:45;Souris-01;3;enter
+2025-11-10T00:33:45;Souris-07;3;enter
+2025-11-10T00:33:46;Souris-01;3;stay
+2025-11-10T00:33:46;Souris-07;3;stay
+2025-11-10T00:33:46;Souris-06;0;leave
+2025-11-10T00:33:46;Souris-06;0;enter
+2025-11-10T00:33:46;Souris-01;3;leave
+2025-11-10T00:33:46;Souris-07;3;leave
+2025-11-10T00:33:47;Souris-06;0;stay
+2025-11-10T00:33:47;Souris-01;3;enter
+2025-11-10T00:33:47;Souris-07;3;enter
+2025-11-10T00:33:48;Souris-01;3;stay
+2025-11-10T00:33:48;Souris-07;3;stay
+2025-11-10T00:33:48;Souris-06;0;leave
+2025-11-10T00:33:48;Souris-05;2;leave
+2025-11-10T00:33:48;Souris-05;5;enter
+2025-11-10T00:33:48;Souris-06;0;enter
+2025-11-10T00:33:48;Souris-01;3;leave
+2025-11-10T00:33:48;Souris-07;3;leave
+2025-11-10T00:33:49;Souris-06;0;stay
+2025-11-10T00:33:49;Souris-01;3;enter
+2025-11-10T00:33:49;Souris-07;3;enter
+2025-11-10T00:33:49;Souris-05;5;stay
+2025-11-10T00:33:50;Souris-01;3;stay
+2025-11-10T00:33:50;Souris-07;3;stay
+2025-11-10T00:33:50;Souris-03;2;leave
+2025-11-10T00:33:50;Souris-03;7;enter
+2025-11-10T00:33:50;Souris-04;4;leave
+2025-11-10T00:33:50;Souris-03;7;stay
+2025-11-10T00:33:50;Souris-04;4;enter
+2025-11-10T00:33:51;Souris-02;1;leave
+2025-11-10T00:33:51;Souris-04;4;leave
+2025-11-10T00:33:51;Souris-02;4;enter
+2025-11-10T00:33:51;Souris-04;4;enter
+2025-11-10T00:33:52;Souris-02;4;stay
+2025-11-10T00:33:52;Souris-04;4;stay
+2025-11-10T00:33:53;Souris-06;0;leave
+2025-11-10T00:33:53;Souris-06;7;enter
+2025-11-10T00:33:53;Souris-07;3;leave
+2025-11-10T00:33:53;Souris-07;5;enter
+2025-11-10T00:33:53;Souris-06;7;stay
+2025-11-10T00:33:53;Souris-01;3;leave
+2025-11-10T00:33:53;Souris-01;6;enter
+2025-11-10T00:33:53;Souris-07;5;leave
+2025-11-10T00:33:53;Souris-05;5;leave
+2025-11-10T00:33:54;Souris-01;6;stay
+2025-11-10T00:33:55;Souris-05;5;enter
+2025-11-10T00:33:55;Souris-07;5;enter
+2025-11-10T00:33:55;Souris-04;4;leave
+2025-11-10T00:33:55;Souris-04;1;enter
+2025-11-10T00:33:55;Souris-05;5;stay
+2025-11-10T00:33:55;Souris-07;5;stay
+2025-11-10T00:33:55;Souris-04;1;stay
+2025-11-10T00:33:57;Souris-08;7;leave
+2025-11-10T00:33:57;Souris-08;5;enter
+2025-11-10T00:33:58;Souris-08;5;stay
+2025-11-10T00:34:02;Souris-03;7;leave
+2025-11-10T00:34:02;Souris-03;4;enter
+2025-11-10T00:34:02;Souris-05;5;leave
+2025-11-10T00:34:02;Souris-05;7;enter
+2025-11-10T00:34:02;Souris-07;5;leave
+2025-11-10T00:34:02;Souris-08;5;leave
+2025-11-10T00:34:03;Souris-05;7;stay
+2025-11-10T00:34:03;Souris-03;4;stay
+2025-11-10T00:34:03;Souris-06;7;leave
+2025-11-10T00:34:03;Souris-06;4;enter
+2025-11-10T00:34:03;Souris-07;5;enter
+2025-11-10T00:34:03;Souris-08;5;enter
+2025-11-10T00:34:04;Souris-06;4;stay
+2025-11-10T00:34:04;Souris-07;5;leave
+2025-11-10T00:34:04;Souris-08;5;leave
+2025-11-10T00:34:05;Souris-02;4;leave
+2025-11-10T00:34:05;Souris-02;7;enter
+2025-11-10T00:34:05;Souris-07;3;enter
+2025-11-10T00:34:05;Souris-08;5;enter
+2025-11-10T00:34:05;Souris-02;7;stay
+2025-11-10T00:34:05;Souris-07;3;stay
+2025-11-10T00:34:05;Souris-03;4;leave
+2025-11-10T00:34:05;Souris-06;4;leave
+2025-11-10T00:34:06;Souris-03;4;enter
+2025-11-10T00:34:06;Souris-06;4;enter
+2025-11-10T00:34:06;Souris-08;5;stay
+2025-11-10T00:34:06;Souris-03;4;stay
+2025-11-10T00:34:06;Souris-06;4;stay
+2025-11-10T00:34:07;Souris-04;1;leave
+2025-11-10T00:34:07;Souris-04;7;enter
+2025-11-10T00:34:08;Souris-01;6;leave
+2025-11-10T00:34:08;Souris-01;2;enter
+2025-11-10T00:34:08;Souris-04;7;stay
+2025-11-10T00:34:08;Souris-01;2;stay
+2025-11-10T00:34:09;Souris-08;5;leave
+2025-11-10T00:34:09;Souris-08;6;enter
+2025-11-10T00:34:10;Souris-08;6;stay
+2025-11-10T00:34:15;Souris-05;7;leave
+2025-11-10T00:34:15;Souris-05;3;enter
+2025-11-10T00:34:16;Souris-07;3;leave
+2025-11-10T00:34:16;Souris-07;6;enter
+2025-11-10T00:34:16;Souris-02;7;leave
+2025-11-10T00:34:16;Souris-02;1;enter
+2025-11-10T00:34:16;Souris-06;4;leave
+2025-11-10T00:34:16;Souris-06;1;enter
+2025-11-10T00:34:16;Souris-05;3;stay
+2025-11-10T00:34:16;Souris-07;6;stay
+2025-11-10T00:34:16;Souris-02;1;stay
+2025-11-10T00:34:16;Souris-06;1;stay
+2025-11-10T00:34:17;Souris-03;4;leave
+2025-11-10T00:34:17;Souris-03;6;enter
+2025-11-10T00:34:17;Souris-01;2;leave
+2025-11-10T00:34:18;Souris-03;6;stay
+2025-11-10T00:34:18;Souris-01;2;enter
+2025-11-10T00:34:18;Souris-01;2;stay
+2025-11-10T00:34:19;Souris-01;2;leave
+2025-11-10T00:34:19;Souris-04;7;leave
+2025-11-10T00:34:19;Souris-04;4;enter
+2025-11-10T00:34:19;Souris-01;2;enter
+2025-11-10T00:34:20;Souris-01;2;stay
+2025-11-10T00:34:20;Souris-04;4;stay
+2025-11-10T00:34:21;Souris-01;2;leave
+2025-11-10T00:34:21;Souris-01;2;enter
+2025-11-10T00:34:22;Souris-01;2;stay
+2025-11-10T00:34:23;Souris-01;2;leave
+2025-11-10T00:34:23;Souris-01;7;enter
+2025-11-10T00:34:24;Souris-01;7;stay
+2025-11-10T00:34:24;Souris-08;6;leave
+2025-11-10T00:34:24;Souris-08;0;enter
+2025-11-10T00:34:24;Souris-01;7;leave
+2025-11-10T00:34:25;Souris-01;7;enter
+2025-11-10T00:34:25;Souris-08;0;stay
+2025-11-10T00:34:26;Souris-01;7;stay
+2025-11-10T00:34:26;Souris-02;1;leave
+2025-11-10T00:34:26;Souris-02;3;enter
+2025-11-10T00:34:26;Souris-02;3;stay
+2025-11-10T00:34:26;Souris-08;0;leave
+2025-11-10T00:34:27;Souris-08;0;enter
+2025-11-10T00:34:28;Souris-08;0;stay
+2025-11-10T00:34:28;Souris-06;1;leave
+2025-11-10T00:34:28;Souris-06;6;enter
+2025-11-10T00:34:28;Souris-07;6;leave
+2025-11-10T00:34:28;Souris-07;2;enter
+2025-11-10T00:34:29;Souris-07;2;stay
+2025-11-10T00:34:29;Souris-06;6;stay
+2025-11-10T00:34:29;Souris-01;7;leave
+2025-11-10T00:34:29;Souris-05;3;leave
+2025-11-10T00:34:29;Souris-05;2;enter
+2025-11-10T00:34:29;Souris-01;7;enter
+2025-11-10T00:34:30;Souris-05;2;stay
+2025-11-10T00:34:30;Souris-01;7;stay
+2025-11-10T00:34:30;Souris-02;3;leave
+2025-11-10T00:34:31;Souris-02;3;enter
+2025-11-10T00:34:31;Souris-02;3;stay
+2025-11-10T00:34:31;Souris-03;6;leave
+2025-11-10T00:34:31;Souris-03;1;enter
+2025-11-10T00:34:32;Souris-03;1;stay
+2025-11-10T00:34:32;Souris-01;7;leave
+2025-11-10T00:34:33;Souris-01;7;enter
+2025-11-10T00:34:33;Souris-01;7;stay
+2025-11-10T00:34:33;Souris-02;3;leave
+2025-11-10T00:34:34;Souris-04;4;leave
+2025-11-10T00:34:34;Souris-04;0;enter
+2025-11-10T00:34:34;Souris-02;3;enter
+2025-11-10T00:34:34;Souris-04;0;stay
+2025-11-10T00:34:34;Souris-02;3;stay
+2025-11-10T00:34:35;Souris-08;0;leave
+2025-11-10T00:34:35;Souris-08;7;enter
+2025-11-10T00:34:36;Souris-08;7;stay
+2025-11-10T00:34:36;Souris-01;7;leave
+2025-11-10T00:34:36;Souris-01;2;enter
+2025-11-10T00:34:37;Souris-02;3;leave
+2025-11-10T00:34:37;Souris-02;4;enter
+2025-11-10T00:34:37;Souris-01;2;stay
+2025-11-10T00:34:37;Souris-02;4;stay
+2025-11-10T00:34:40;Souris-05;2;leave
+2025-11-10T00:34:40;Souris-05;4;enter
+2025-11-10T00:34:41;Souris-06;6;leave
+2025-11-10T00:34:41;Souris-06;3;enter
+2025-11-10T00:34:41;Souris-05;4;stay
+2025-11-10T00:34:41;Souris-07;2;leave
+2025-11-10T00:34:41;Souris-07;5;enter
+2025-11-10T00:34:41;Souris-04;0;leave
+2025-11-10T00:34:41;Souris-06;3;stay
+2025-11-10T00:34:41;Souris-07;5;stay
+2025-11-10T00:34:42;Souris-04;0;enter
+2025-11-10T00:34:42;Souris-04;0;stay
+2025-11-10T00:34:42;Souris-03;1;leave
+2025-11-10T00:34:42;Souris-03;3;enter
+2025-11-10T00:34:43;Souris-03;3;stay
+2025-11-10T00:34:44;Souris-04;0;leave
+2025-11-10T00:34:44;Souris-04;4;enter
+2025-11-10T00:34:45;Souris-04;4;stay
+2025-11-10T00:34:47;Souris-08;7;leave
+2025-11-10T00:34:47;Souris-08;0;enter
+2025-11-10T00:34:47;Souris-02;4;leave
+2025-11-10T00:34:47;Souris-04;4;leave
+2025-11-10T00:34:47;Souris-05;4;leave
+2025-11-10T00:34:47;Souris-08;0;stay
+2025-11-10T00:34:47;Souris-02;4;enter
+2025-11-10T00:34:47;Souris-04;4;enter
+2025-11-10T00:34:47;Souris-05;4;enter
+2025-11-10T00:34:48;Souris-02;4;stay
+2025-11-10T00:34:48;Souris-04;4;stay
+2025-11-10T00:34:48;Souris-05;4;stay
+2025-11-10T00:34:49;Souris-02;4;leave
+2025-11-10T00:34:49;Souris-04;4;leave
+2025-11-10T00:34:49;Souris-05;4;leave
+2025-11-10T00:34:49;Souris-01;2;leave
+2025-11-10T00:34:49;Souris-01;7;enter
+2025-11-10T00:34:50;Souris-02;4;enter
+2025-11-10T00:34:50;Souris-04;4;enter
+2025-11-10T00:34:50;Souris-05;4;enter
+2025-11-10T00:34:50;Souris-01;7;stay
+2025-11-10T00:34:51;Souris-02;4;stay
+2025-11-10T00:34:51;Souris-04;4;stay
+2025-11-10T00:34:51;Souris-05;4;stay
+2025-11-10T00:34:51;Souris-07;5;leave
+2025-11-10T00:34:51;Souris-07;6;enter
+2025-11-10T00:34:51;Souris-07;6;stay
+2025-11-10T00:34:51;Souris-01;7;leave
+2025-11-10T00:34:52;Souris-02;4;leave
+2025-11-10T00:34:52;Souris-02;3;enter
+2025-11-10T00:34:52;Souris-02;3;stay
+2025-11-10T00:34:52;Souris-01;7;enter
+2025-11-10T00:34:53;Souris-01;7;stay
+2025-11-10T00:34:54;Souris-03;3;leave
+2025-11-10T00:34:54;Souris-03;2;enter
+2025-11-10T00:34:54;Souris-01;7;leave
+2025-11-10T00:34:54;Souris-01;7;enter
+2025-11-10T00:34:54;Souris-03;2;stay
+2025-11-10T00:34:54;Souris-05;4;leave
+2025-11-10T00:34:54;Souris-05;5;enter
+2025-11-10T00:34:55;Souris-01;7;stay
+2025-11-10T00:34:55;Souris-05;5;stay
+2025-11-10T00:34:55;Souris-06;3;leave
+2025-11-10T00:34:55;Souris-06;5;enter
+2025-11-10T00:34:56;Souris-06;5;stay
+2025-11-10T00:34:56;Souris-07;6;leave
+2025-11-10T00:34:56;Souris-07;6;enter
+2025-11-10T00:34:57;Souris-07;6;stay
+2025-11-10T00:34:57;Souris-02;3;leave
+2025-11-10T00:34:57;Souris-08;0;leave
+2025-11-10T00:34:57;Souris-08;5;enter
+2025-11-10T00:34:57;Souris-07;6;leave
+2025-11-10T00:34:58;Souris-08;5;stay
+2025-11-10T00:34:58;Souris-02;3;enter
+2025-11-10T00:34:59;Souris-07;6;enter
+2025-11-10T00:34:59;Souris-02;3;stay
+2025-11-10T00:34:59;Souris-07;6;stay
+2025-11-10T00:34:59;Souris-04;4;leave
+2025-11-10T00:34:59;Souris-04;1;enter
+2025-11-10T00:35:00;Souris-04;1;stay
+2025-11-10T00:35:01;Souris-01;7;leave
+2025-11-10T00:35:01;Souris-01;2;enter
+2025-11-10T00:35:01;Souris-07;6;leave
+2025-11-10T00:35:01;Souris-07;2;enter
+2025-11-10T00:35:01;Souris-01;2;stay
+2025-11-10T00:35:01;Souris-07;2;stay
+2025-11-10T00:35:06;Souris-03;2;leave
+2025-11-10T00:35:06;Souris-03;7;enter
+2025-11-10T00:35:06;Souris-02;3;leave
+2025-11-10T00:35:06;Souris-02;2;enter
+2025-11-10T00:35:06;Souris-03;7;stay
+2025-11-10T00:35:07;Souris-02;2;stay
+2025-11-10T00:35:07;Souris-05;5;leave
+2025-11-10T00:35:07;Souris-05;4;enter
+2025-11-10T00:35:08;Souris-06;5;leave
+2025-11-10T00:35:08;Souris-06;7;enter
+2025-11-10T00:35:08;Souris-05;4;stay
+2025-11-10T00:35:09;Souris-08;5;leave
+2025-11-10T00:35:09;Souris-08;6;enter
+2025-11-10T00:35:09;Souris-06;7;stay
+2025-11-10T00:35:09;Souris-08;6;stay
+2025-11-10T00:35:09;Souris-04;1;leave
+2025-11-10T00:35:09;Souris-04;7;enter
+2025-11-10T00:35:10;Souris-04;7;stay
+2025-11-10T00:35:12;Souris-01;2;leave
+2025-11-10T00:35:13;Souris-01;3;enter
+2025-11-10T00:35:13;Souris-07;2;leave
+2025-11-10T00:35:13;Souris-07;3;enter
+2025-11-10T00:35:14;Souris-01;3;stay
+2025-11-10T00:35:14;Souris-07;3;stay
+2025-11-10T00:35:19;Souris-05;4;leave
+2025-11-10T00:35:19;Souris-05;3;enter
+2025-11-10T00:35:19;Souris-02;2;leave
+2025-11-10T00:35:19;Souris-02;6;enter
+2025-11-10T00:35:19;Souris-05;3;stay
+2025-11-10T00:35:20;Souris-02;6;stay
+2025-11-10T00:35:20;Souris-03;7;leave
+2025-11-10T00:35:20;Souris-03;2;enter
+2025-11-10T00:35:20;Souris-08;6;leave
+2025-11-10T00:35:20;Souris-08;1;enter
+2025-11-10T00:35:20;Souris-03;2;stay
+2025-11-10T00:35:21;Souris-08;1;stay
+2025-11-10T00:35:23;Souris-06;7;leave
+2025-11-10T00:35:23;Souris-06;4;enter
+2025-11-10T00:35:24;Souris-06;4;stay
+2025-11-10T00:35:24;Souris-01;3;leave
+2025-11-10T00:35:24;Souris-01;5;enter
+2025-11-10T00:35:24;Souris-04;7;leave
+2025-11-10T00:35:24;Souris-04;6;enter
+2025-11-10T00:35:24;Souris-01;5;stay
+2025-11-10T00:35:24;Souris-04;6;stay
+2025-11-10T00:35:25;Souris-06;4;leave
+2025-11-10T00:35:25;Souris-07;3;leave
+2025-11-10T00:35:25;Souris-07;6;enter
+2025-11-10T00:35:25;Souris-06;4;enter
+2025-11-10T00:35:26;Souris-06;4;stay
+2025-11-10T00:35:26;Souris-07;6;stay
+2025-11-10T00:35:30;Souris-05;3;leave
+2025-11-10T00:35:30;Souris-05;7;enter
+2025-11-10T00:35:30;Souris-05;7;stay
+2025-11-10T00:35:32;Souris-03;2;leave
+2025-11-10T00:35:32;Souris-03;0;enter
+2025-11-10T00:35:32;Souris-08;1;leave
+2025-11-10T00:35:32;Souris-08;0;enter
+2025-11-10T00:35:33;Souris-03;0;stay
+2025-11-10T00:35:33;Souris-08;0;stay
+2025-11-10T00:35:33;Souris-02;6;leave
+2025-11-10T00:35:33;Souris-02;0;enter
+2025-11-10T00:35:34;Souris-02;0;stay
+2025-11-10T00:35:35;Souris-01;5;leave
+2025-11-10T00:35:35;Souris-01;7;enter
+2025-11-10T00:35:35;Souris-04;6;leave
+2025-11-10T00:35:35;Souris-04;2;enter
+2025-11-10T00:35:36;Souris-04;2;stay
+2025-11-10T00:35:36;Souris-01;7;stay
+2025-11-10T00:35:38;Souris-06;4;leave
+2025-11-10T00:35:38;Souris-06;2;enter
+2025-11-10T00:35:38;Souris-06;2;stay
+2025-11-10T00:35:40;Souris-07;6;leave
+2025-11-10T00:35:40;Souris-07;3;enter
+2025-11-10T00:35:40;Souris-05;7;leave
+2025-11-10T00:35:40;Souris-05;5;enter
+2025-11-10T00:35:40;Souris-07;3;stay
+2025-11-10T00:35:41;Souris-05;5;stay
+2025-11-10T00:35:43;Souris-08;0;leave
+2025-11-10T00:35:43;Souris-08;6;enter
+2025-11-10T00:35:44;Souris-08;6;stay
+2025-11-10T00:35:45;Souris-02;0;leave
+2025-11-10T00:35:45;Souris-02;1;enter
+2025-11-10T00:35:45;Souris-01;7;leave
+2025-11-10T00:35:45;Souris-01;4;enter
+2025-11-10T00:35:46;Souris-02;1;stay
+2025-11-10T00:35:46;Souris-01;4;stay
+2025-11-10T00:35:46;Souris-03;0;leave
+2025-11-10T00:35:46;Souris-03;7;enter
+2025-11-10T00:35:47;Souris-03;7;stay
+2025-11-10T00:35:49;Souris-06;2;leave
+2025-11-10T00:35:49;Souris-06;0;enter
+2025-11-10T00:35:50;Souris-06;0;stay
+2025-11-10T00:35:50;Souris-04;2;leave
+2025-11-10T00:35:50;Souris-04;4;enter
+2025-11-10T00:35:50;Souris-05;5;leave
+2025-11-10T00:35:50;Souris-05;3;enter
+2025-11-10T00:35:50;Souris-04;4;stay
+2025-11-10T00:35:51;Souris-05;3;stay
+2025-11-10T00:35:53;Souris-07;3;leave
+2025-11-10T00:35:53;Souris-07;2;enter
+2025-11-10T00:35:54;Souris-07;2;stay
+2025-11-10T00:35:55;Souris-02;1;leave
+2025-11-10T00:35:55;Souris-02;1;enter
+2025-11-10T00:35:56;Souris-02;1;stay
+2025-11-10T00:35:56;Souris-06;0;leave
+2025-11-10T00:35:56;Souris-06;0;enter
+2025-11-10T00:35:57;Souris-06;0;stay
+2025-11-10T00:35:57;Souris-08;6;leave
+2025-11-10T00:35:57;Souris-08;0;enter
+2025-11-10T00:35:58;Souris-08;0;stay
+2025-11-10T00:35:58;Souris-03;7;leave
+2025-11-10T00:35:58;Souris-03;3;enter
+2025-11-10T00:35:59;Souris-01;4;leave
+2025-11-10T00:35:59;Souris-01;2;enter
+2025-11-10T00:35:59;Souris-03;3;stay
+2025-11-10T00:35:59;Souris-02;1;leave
+2025-11-10T00:35:59;Souris-02;5;enter
+2025-11-10T00:36:00;Souris-01;2;stay
+2025-11-10T00:36:00;Souris-02;5;stay
+2025-11-10T00:36:00;Souris-06;0;leave
+2025-11-10T00:36:00;Souris-06;6;enter
+2025-11-10T00:36:00;Souris-02;5;leave
+2025-11-10T00:36:01;Souris-02;5;enter
+2025-11-10T00:36:01;Souris-06;6;stay
+2025-11-10T00:36:01;Souris-02;5;stay
+2025-11-10T00:36:01;Souris-04;4;leave
+2025-11-10T00:36:02;Souris-04;1;enter
+2025-11-10T00:36:03;Souris-04;1;stay
+2025-11-10T00:36:03;Souris-05;3;leave
+2025-11-10T00:36:03;Souris-05;1;enter
+2025-11-10T00:36:04;Souris-05;1;stay
+2025-11-10T00:36:04;Souris-01;2;leave
+2025-11-10T00:36:04;Souris-07;2;leave
+2025-11-10T00:36:05;Souris-01;2;enter
+2025-11-10T00:36:05;Souris-07;2;enter
+2025-11-10T00:36:05;Souris-01;2;stay
+2025-11-10T00:36:05;Souris-07;2;stay
+2025-11-10T00:36:08;Souris-07;2;leave
+2025-11-10T00:36:08;Souris-07;4;enter
+2025-11-10T00:36:09;Souris-03;3;leave
+2025-11-10T00:36:09;Souris-03;4;enter
+2025-11-10T00:36:09;Souris-07;4;stay
+2025-11-10T00:36:09;Souris-01;2;leave
+2025-11-10T00:36:09;Souris-01;0;enter
+2025-11-10T00:36:09;Souris-08;0;leave
+2025-11-10T00:36:09;Souris-08;5;enter
+2025-11-10T00:36:10;Souris-03;4;stay
+2025-11-10T00:36:10;Souris-08;5;stay
+2025-11-10T00:36:10;Souris-01;0;stay
+2025-11-10T00:36:11;Souris-06;6;leave
+2025-11-10T00:36:11;Souris-06;0;enter
+2025-11-10T00:36:11;Souris-02;5;leave
+2025-11-10T00:36:11;Souris-02;7;enter
+2025-11-10T00:36:12;Souris-06;0;leave
+2025-11-10T00:36:12;Souris-02;7;leave
+2025-11-10T00:36:12;Souris-01;0;leave
+2025-11-10T00:36:12;Souris-04;1;leave
+2025-11-10T00:36:12;Souris-05;1;leave
+2025-11-10T00:36:12;Souris-08;5;leave
+2025-11-10T00:36:12;Souris-08;5;enter
+2025-11-10T00:36:12;Souris-02;7;enter
+2025-11-10T00:36:12;Souris-01;0;enter
+2025-11-10T00:36:12;Souris-06;0;enter
+2025-11-10T00:36:12;Souris-04;1;enter
+2025-11-10T00:36:12;Souris-05;1;enter
+2025-11-10T00:36:13;Souris-05;1;stay
+2025-11-10T00:36:13;Souris-04;1;leave
+2025-11-10T00:36:13;Souris-04;2;enter
+2025-11-10T00:36:13;Souris-02;7;stay
+2025-11-10T00:36:13;Souris-01;0;stay
+2025-11-10T00:36:13;Souris-06;0;stay
+2025-11-10T00:36:13;Souris-08;5;stay
+2025-11-10T00:36:13;Souris-04;2;stay
+2025-11-10T00:36:13;Souris-05;1;leave
+2025-11-10T00:36:13;Souris-05;2;enter
+2025-11-10T00:36:14;Souris-05;2;stay
+2025-11-10T00:36:20;Souris-03;4;leave
+2025-11-10T00:36:20;Souris-03;7;enter
+2025-11-10T00:36:20;Souris-01;0;leave
+2025-11-10T00:36:20;Souris-01;5;enter
+2025-11-10T00:36:20;Souris-08;5;leave
+2025-11-10T00:36:20;Souris-08;1;enter
+2025-11-10T00:36:20;Souris-07;4;leave
+2025-11-10T00:36:20;Souris-07;7;enter
+2025-11-10T00:36:20;Souris-06;0;leave
+2025-11-10T00:36:21;Souris-01;5;stay
+2025-11-10T00:36:21;Souris-03;7;stay
+2025-11-10T00:36:21;Souris-07;7;stay
+2025-11-10T00:36:21;Souris-06;0;enter
+2025-11-10T00:36:21;Souris-08;1;stay
+2025-11-10T00:36:22;Souris-06;0;stay
+2025-11-10T00:36:23;Souris-06;0;leave
+2025-11-10T00:36:23;Souris-04;2;leave
+2025-11-10T00:36:23;Souris-04;3;enter
+2025-11-10T00:36:24;Souris-06;1;enter
+2025-11-10T00:36:24;Souris-02;7;leave
+2025-11-10T00:36:24;Souris-02;3;enter
+2025-11-10T00:36:24;Souris-04;3;stay
+2025-11-10T00:36:25;Souris-06;1;stay
+2025-11-10T00:36:25;Souris-02;3;stay
+2025-11-10T00:36:26;Souris-05;2;leave
+2025-11-10T00:36:26;Souris-05;2;enter
+2025-11-10T00:36:27;Souris-05;2;stay
+2025-11-10T00:36:28;Souris-05;2;leave
+2025-11-10T00:36:28;Souris-05;0;enter
+2025-11-10T00:36:28;Souris-05;0;leave
+2025-11-10T00:36:29;Souris-05;0;enter
+2025-11-10T00:36:30;Souris-01;5;leave
+2025-11-10T00:36:30;Souris-01;1;enter
+2025-11-10T00:36:30;Souris-05;0;stay
+2025-11-10T00:36:30;Souris-01;1;stay
+2025-11-10T00:36:31;Souris-05;0;leave
+2025-11-10T00:36:31;Souris-05;0;enter
+2025-11-10T00:36:32;Souris-03;7;leave
+2025-11-10T00:36:32;Souris-03;4;enter
+2025-11-10T00:36:32;Souris-05;0;stay
+2025-11-10T00:36:33;Souris-03;4;stay
+2025-11-10T00:36:33;Souris-07;7;leave
+2025-11-10T00:36:33;Souris-07;6;enter
+2025-11-10T00:36:33;Souris-08;1;leave
+2025-11-10T00:36:33;Souris-08;0;enter
+2025-11-10T00:36:33;Souris-07;6;stay
+2025-11-10T00:36:34;Souris-08;0;stay
+2025-11-10T00:36:36;Souris-06;1;leave
+2025-11-10T00:36:36;Souris-06;0;enter
+2025-11-10T00:36:36;Souris-04;3;leave
+2025-11-10T00:36:36;Souris-04;5;enter
+2025-11-10T00:36:36;Souris-06;0;stay
+2025-11-10T00:36:36;Souris-04;5;stay
+2025-11-10T00:36:38;Souris-03;4;leave
+2025-11-10T00:36:38;Souris-03;4;enter
+2025-11-10T00:36:38;Souris-02;3;leave
+2025-11-10T00:36:38;Souris-02;1;enter
+2025-11-10T00:36:39;Souris-03;4;stay
+2025-11-10T00:36:39;Souris-02;1;stay
+2025-11-10T00:36:39;Souris-04;5;leave
+2025-11-10T00:36:40;Souris-04;5;enter
+2025-11-10T00:36:40;Souris-04;5;stay
+2025-11-10T00:36:43;Souris-05;0;leave
+2025-11-10T00:36:43;Souris-05;4;enter
+2025-11-10T00:36:43;Souris-04;5;leave
+2025-11-10T00:36:43;Souris-03;4;leave
+2025-11-10T00:36:43;Souris-03;0;enter
+2025-11-10T00:36:43;Souris-05;4;stay
+2025-11-10T00:36:43;Souris-01;1;leave
+2025-11-10T00:36:43;Souris-01;7;enter
+2025-11-10T00:36:43;Souris-04;5;enter
+2025-11-10T00:36:44;Souris-04;5;stay
+2025-11-10T00:36:44;Souris-01;7;stay
+2025-11-10T00:36:44;Souris-03;0;stay
+2025-11-10T00:36:45;Souris-04;5;leave
+2025-11-10T00:36:45;Souris-04;5;enter
+2025-11-10T00:36:46;Souris-06;0;leave
+2025-11-10T00:36:46;Souris-06;5;enter
+2025-11-10T00:36:46;Souris-04;5;stay
+2025-11-10T00:36:46;Souris-06;5;stay
+2025-11-10T00:36:47;Souris-08;0;leave
+2025-11-10T00:36:47;Souris-08;7;enter
+2025-11-10T00:36:47;Souris-07;6;leave
+2025-11-10T00:36:47;Souris-07;4;enter
+2025-11-10T00:36:47;Souris-03;0;leave
+2025-11-10T00:36:48;Souris-08;7;stay
+2025-11-10T00:36:48;Souris-03;0;enter
+2025-11-10T00:36:48;Souris-07;4;stay
+2025-11-10T00:36:48;Souris-03;0;stay
+2025-11-10T00:36:49;Souris-03;0;leave
+2025-11-10T00:36:50;Souris-04;5;leave
+2025-11-10T00:36:50;Souris-04;3;enter
+2025-11-10T00:36:50;Souris-03;0;enter
+2025-11-10T00:36:51;Souris-03;0;stay
+2025-11-10T00:36:51;Souris-04;3;stay
+2025-11-10T00:36:52;Souris-02;1;leave
+2025-11-10T00:36:52;Souris-02;3;enter
+2025-11-10T00:36:53;Souris-05;4;leave
+2025-11-10T00:36:53;Souris-05;2;enter
+2025-11-10T00:36:53;Souris-02;3;stay
+2025-11-10T00:36:53;Souris-05;2;stay
+2025-11-10T00:36:57;Souris-03;0;leave
+2025-11-10T00:36:57;Souris-03;3;enter
+2025-11-10T00:36:57;Souris-08;7;leave
+2025-11-10T00:36:57;Souris-08;2;enter
+2025-11-10T00:36:57;Souris-07;4;leave
+2025-11-10T00:36:57;Souris-07;6;enter
+2025-11-10T00:36:57;Souris-01;7;leave
+2025-11-10T00:36:57;Souris-01;1;enter
+2025-11-10T00:36:58;Souris-01;1;stay
+2025-11-10T00:36:58;Souris-08;2;stay
+2025-11-10T00:36:58;Souris-03;3;stay
+2025-11-10T00:36:58;Souris-07;6;stay
+2025-11-10T00:36:58;Souris-06;5;leave
+2025-11-10T00:36:58;Souris-06;7;enter
+2025-11-10T00:36:58;Souris-06;7;stay
+2025-11-10T00:37:04;Souris-04;3;leave
+2025-11-10T00:37:04;Souris-04;4;enter
+2025-11-10T00:37:04;Souris-05;2;leave
+2025-11-10T00:37:04;Souris-05;4;enter
+2025-11-10T00:37:04;Souris-04;4;stay
+2025-11-10T00:37:04;Souris-05;4;stay
+2025-11-10T00:37:05;Souris-02;3;leave
+2025-11-10T00:37:05;Souris-02;6;enter
+2025-11-10T00:37:05;Souris-08;2;leave
+2025-11-10T00:37:06;Souris-08;2;enter
+2025-11-10T00:37:06;Souris-02;6;stay
+2025-11-10T00:37:06;Souris-08;2;stay
+2025-11-10T00:37:08;Souris-03;3;leave
+2025-11-10T00:37:08;Souris-03;5;enter
+2025-11-10T00:37:08;Souris-03;5;stay
+2025-11-10T00:37:09;Souris-06;7;leave
+2025-11-10T00:37:09;Souris-06;3;enter
+2025-11-10T00:37:09;Souris-08;2;leave
+2025-11-10T00:37:09;Souris-08;5;enter
+2025-11-10T00:37:10;Souris-01;1;leave
+2025-11-10T00:37:10;Souris-01;4;enter
+2025-11-10T00:37:10;Souris-06;3;stay
+2025-11-10T00:37:10;Souris-03;5;leave
+2025-11-10T00:37:10;Souris-08;5;leave
+2025-11-10T00:37:11;Souris-01;4;stay
+2025-11-10T00:37:11;Souris-03;5;enter
+2025-11-10T00:37:11;Souris-08;5;enter
+2025-11-10T00:37:11;Souris-03;5;stay
+2025-11-10T00:37:11;Souris-08;5;stay
+2025-11-10T00:37:12;Souris-07;6;leave
+2025-11-10T00:37:12;Souris-07;1;enter
+2025-11-10T00:37:13;Souris-07;1;stay
+2025-11-10T00:37:13;Souris-03;5;leave
+2025-11-10T00:37:13;Souris-08;5;leave
+2025-11-10T00:37:13;Souris-03;5;enter
+2025-11-10T00:37:13;Souris-08;5;enter
+2025-11-10T00:37:14;Souris-03;5;leave
+2025-11-10T00:37:14;Souris-08;5;leave
+2025-11-10T00:37:15;Souris-03;5;enter
+2025-11-10T00:37:15;Souris-04;4;leave
+2025-11-10T00:37:15;Souris-04;5;enter
+2025-11-10T00:37:15;Souris-08;5;enter
+2025-11-10T00:37:16;Souris-05;4;leave
+2025-11-10T00:37:16;Souris-05;1;enter
+2025-11-10T00:37:16;Souris-03;5;stay
+2025-11-10T00:37:16;Souris-04;5;stay
+2025-11-10T00:37:16;Souris-08;5;stay
+2025-11-10T00:37:16;Souris-05;1;stay
+2025-11-10T00:37:18;Souris-03;5;leave
+2025-11-10T00:37:18;Souris-03;3;enter
+2025-11-10T00:37:19;Souris-02;6;leave
+2025-11-10T00:37:19;Souris-02;2;enter
+2025-11-10T00:37:19;Souris-03;3;stay
+2025-11-10T00:37:19;Souris-02;2;stay
+2025-11-10T00:37:20;Souris-08;5;leave
+2025-11-10T00:37:21;Souris-08;3;enter
+2025-11-10T00:37:21;Souris-02;2;leave
+2025-11-10T00:37:21;Souris-08;3;stay
+2025-11-10T00:37:22;Souris-01;4;leave
+2025-11-10T00:37:22;Souris-01;5;enter
+2025-11-10T00:37:22;Souris-02;2;enter
+2025-11-10T00:37:23;Souris-01;5;stay
+2025-11-10T00:37:23;Souris-02;2;stay
+2025-11-10T00:37:23;Souris-06;3;leave
+2025-11-10T00:37:23;Souris-06;7;enter
+2025-11-10T00:37:23;Souris-06;7;stay
+2025-11-10T00:37:24;Souris-07;1;leave
+2025-11-10T00:37:24;Souris-07;6;enter
+2025-11-10T00:37:24;Souris-07;6;stay
+2025-11-10T00:37:26;Souris-01;5;leave
+2025-11-10T00:37:26;Souris-04;5;leave
+2025-11-10T00:37:33;Souris-01;3;enter
+2025-11-10T00:37:33;Souris-03;3;leave
+2025-11-10T00:37:33;Souris-08;3;leave
+2025-11-10T00:37:33;Souris-07;6;leave
+2025-11-10T00:37:33;Souris-06;7;leave
+2025-11-10T00:37:33;Souris-05;1;leave
+2025-11-10T00:37:33;Souris-02;2;leave
+2025-11-10T00:37:34;Souris-04;4;enter
+2025-11-10T00:37:34;Souris-07;6;enter
+2025-11-10T00:37:34;Souris-02;0;enter
+2025-11-10T00:37:34;Souris-03;1;enter
+2025-11-10T00:37:34;Souris-01;3;stay
+2025-11-10T00:37:34;Souris-06;7;enter
+2025-11-10T00:37:34;Souris-05;5;enter
+2025-11-10T00:37:34;Souris-08;5;enter
+2025-11-10T00:37:34;Souris-04;4;stay
+2025-11-10T00:37:34;Souris-05;5;stay
+2025-11-10T00:37:34;Souris-08;5;stay
+2025-11-10T00:37:34;Souris-06;7;stay
+2025-11-10T00:37:34;Souris-02;0;stay
+2025-11-10T00:37:34;Souris-03;1;stay
+2025-11-10T00:37:34;Souris-07;6;stay
+2025-11-10T00:37:35;Souris-03;1;leave
+2025-11-10T00:37:35;Souris-03;0;enter
+2025-11-10T00:37:35;Souris-03;0;leave
+2025-11-10T00:37:35;Souris-03;1;enter
+2025-11-10T00:37:35;Souris-07;6;leave
+2025-11-10T00:37:35;Souris-07;4;enter
+2025-11-10T00:37:36;Souris-07;4;stay
+2025-11-10T00:37:36;Souris-03;1;stay
+2025-11-10T00:37:37;Souris-06;7;leave
+2025-11-10T00:37:37;Souris-06;5;enter
+2025-11-10T00:37:38;Souris-06;5;stay
+2025-11-10T00:37:38;Souris-04;4;leave
+2025-11-10T00:37:38;Souris-04;7;enter
+2025-11-10T00:37:39;Souris-04;7;stay
+2025-11-10T00:37:41;Souris-03;1;leave
+2025-11-10T00:37:41;Souris-03;3;enter
+2025-11-10T00:37:42;Souris-03;3;stay
+2025-11-10T00:37:42;Souris-05;5;leave
+2025-11-10T00:37:42;Souris-05;3;enter
+2025-11-10T00:37:42;Souris-05;3;stay
+2025-11-10T00:37:43;Souris-02;0;leave
+2025-11-10T00:37:43;Souris-02;4;enter
+2025-11-10T00:37:44;Souris-02;4;stay
+2025-11-10T00:37:44;Souris-02;4;leave
+2025-11-10T00:37:44;Souris-07;4;leave
+2025-11-10T00:37:45;Souris-02;4;enter
+2025-11-10T00:37:45;Souris-07;4;enter
+2025-11-10T00:37:45;Souris-06;5;leave
+2025-11-10T00:37:45;Souris-08;5;leave
+2025-11-10T00:37:46;Souris-07;4;leave
+2025-11-10T00:37:46;Souris-07;2;enter
+2025-11-10T00:37:46;Souris-06;5;enter
+2025-11-10T00:37:46;Souris-08;1;enter
+2025-11-10T00:37:46;Souris-02;4;stay
+2025-11-10T00:37:47;Souris-08;1;stay
+2025-11-10T00:37:47;Souris-07;2;stay
+2025-11-10T00:37:47;Souris-06;5;stay
+2025-11-10T00:37:47;Souris-01;3;leave
+2025-11-10T00:37:47;Souris-01;0;enter
+2025-11-10T00:37:48;Souris-01;0;stay
+2025-11-10T00:37:48;Souris-06;5;leave
+2025-11-10T00:37:48;Souris-06;4;enter
+2025-11-10T00:37:49;Souris-06;4;stay
+2025-11-10T00:37:50;Souris-01;0;leave
+2025-11-10T00:37:50;Souris-01;0;enter
+2025-11-10T00:37:50;Souris-04;7;leave
+2025-11-10T00:37:50;Souris-04;5;enter
+2025-11-10T00:37:51;Souris-01;0;stay
+2025-11-10T00:37:51;Souris-04;5;stay
+2025-11-10T00:37:53;Souris-03;3;leave
+2025-11-10T00:37:53;Souris-03;4;enter
+2025-11-10T00:37:54;Souris-03;4;stay
+2025-11-10T00:37:55;Souris-02;4;leave
+2025-11-10T00:37:55;Souris-02;5;enter
+2025-11-10T00:37:55;Souris-05;3;leave
+2025-11-10T00:37:55;Souris-05;2;enter
+2025-11-10T00:37:55;Souris-02;5;stay
+2025-11-10T00:37:56;Souris-05;2;leave
+2025-11-10T00:37:56;Souris-05;3;enter
+2025-11-10T00:37:57;Souris-05;3;leave
+2025-11-10T00:37:57;Souris-05;0;enter
+2025-11-10T00:37:57;Souris-08;1;leave
+2025-11-10T00:37:57;Souris-08;3;enter
+2025-11-10T00:37:57;Souris-08;3;stay
+2025-11-10T00:37:57;Souris-05;0;stay
+2025-11-10T00:37:58;Souris-06;4;leave
+2025-11-10T00:37:58;Souris-06;6;enter
+2025-11-10T00:37:59;Souris-06;6;stay
+2025-11-10T00:37:59;Souris-07;2;leave
+2025-11-10T00:37:59;Souris-07;0;enter
+2025-11-10T00:38:00;Souris-01;0;leave
+2025-11-10T00:38:00;Souris-01;2;enter
+2025-11-10T00:38:00;Souris-07;0;stay
+2025-11-10T00:38:00;Souris-01;2;stay
+2025-11-10T00:38:02;Souris-04;5;leave
+2025-11-10T00:38:02;Souris-04;2;enter
+2025-11-10T00:38:02;Souris-04;2;stay
+2025-11-10T00:38:07;Souris-03;4;leave
+2025-11-10T00:38:07;Souris-03;2;enter
+2025-11-10T00:38:07;Souris-02;5;leave
+2025-11-10T00:38:07;Souris-02;6;enter
+2025-11-10T00:38:07;Souris-03;2;stay
+2025-11-10T00:38:07;Souris-02;6;stay
+2025-11-10T00:38:07;Souris-05;0;leave
+2025-11-10T00:38:07;Souris-05;7;enter
+2025-11-10T00:38:08;Souris-05;7;leave
+2025-11-10T00:38:08;Souris-05;7;enter
+2025-11-10T00:38:09;Souris-05;7;stay
+2025-11-10T00:38:10;Souris-06;6;leave
+2025-11-10T00:38:10;Souris-06;7;enter
+2025-11-10T00:38:10;Souris-08;3;leave
+2025-11-10T00:38:10;Souris-08;0;enter
+2025-11-10T00:38:11;Souris-06;7;stay
+2025-11-10T00:38:11;Souris-08;0;stay
+2025-11-10T00:38:12;Souris-07;0;leave
+2025-11-10T00:38:12;Souris-07;6;enter
+2025-11-10T00:38:12;Souris-07;6;stay
+2025-11-10T00:38:12;Souris-05;7;leave
+2025-11-10T00:38:12;Souris-06;7;leave
+2025-11-10T00:38:13;Souris-05;7;enter
+2025-11-10T00:38:13;Souris-06;7;enter
+2025-11-10T00:38:13;Souris-04;2;leave
+2025-11-10T00:38:13;Souris-04;5;enter
+2025-11-10T00:38:13;Souris-05;7;stay
+2025-11-10T00:38:13;Souris-06;7;stay
+2025-11-10T00:38:14;Souris-01;2;leave
+2025-11-10T00:38:14;Souris-01;3;enter
+2025-11-10T00:38:14;Souris-04;5;stay
+2025-11-10T00:38:15;Souris-01;3;stay
+2025-11-10T00:38:17;Souris-05;7;leave
+2025-11-10T00:38:17;Souris-05;2;enter
+2025-11-10T00:38:18;Souris-03;2;leave
+2025-11-10T00:38:18;Souris-03;4;enter
+2025-11-10T00:38:18;Souris-05;2;stay
+2025-11-10T00:38:18;Souris-03;4;stay
+2025-11-10T00:38:18;Souris-02;6;leave
+2025-11-10T00:38:18;Souris-02;1;enter
+2025-11-10T00:38:19;Souris-02;1;stay
+2025-11-10T00:38:21;Souris-08;0;leave
+2025-11-10T00:38:21;Souris-08;1;enter
+2025-11-10T00:38:22;Souris-08;1;stay
+2025-11-10T00:38:25;Souris-01;3;leave
+2025-11-10T00:38:25;Souris-01;4;enter
+2025-11-10T00:38:25;Souris-06;7;leave
+2025-11-10T00:38:25;Souris-06;1;enter
+2025-11-10T00:38:25;Souris-07;6;leave
+2025-11-10T00:38:25;Souris-07;2;enter
+2025-11-10T00:38:25;Souris-01;4;stay
+2025-11-10T00:38:26;Souris-06;1;stay
+2025-11-10T00:38:26;Souris-07;2;stay
+2025-11-10T00:38:27;Souris-05;2;leave
+2025-11-10T00:38:27;Souris-07;2;leave
+2025-11-10T02:51:32;Souris-01;0;enter
+2025-11-10T02:51:43;Souris-02;1;enter
+2025-11-10T02:51:43;Souris-05;1;enter
+2025-11-10T02:51:43;Souris-01;0;leave
+2025-11-10T02:51:43;Souris-04;3;enter
+2025-11-10T02:51:43;Souris-06;3;enter
+2025-11-10T02:51:43;Souris-08;5;enter
+2025-11-10T02:51:43;Souris-03;6;enter
+2025-11-10T02:51:43;Souris-01;0;enter
+2025-11-10T02:51:43;Souris-02;1;stay
+2025-11-10T02:51:43;Souris-05;1;stay
+2025-11-10T02:51:43;Souris-07;2;enter
+2025-11-10T02:51:44;Souris-01;0;stay
+2025-11-10T02:51:44;Souris-07;2;stay
+2025-11-10T02:51:44;Souris-04;3;leave
+2025-11-10T02:51:44;Souris-04;1;enter
+2025-11-10T02:51:44;Souris-06;3;stay
+2025-11-10T02:51:44;Souris-08;5;stay
+2025-11-10T02:51:44;Souris-03;6;stay
+2025-11-10T02:51:44;Souris-02;1;leave
+2025-11-10T02:51:44;Souris-02;4;enter
+2025-11-10T02:51:45;Souris-04;1;stay
+2025-11-10T02:51:45;Souris-02;4;stay
+2025-11-10T02:51:45;Souris-01;0;leave
+2025-11-10T02:51:45;Souris-01;1;enter
+2025-11-10T02:51:46;Souris-01;1;stay
+2025-11-10T02:51:47;Souris-08;5;leave
+2025-11-10T02:51:48;Souris-08;5;enter
+2025-11-10T02:51:48;Souris-08;5;stay
+2025-11-10T02:51:48;Souris-07;2;leave
+2025-11-10T02:51:49;Souris-08;5;leave
+2025-11-10T02:51:50;Souris-08;5;enter
+2025-11-10T02:51:50;Souris-07;2;enter
+2025-11-10T02:51:50;Souris-08;5;stay
+2025-11-10T02:51:50;Souris-07;2;leave
+2025-11-10T02:51:51;Souris-05;1;leave
+2025-11-10T02:51:51;Souris-05;2;enter
+2025-11-10T02:51:51;Souris-07;2;enter
+2025-11-10T02:51:52;Souris-06;3;leave
+2025-11-10T02:51:52;Souris-06;7;enter
+2025-11-10T02:51:52;Souris-05;2;stay
+2025-11-10T02:51:52;Souris-07;2;stay
+2025-11-10T02:51:53;Souris-06;7;stay
+2025-11-10T02:51:53;Souris-07;2;leave
+2025-11-10T02:51:53;Souris-07;6;enter
+2025-11-10T02:51:54;Souris-07;6;stay
+2025-11-10T02:51:55;Souris-03;6;leave
+2025-11-10T02:51:55;Souris-03;5;enter
+2025-11-10T02:51:55;Souris-03;5;stay
+2025-11-10T02:51:56;Souris-08;5;leave
+2025-11-10T02:51:56;Souris-08;1;enter
+2025-11-10T02:51:56;Souris-05;2;leave
+2025-11-10T02:51:56;Souris-02;4;leave
+2025-11-10T02:51:56;Souris-07;6;leave
+2025-11-10T02:57:30;Souris-02;7;enter
+2025-11-10T02:57:30;Souris-06;7;leave
+2025-11-10T02:57:30;Souris-01;1;leave
+2025-11-10T02:57:30;Souris-04;1;leave
+2025-11-10T02:57:30;Souris-08;1;leave
+2025-11-10T02:57:30;Souris-03;5;leave
+2025-11-10T02:57:30;Souris-04;0;enter
+2025-11-10T02:57:30;Souris-08;0;enter
+2025-11-10T02:57:30;Souris-03;1;enter
+2025-11-10T02:57:30;Souris-01;4;enter
+2025-11-10T02:57:30;Souris-06;4;enter
+2025-11-10T02:57:30;Souris-05;6;enter
+2025-11-10T02:57:30;Souris-07;6;enter
+2025-11-10T02:57:30;Souris-02;7;leave
+2025-11-10T02:57:31;Souris-02;7;enter
+2025-11-10T02:57:31;Souris-04;0;stay
+2025-11-10T02:57:31;Souris-08;0;stay
+2025-11-10T02:57:31;Souris-03;1;stay
+2025-11-10T02:57:31;Souris-01;4;stay
+2025-11-10T02:57:31;Souris-06;4;stay
+2025-11-10T02:57:31;Souris-05;6;stay
+2025-11-10T02:57:31;Souris-07;6;stay
+2025-11-10T02:57:32;Souris-02;7;stay
+2025-11-10T02:57:32;Souris-05;6;leave
+2025-11-10T02:57:32;Souris-05;0;enter
+2025-11-10T02:57:33;Souris-05;0;stay
+2025-11-10T02:57:37;Souris-06;4;leave
+2025-11-10T02:57:37;Souris-06;7;enter
+2025-11-10T02:57:37;Souris-06;7;stay
+2025-11-10T02:57:38;Souris-02;7;leave
+2025-11-10T02:57:38;Souris-02;4;enter
+2025-11-10T02:57:38;Souris-01;4;leave
+2025-11-10T02:57:38;Souris-01;1;enter
+2025-11-10T02:57:38;Souris-07;6;leave
+2025-11-10T02:57:38;Souris-07;1;enter
+2025-11-10T02:57:38;Souris-02;4;stay
+2025-11-10T02:57:38;Souris-03;1;leave
+2025-11-10T02:57:38;Souris-03;6;enter
+2025-11-10T02:57:38;Souris-01;1;stay
+2025-11-10T02:57:38;Souris-07;1;stay
+2025-11-10T02:57:39;Souris-03;6;stay
+2025-11-10T02:57:41;Souris-08;0;leave
+2025-11-10T02:57:41;Souris-08;6;enter
+2025-11-10T02:57:41;Souris-04;0;leave
+2025-11-10T02:57:41;Souris-04;3;enter
+2025-11-10T02:57:42;Souris-08;6;stay
+2025-11-10T02:57:42;Souris-04;3;stay
+2025-11-10T02:57:42;Souris-06;7;leave
+2025-11-10T02:57:43;Souris-06;7;enter
+2025-11-10T02:57:43;Souris-06;7;stay
+2025-11-10T02:57:44;Souris-06;7;leave
+2025-11-10T02:57:45;Souris-06;7;enter
+2025-11-10T02:57:45;Souris-05;0;leave
+2025-11-10T02:57:45;Souris-05;1;enter
+2025-11-10T02:57:46;Souris-06;7;stay
+2025-11-10T02:57:46;Souris-05;1;stay
+2025-11-10T02:57:48;Souris-07;1;leave
+2025-11-10T02:57:48;Souris-07;0;enter
+2025-11-10T02:57:48;Souris-07;0;stay
+2025-11-10T02:57:48;Souris-06;7;leave
+2025-11-10T02:57:49;Souris-06;7;enter
+2025-11-10T02:57:50;Souris-06;7;stay
+2025-11-10T02:57:50;Souris-02;4;leave
+2025-11-10T02:57:50;Souris-02;6;enter
+2025-11-10T02:57:50;Souris-06;7;leave
+2025-11-10T02:57:50;Souris-06;5;enter
+2025-11-10T02:57:51;Souris-02;6;stay
+2025-11-10T02:57:51;Souris-06;5;stay
+2025-11-10T02:57:51;Souris-01;1;leave
+2025-11-10T02:57:51;Souris-01;3;enter
+2025-11-10T02:57:52;Souris-01;3;stay
+2025-11-10T02:57:52;Souris-03;6;leave
+2025-11-10T02:57:52;Souris-03;5;enter
+2025-11-10T02:57:53;Souris-03;5;stay
+2025-11-10T02:57:53;Souris-04;3;leave
+2025-11-10T02:57:53;Souris-04;1;enter
+2025-11-10T02:57:53;Souris-08;6;leave
+2025-11-10T02:57:53;Souris-08;0;enter
+2025-11-10T02:57:53;Souris-04;1;stay
+2025-11-10T02:57:54;Souris-08;0;stay
+2025-11-10T02:57:56;Souris-05;1;leave
+2025-11-10T02:57:56;Souris-05;6;enter
+2025-11-10T02:57:57;Souris-05;6;stay
+2025-11-10T02:58:01;Souris-02;6;leave
+2025-11-10T02:58:01;Souris-02;1;enter
+2025-11-10T02:58:01;Souris-02;1;stay
+2025-11-10T02:58:02;Souris-07;0;leave
+2025-11-10T02:58:02;Souris-07;6;enter
+2025-11-10T02:58:02;Souris-03;5;leave
+2025-11-10T02:58:02;Souris-03;3;enter
+2025-11-10T02:58:03;Souris-03;3;stay
+2025-11-10T02:58:03;Souris-07;6;stay
+2025-11-10T02:58:03;Souris-06;5;leave
+2025-11-10T02:58:03;Souris-06;1;enter
+2025-11-10T02:58:03;Souris-06;1;stay
+2025-11-10T02:58:05;Souris-01;3;leave
+2025-11-10T02:58:05;Souris-01;6;enter
+2025-11-10T02:58:06;Souris-01;6;stay
+2025-11-10T02:58:07;Souris-04;1;leave
+2025-11-10T02:58:07;Souris-04;7;enter
+2025-11-10T02:58:08;Souris-08;0;leave
+2025-11-10T02:58:08;Souris-08;5;enter
+2025-11-10T02:58:08;Souris-04;7;stay
+2025-11-10T02:58:08;Souris-08;5;stay
+2025-11-10T02:58:09;Souris-04;7;leave
+2025-11-10T02:58:09;Souris-04;7;enter
+2025-11-10T02:58:10;Souris-04;7;stay
+2025-11-10T02:58:11;Souris-05;6;leave
+2025-11-10T02:58:11;Souris-05;7;enter
+2025-11-10T02:58:11;Souris-05;7;stay
+2025-11-10T02:58:14;Souris-07;6;leave
+2025-11-10T02:58:14;Souris-07;4;enter
+2025-11-10T02:58:14;Souris-02;1;leave
+2025-11-10T02:58:14;Souris-02;0;enter
+2025-11-10T02:58:14;Souris-07;4;stay
+2025-11-10T02:58:14;Souris-03;3;leave
+2025-11-10T02:58:14;Souris-03;5;enter
+2025-11-10T02:58:14;Souris-02;0;stay
+2025-11-10T02:58:15;Souris-03;5;stay
+2025-11-10T02:58:15;Souris-01;6;leave
+2025-11-10T02:58:16;Souris-01;6;enter
+2025-11-10T02:58:16;Souris-06;1;leave
+2025-11-10T02:58:16;Souris-06;4;enter
+2025-11-10T02:58:16;Souris-01;6;stay
+2025-11-10T02:58:16;Souris-03;5;leave
+2025-11-10T02:58:16;Souris-08;5;leave
+2025-11-10T02:58:17;Souris-06;4;stay
+2025-11-10T02:58:17;Souris-03;5;enter
+2025-11-10T02:58:17;Souris-08;5;enter
+2025-11-10T02:58:18;Souris-04;7;leave
+2025-11-10T02:58:18;Souris-04;4;enter
+2025-11-10T02:58:18;Souris-01;6;leave
+2025-11-10T02:58:18;Souris-03;5;leave
+2025-11-10T02:58:18;Souris-08;5;leave
+2025-11-10T02:58:18;Souris-04;4;stay
+2025-11-10T02:58:18;Souris-01;6;enter
+2025-11-10T02:58:19;Souris-01;6;leave
+2025-11-10T02:58:19;Souris-01;2;enter
+2025-11-10T02:58:19;Souris-03;5;enter
+2025-11-10T02:58:19;Souris-08;5;enter
+2025-11-10T02:58:19;Souris-01;2;stay
+2025-11-10T02:58:19;Souris-03;5;stay
+2025-11-10T02:58:19;Souris-08;5;stay
+2025-11-10T02:58:20;Souris-08;5;leave
+2025-11-10T02:58:20;Souris-08;2;enter
+2025-11-10T02:58:21;Souris-08;2;stay
+2025-11-10T02:58:22;Souris-05;7;leave
+2025-11-10T02:58:22;Souris-05;0;enter
+2025-11-10T02:58:22;Souris-05;0;stay
+2025-11-10T02:58:26;Souris-07;4;leave
+2025-11-10T02:58:26;Souris-07;6;enter
+2025-11-10T02:58:27;Souris-07;6;stay
+2025-11-10T02:58:27;Souris-02;0;leave
+2025-11-10T02:58:27;Souris-02;6;enter
+2025-11-10T02:58:28;Souris-03;5;leave
+2025-11-10T02:58:28;Souris-03;2;enter
+2025-11-10T02:58:28;Souris-02;6;stay
+2025-11-10T02:58:29;Souris-03;2;stay
+2025-11-10T02:58:29;Souris-06;4;leave
+2025-11-10T02:58:29;Souris-06;5;enter
+2025-11-10T02:58:29;Souris-01;2;leave
+2025-11-10T02:58:29;Souris-01;3;enter
+2025-11-10T02:58:29;Souris-04;4;leave
+2025-11-10T02:58:29;Souris-04;5;enter
+2025-11-10T02:58:29;Souris-06;5;stay
+2025-11-10T02:58:30;Souris-01;3;stay
+2025-11-10T02:58:30;Souris-04;5;stay
+2025-11-10T02:58:33;Souris-08;2;leave
+2025-11-10T02:58:33;Souris-08;4;enter
+2025-11-10T02:58:34;Souris-08;4;stay
+2025-11-10T02:58:36;Souris-05;0;leave
+2025-11-10T02:58:36;Souris-05;5;enter
+2025-11-10T02:58:36;Souris-07;6;leave
+2025-11-10T02:58:36;Souris-07;7;enter
+2025-11-10T02:58:37;Souris-05;5;stay
+2025-11-10T02:58:37;Souris-07;7;stay
+2025-11-10T02:58:37;Souris-01;3;leave
+2025-11-10T02:58:38;Souris-01;3;enter
+2025-11-10T02:58:38;Souris-02;6;leave
+2025-11-10T02:58:39;Souris-01;3;stay
+2025-11-10T02:58:39;Souris-02;6;enter
+2025-11-10T02:58:39;Souris-02;6;stay
+2025-11-10T02:58:40;Souris-02;6;leave
+2025-11-10T02:58:40;Souris-02;6;enter
+2025-11-10T02:58:40;Souris-03;2;leave
+2025-11-10T02:58:40;Souris-03;7;enter
+2025-11-10T02:58:41;Souris-02;6;leave
+2025-11-10T02:58:41;Souris-02;7;enter
+2025-11-10T02:58:41;Souris-03;7;stay
+2025-11-10T02:58:41;Souris-06;5;leave
+2025-11-10T02:58:41;Souris-06;1;enter
+2025-11-10T02:58:42;Souris-06;1;stay
+2025-11-10T02:58:42;Souris-01;3;leave
+2025-11-10T02:58:42;Souris-01;4;enter
+2025-11-10T02:58:42;Souris-02;7;stay
+2025-11-10T02:58:42;Souris-01;4;stay
+2025-11-10T02:58:44;Souris-04;5;leave
+2025-11-10T02:58:44;Souris-04;3;enter
+2025-11-10T02:58:45;Souris-04;3;stay
+2025-11-10T02:58:45;Souris-08;4;leave
+2025-11-10T02:58:45;Souris-08;5;enter
+2025-11-10T02:58:46;Souris-08;5;stay
+2025-11-10T02:58:48;Souris-07;7;leave
+2025-11-10T02:58:48;Souris-07;3;enter
+2025-11-10T02:58:49;Souris-07;3;stay
+2025-11-10T02:58:49;Souris-01;4;leave
+2025-11-10T02:58:49;Souris-01;4;enter
+2025-11-10T02:58:50;Souris-05;5;leave
+2025-11-10T02:58:50;Souris-05;2;enter
+2025-11-10T02:58:50;Souris-01;4;stay
+2025-11-10T02:58:50;Souris-05;2;stay
+2025-11-10T02:58:50;Souris-01;4;leave
+2025-11-10T02:58:51;Souris-01;4;enter
+2025-11-10T02:58:52;Souris-01;4;stay
+2025-11-10T02:58:52;Souris-06;1;leave
+2025-11-10T02:58:52;Souris-06;5;enter
+2025-11-10T02:58:52;Souris-03;7;leave
+2025-11-10T02:58:53;Souris-06;5;stay
+2025-11-10T02:58:53;Souris-01;4;leave
+2025-11-10T02:58:53;Souris-01;2;enter
+2025-11-10T02:58:53;Souris-03;6;enter
+2025-11-10T02:58:54;Souris-03;6;stay
+2025-11-10T02:58:54;Souris-01;2;stay
+2025-11-10T02:58:54;Souris-02;7;leave
+2025-11-10T02:58:54;Souris-02;4;enter
+2025-11-10T02:58:54;Souris-02;4;stay
+2025-11-10T02:58:54;Souris-04;3;leave
+2025-11-10T02:58:54;Souris-07;3;leave
+2025-11-10T02:58:55;Souris-04;4;enter
+2025-11-10T02:58:56;Souris-07;3;enter
+2025-11-10T02:58:56;Souris-04;4;stay
+2025-11-10T02:58:57;Souris-07;3;stay
+2025-11-10T02:58:58;Souris-06;5;leave
+2025-11-10T02:58:58;Souris-08;5;leave
+2025-11-10T02:58:59;Souris-06;5;enter
+2025-11-10T02:58:59;Souris-07;3;leave
+2025-11-10T02:58:59;Souris-07;5;enter
+2025-11-10T02:58:59;Souris-08;5;enter
+2025-11-10T02:58:59;Souris-06;5;stay
+2025-11-10T02:58:59;Souris-07;5;stay
+2025-11-10T02:58:59;Souris-08;5;leave
+2025-11-10T02:59:00;Souris-08;3;enter
+2025-11-10T02:59:00;Souris-08;3;leave
+2025-11-10T02:59:02;Souris-08;3;enter
+2025-11-10T02:59:02;Souris-08;3;stay
+2025-11-10T02:59:03;Souris-06;5;leave
+2025-11-10T02:59:03;Souris-06;2;enter
+2025-11-10T02:59:03;Souris-08;3;leave
+2025-11-10T02:59:03;Souris-08;3;enter
+2025-11-10T02:59:03;Souris-06;2;stay
+2025-11-10T02:59:04;Souris-08;3;stay
+2025-11-10T02:59:05;Souris-01;2;leave
+2025-11-10T02:59:05;Souris-01;1;enter
+2025-11-10T02:59:05;Souris-03;6;leave
+2025-11-10T02:59:05;Souris-03;5;enter
+2025-11-10T02:59:05;Souris-05;2;leave
+2025-11-10T02:59:05;Souris-05;5;enter
+2025-11-10T02:59:05;Souris-08;3;leave
+2025-11-10T02:59:05;Souris-08;3;enter
+2025-11-10T02:59:05;Souris-03;5;stay
+2025-11-10T02:59:05;Souris-05;5;stay
+2025-11-10T02:59:05;Souris-01;1;stay
+2025-11-10T02:59:05;Souris-06;2;leave
+2025-11-10T02:59:06;Souris-08;3;stay
+2025-11-10T02:59:07;Souris-06;2;enter
+2025-11-10T02:59:07;Souris-06;2;stay
+2025-11-10T02:59:07;Souris-04;4;leave
+2025-11-10T02:59:07;Souris-04;0;enter
+2025-11-10T02:59:07;Souris-02;4;leave
+2025-11-10T02:59:07;Souris-02;6;enter
+2025-11-10T02:59:08;Souris-02;6;stay
+2025-11-10T02:59:08;Souris-04;0;stay
+2025-11-10T02:59:09;Souris-08;3;leave
+2025-11-10T02:59:09;Souris-08;4;enter
+2025-11-10T02:59:10;Souris-08;4;stay
+2025-11-10T02:59:12;Souris-07;5;leave
+2025-11-10T02:59:12;Souris-07;7;enter
+2025-11-10T02:59:12;Souris-02;6;leave
+2025-11-10T02:59:12;Souris-02;6;enter
+2025-11-10T02:59:12;Souris-07;7;stay
+2025-11-10T02:59:13;Souris-02;6;stay
+2025-11-10T02:59:14;Souris-06;2;leave
+2025-11-10T02:59:14;Souris-06;3;enter
+2025-11-10T02:59:14;Souris-08;4;leave
+2025-11-10T02:59:15;Souris-06;3;stay
+2025-11-10T02:59:15;Souris-08;4;enter
+2025-11-10T02:59:15;Souris-08;4;stay
+2025-11-10T02:59:16;Souris-05;5;leave
+2025-11-10T02:59:16;Souris-05;0;enter
+2025-11-10T02:59:17;Souris-05;0;stay
+2025-11-10T02:59:18;Souris-04;0;leave
+2025-11-10T02:59:18;Souris-05;0;leave
+2025-11-10T02:59:19;Souris-04;0;enter
+2025-11-10T02:59:19;Souris-05;0;enter
+2025-11-10T02:59:19;Souris-03;5;leave
+2025-11-10T02:59:19;Souris-03;2;enter
+2025-11-10T02:59:19;Souris-01;1;leave
+2025-11-10T02:59:19;Souris-01;5;enter
+2025-11-10T02:59:19;Souris-04;0;stay
+2025-11-10T02:59:19;Souris-05;0;stay
+2025-11-10T02:59:19;Souris-03;2;stay
+2025-11-10T02:59:19;Souris-01;5;stay
+2025-11-10T02:59:20;Souris-04;0;leave
+2025-11-10T02:59:20;Souris-04;4;enter
+2025-11-10T02:59:20;Souris-02;6;leave
+2025-11-10T02:59:20;Souris-02;7;enter
+2025-11-10T02:59:20;Souris-02;7;stay
+2025-11-10T02:59:20;Souris-04;4;stay
+2025-11-10T02:59:23;Souris-08;4;leave
+2025-11-10T02:59:23;Souris-08;3;enter
+2025-11-10T02:59:24;Souris-08;3;stay
+2025-11-10T02:59:25;Souris-04;4;leave
+2025-11-10T02:59:25;Souris-04;4;enter
+2025-11-10T02:59:26;Souris-04;4;stay
+2025-11-10T02:59:26;Souris-06;3;leave
+2025-11-10T02:59:26;Souris-06;7;enter
+2025-11-10T02:59:26;Souris-07;7;leave
+2025-11-10T02:59:26;Souris-07;6;enter
+2025-11-10T02:59:27;Souris-06;7;stay
+2025-11-10T02:59:27;Souris-07;6;leave
+2025-11-10T02:59:27;Souris-07;6;enter
+2025-11-10T02:59:27;Souris-02;7;leave
+2025-11-10T02:59:27;Souris-06;7;leave
+2025-11-10T02:59:28;Souris-02;7;enter
+2025-11-10T02:59:28;Souris-06;7;enter
+2025-11-10T02:59:28;Souris-07;6;stay
+2025-11-10T02:59:28;Souris-05;0;leave
+2025-11-10T02:59:28;Souris-05;2;enter
+2025-11-10T02:59:28;Souris-02;7;stay
+2025-11-10T02:59:28;Souris-06;7;stay
+2025-11-10T02:59:29;Souris-05;2;stay
+2025-11-10T02:59:30;Souris-08;3;leave
+2025-11-10T02:59:31;Souris-02;7;leave
+2025-11-10T02:59:31;Souris-02;1;enter
+2025-11-10T02:59:31;Souris-08;3;enter
+2025-11-10T02:59:32;Souris-02;1;stay
+2025-11-10T02:59:32;Souris-08;3;leave
+2025-11-10T02:59:33;Souris-04;4;leave
+2025-11-10T02:59:33;Souris-04;1;enter
+2025-11-10T02:59:33;Souris-08;3;enter
+2025-11-10T02:59:33;Souris-03;2;leave
+2025-11-10T02:59:33;Souris-03;4;enter
+2025-11-10T02:59:33;Souris-04;1;stay
+2025-11-10T02:59:33;Souris-08;3;stay
+2025-11-10T02:59:33;Souris-03;4;stay
+2025-11-10T02:59:33;Souris-01;5;leave
+2025-11-10T02:59:33;Souris-01;6;enter
+2025-11-10T02:59:34;Souris-01;6;stay
+2025-11-10T02:59:34;Souris-05;2;leave
+2025-11-10T02:59:35;Souris-05;2;enter
+2025-11-10T02:59:35;Souris-08;3;leave
+2025-11-10T02:59:35;Souris-08;5;enter
+2025-11-10T02:59:35;Souris-08;5;stay
+2025-11-10T02:59:35;Souris-05;2;stay
+2025-11-10T02:59:38;Souris-05;2;leave
+2025-11-10T02:59:38;Souris-05;2;enter
+2025-11-10T02:59:38;Souris-08;5;leave
+2025-11-10T02:59:39;Souris-06;7;leave
+2025-11-10T02:59:39;Souris-06;1;enter
+2025-11-10T02:59:39;Souris-05;2;leave
+2025-11-10T02:59:39;Souris-05;6;enter
+2025-11-10T02:59:39;Souris-07;6;leave
+2025-11-10T02:59:39;Souris-07;2;enter
+2025-11-10T02:59:39;Souris-08;5;enter
+2025-11-10T02:59:40;Souris-06;1;stay
+2025-11-10T02:59:40;Souris-07;2;stay
+2025-11-10T02:59:40;Souris-08;5;stay
+2025-11-10T02:59:40;Souris-05;6;stay
+2025-11-10T02:59:46;Souris-02;1;leave
+2025-11-10T02:59:46;Souris-02;6;enter
+2025-11-10T02:59:46;Souris-03;4;leave
+2025-11-10T02:59:46;Souris-03;0;enter
+2025-11-10T02:59:46;Souris-02;6;stay
+2025-11-10T02:59:47;Souris-08;5;leave
+2025-11-10T02:59:47;Souris-08;0;enter
+2025-11-10T02:59:47;Souris-03;0;stay
+2025-11-10T02:59:47;Souris-04;1;leave
+2025-11-10T02:59:47;Souris-04;4;enter
+2025-11-10T02:59:48;Souris-04;4;stay
+2025-11-10T02:59:48;Souris-08;0;stay
+2025-11-10T02:59:48;Souris-01;6;leave
+2025-11-10T02:59:48;Souris-01;2;enter
+2025-11-10T03:01:03;Souris-02;4;enter
+2025-11-10T03:01:03;Souris-05;5;enter
+2025-11-10T03:01:03;Souris-07;5;enter
+2025-11-10T03:01:03;Souris-08;5;enter
+2025-11-10T03:01:03;Souris-06;6;enter
+2025-11-10T03:01:03;Souris-04;0;enter
+2025-11-10T03:01:03;Souris-03;2;enter
+2025-11-10T03:01:04;Souris-04;0;stay
+2025-11-10T03:01:04;Souris-01;1;enter
+2025-11-10T03:01:04;Souris-03;2;stay
+2025-11-10T03:01:04;Souris-02;4;stay
+2025-11-10T03:01:04;Souris-05;5;stay
+2025-11-10T03:01:04;Souris-07;5;stay
+2025-11-10T03:01:04;Souris-08;5;stay
+2025-11-10T03:01:04;Souris-06;6;leave
+2025-11-10T03:01:04;Souris-06;3;enter
+2025-11-10T03:01:04;Souris-01;1;stay
+2025-11-10T03:01:04;Souris-06;3;stay
+2025-11-10T03:01:05;Souris-02;4;leave
+2025-11-10T03:01:05;Souris-02;6;enter
+2025-11-10T03:01:06;Souris-02;6;stay
+2025-11-10T03:01:07;Souris-03;2;leave
+2025-11-10T03:01:08;Souris-03;2;enter
+2025-11-10T03:01:09;Souris-03;2;stay
+2025-11-10T03:01:13;Souris-05;5;leave
+2025-11-10T03:01:13;Souris-05;0;enter
+2025-11-10T03:01:14;Souris-05;0;stay
+2025-11-10T03:01:14;Souris-08;5;leave
+2025-11-10T03:01:14;Souris-08;0;enter
+2025-11-10T03:01:14;Souris-01;1;leave
+2025-11-10T03:01:14;Souris-01;5;enter
+2025-11-10T03:01:15;Souris-01;5;stay
+2025-11-10T03:01:15;Souris-07;5;leave
+2025-11-10T03:01:15;Souris-07;6;enter
+2025-11-10T03:01:15;Souris-08;0;stay
+2025-11-10T03:01:15;Souris-06;3;leave
+2025-11-10T03:01:15;Souris-06;1;enter
+2025-11-10T03:01:15;Souris-07;6;stay
+2025-11-10T03:01:15;Souris-04;0;leave
+2025-11-10T03:01:15;Souris-04;7;enter
+2025-11-10T03:01:16;Souris-03;2;leave
+2025-11-10T03:01:16;Souris-03;1;enter
+2025-11-10T03:01:16;Souris-06;1;stay
+2025-11-10T03:01:16;Souris-04;7;stay
+2025-11-10T03:01:17;Souris-03;1;stay
+2025-11-10T03:01:19;Souris-02;6;leave
+2025-11-10T03:01:19;Souris-02;7;enter
+2025-11-10T03:01:20;Souris-02;7;stay
+2025-11-10T03:01:25;Souris-05;0;leave
+2025-11-10T03:01:25;Souris-05;2;enter
+2025-11-10T03:01:25;Souris-06;1;leave
+2025-11-10T03:01:25;Souris-06;4;enter
+2025-11-10T03:01:25;Souris-05;2;stay
+2025-11-10T03:01:26;Souris-06;4;stay
+2025-11-10T03:01:27;Souris-08;0;leave
+2025-11-10T03:01:27;Souris-08;1;enter
+2025-11-10T03:01:28;Souris-08;1;stay
+2025-11-10T03:01:28;Souris-03;1;leave
+2025-11-10T03:01:28;Souris-03;7;enter
+2025-11-10T03:01:28;Souris-01;5;leave
+2025-11-10T03:01:29;Souris-07;6;leave
+2025-11-10T03:01:29;Souris-07;5;enter
+2025-11-10T03:01:29;Souris-03;7;stay
+2025-11-10T03:01:29;Souris-01;3;enter
+2025-11-10T03:01:29;Souris-07;5;stay
+2025-11-10T03:01:29;Souris-02;7;leave
+2025-11-10T03:01:29;Souris-02;2;enter
+2025-11-10T03:01:29;Souris-01;3;leave
+2025-11-10T03:01:30;Souris-02;2;stay
+2025-11-10T03:01:30;Souris-01;3;enter
+2025-11-10T03:01:30;Souris-04;7;leave
+2025-11-10T03:01:30;Souris-04;2;enter
+2025-11-10T03:01:30;Souris-01;3;stay
+2025-11-10T03:01:31;Souris-04;2;stay
+2025-11-10T03:01:31;Souris-01;3;leave
+2025-11-10T03:01:32;Souris-01;3;enter
+2025-11-10T03:01:32;Souris-01;3;stay
+2025-11-10T03:01:34;Souris-01;3;leave
+2025-11-10T03:01:34;Souris-01;3;enter
+2025-11-10T03:01:35;Souris-01;3;stay
+2025-11-10T03:01:36;Souris-05;2;leave
+2025-11-10T03:01:36;Souris-05;5;enter
+2025-11-10T03:01:37;Souris-05;5;stay
+2025-11-10T03:01:38;Souris-06;4;leave
+2025-11-10T03:01:38;Souris-06;5;enter
+2025-11-10T03:01:39;Souris-06;5;stay
+2025-11-10T03:01:39;Souris-08;1;leave
+2025-11-10T03:01:39;Souris-08;3;enter
+2025-11-10T03:01:39;Souris-03;7;leave
+2025-11-10T03:01:39;Souris-03;0;enter
+2025-11-10T03:01:40;Souris-02;2;leave
+2025-11-10T03:01:40;Souris-02;0;enter
+2025-11-10T03:01:40;Souris-03;0;stay
+2025-11-10T03:01:40;Souris-08;3;stay
+2025-11-10T03:01:40;Souris-02;0;stay
+2025-11-10T03:01:40;Souris-01;3;leave
+2025-11-10T03:01:41;Souris-07;5;leave
+2025-11-10T03:01:41;Souris-07;2;enter
+2025-11-10T03:01:41;Souris-01;2;enter
+2025-11-10T03:01:42;Souris-01;2;stay
+2025-11-10T03:01:42;Souris-07;2;stay
+2025-11-10T03:01:45;Souris-04;2;leave
+2025-11-10T03:01:45;Souris-04;4;enter
+2025-11-10T03:01:46;Souris-04;4;stay
+2025-11-10T03:01:47;Souris-05;5;leave
+2025-11-10T03:01:47;Souris-05;4;enter
+2025-11-10T03:01:48;Souris-05;4;stay
+2025-11-10T03:01:48;Souris-08;3;leave
+2025-11-10T03:01:49;Souris-08;3;enter
+2025-11-10T03:01:50;Souris-06;5;leave
+2025-11-10T03:01:50;Souris-06;2;enter
+2025-11-10T03:01:50;Souris-08;3;stay
+2025-11-10T03:01:50;Souris-06;2;stay
+2025-11-10T03:01:50;Souris-08;3;leave
+2025-11-10T03:01:51;Souris-08;3;enter
+2025-11-10T03:01:52;Souris-08;3;stay
+2025-11-10T03:01:52;Souris-07;2;leave
+2025-11-10T03:01:52;Souris-07;7;enter
+2025-11-10T03:01:52;Souris-07;7;stay
+2025-11-10T03:01:52;Souris-08;3;leave
+2025-11-10T03:01:52;Souris-08;7;enter
+2025-11-10T03:01:53;Souris-08;7;stay
+2025-11-10T03:01:53;Souris-01;2;leave
+2025-11-10T03:01:53;Souris-01;1;enter
+2025-11-10T03:01:53;Souris-03;0;leave
+2025-11-10T03:01:53;Souris-03;4;enter
+2025-11-10T03:01:53;Souris-02;0;leave
+2025-11-10T16:08:43;Souris-01;1;enter
+2025-11-10T16:08:43;Souris-05;1;enter
+2025-11-10T16:08:44;Souris-06;2;enter
+2025-11-10T16:08:44;Souris-07;5;enter
+2025-11-10T16:08:44;Souris-08;5;enter
+2025-11-10T16:08:44;Souris-02;7;enter
+2025-11-10T16:08:44;Souris-04;0;enter
+2025-11-10T16:08:44;Souris-01;1;stay
+2025-11-10T16:08:44;Souris-05;1;stay
+2025-11-10T16:08:45;Souris-04;0;stay
+2025-11-10T16:08:45;Souris-06;2;stay
+2025-11-10T16:08:45;Souris-07;5;stay
+2025-11-10T16:08:45;Souris-08;5;stay
+2025-11-10T16:08:45;Souris-03;6;enter
+2025-11-10T16:08:45;Souris-02;7;stay
+2025-11-10T16:08:45;Souris-03;6;stay
+2025-11-10T16:08:49;Souris-01;1;leave
+2025-11-10T16:08:49;Souris-01;0;enter
+2025-11-10T16:08:50;Souris-01;0;stay
+2025-11-10T16:08:50;Souris-01;0;leave
+2025-11-10T16:08:50;Souris-04;0;leave
+2025-11-10T16:08:50;Souris-07;5;leave
+2025-11-10T16:08:50;Souris-08;5;leave
+2025-11-10T16:08:50;Souris-03;6;leave
+2025-11-10T16:08:50;Souris-02;7;leave
+2025-11-10T16:28:21;Souris-05ANT?;0;enter
+2025-11-10T16:28:37;Souris-08;3;enter
+2025-11-10T16:28:37;Souris-05ANT?;0;leave
+2025-11-10T16:28:38;Souris-02;4;enter
+2025-11-10T16:28:38;Souris-05;5;enter
+2025-11-10T16:28:38;Souris-01;6;enter
+2025-11-10T16:28:38;Souris-07;7;enter
+2025-11-10T16:28:38;Souris-03;1;enter
+2025-11-10T16:28:38;Souris-04;1;enter
+2025-11-10T16:28:38;Souris-06;1;enter
+2025-11-10T16:28:38;Souris-08;3;stay
+2025-11-10T16:28:38;Souris-02;4;stay
+2025-11-10T16:28:38;Souris-05;5;stay
+2025-11-10T16:28:38;Souris-01;6;stay
+2025-11-10T16:28:38;Souris-07;7;stay
+2025-11-10T16:28:38;Souris-03;1;stay
+2025-11-10T16:28:38;Souris-04;1;stay
+2025-11-10T16:28:38;Souris-06;1;stay
+2025-11-10T16:28:39;Souris-05;5;leave
+2025-11-10T16:28:39;Souris-05;7;enter
+2025-11-10T16:28:39;Souris-06;1;leave
+2025-11-10T16:28:39;Souris-06;2;enter
+2025-11-10T16:28:40;Souris-06;2;stay
+2025-11-10T16:28:40;Souris-05;7;stay
+2025-11-10T16:28:41;Souris-06;2;leave
+2025-11-10T16:28:42;Souris-06;2;enter
+2025-11-10T16:28:42;Souris-06;2;stay
+2025-11-10T16:28:45;Souris-02;4;leave
+2025-11-10T16:28:45;Souris-02;6;enter
+2025-11-10T16:28:46;Souris-02;6;stay
+2025-11-10T16:28:46;Souris-06;2;leave
+2025-11-10T16:28:47;Souris-04;1;leave
+2025-11-10T16:28:47;Souris-04;0;enter
+2025-11-10T16:28:47;Souris-06;2;enter
+2025-11-10T16:28:47;Souris-04;0;stay
+2025-11-10T16:28:47;Souris-06;2;stay
+2025-11-10T16:28:48;Souris-07;7;leave
+2025-11-10T16:28:48;Souris-07;2;enter
+2025-11-10T16:28:49;Souris-08;3;leave
+2025-11-10T16:28:49;Souris-08;0;enter
+2025-11-10T16:28:49;Souris-07;2;stay
+2025-11-10T16:28:49;Souris-08;0;stay
+2025-11-10T16:28:49;Souris-06;2;leave
+2025-11-10T16:28:49;Souris-06;3;enter
+2025-11-10T16:28:50;Souris-06;3;stay
+2025-11-10T16:28:50;Souris-03;1;leave
+2025-11-10T16:28:50;Souris-03;5;enter
+2025-11-10T16:28:50;Souris-01;6;leave
+2025-11-10T16:28:50;Souris-01;2;enter
+2025-11-10T16:28:51;Souris-03;5;stay
+2025-11-10T16:28:51;Souris-01;2;stay
+2025-11-10T16:28:53;Souris-05;7;leave
+2025-11-10T16:28:53;Souris-05;1;enter
+2025-11-10T16:28:54;Souris-05;1;stay
+2025-11-10T16:28:59;Souris-02;6;leave
+2025-11-10T16:28:59;Souris-02;2;enter
+2025-11-10T16:28:59;Souris-07;2;leave
+2025-11-10T16:28:59;Souris-07;0;enter
+2025-11-10T16:29:00;Souris-07;0;stay
+2025-11-10T16:29:00;Souris-02;2;stay
+2025-11-10T16:29:00;Souris-05;1;leave
+2025-11-10T16:29:01;Souris-04;0;leave
+2025-11-10T16:29:01;Souris-04;7;enter
+2025-11-10T16:29:01;Souris-08;0;leave
+2025-11-10T16:29:01;Souris-08;3;enter
+2025-11-10T16:29:01;Souris-01;2;leave
+2025-11-10T16:29:01;Souris-01;3;enter
+2025-11-10T16:29:01;Souris-05;1;enter
+2025-11-10T16:29:01;Souris-04;7;stay
+2025-11-10T16:29:01;Souris-05;1;stay
+2025-11-10T16:29:01;Souris-01;3;stay
+2025-11-10T16:29:01;Souris-08;3;stay
+2025-11-10T16:29:04;Souris-06;3;leave
+2025-11-10T16:29:04;Souris-06;5;enter
+2025-11-10T16:29:04;Souris-03;5;leave
+2025-11-10T16:29:04;Souris-03;0;enter
+2025-11-10T16:29:04;Souris-06;5;stay
+2025-11-10T16:29:05;Souris-03;0;stay
+2025-11-10T16:29:07;Souris-05;1;leave
+2025-11-10T16:29:07;Souris-05;5;enter
+2025-11-10T16:29:07;Souris-05;5;stay
+2025-11-10T16:29:10;Souris-07;0;leave
+2025-11-10T16:29:10;Souris-07;4;enter
+2025-11-10T16:29:11;Souris-07;4;stay
+2025-11-10T16:29:11;Souris-02;2;leave
+2025-11-10T16:29:11;Souris-02;3;enter
+2025-11-10T16:29:12;Souris-08;3;leave
+2025-11-10T16:29:12;Souris-08;0;enter
+2025-11-10T16:29:12;Souris-02;3;stay
+2025-11-10T16:29:12;Souris-08;0;stay
+2025-11-10T16:29:13;Souris-04;7;leave
+2025-11-10T16:29:13;Souris-04;4;enter
+2025-11-10T16:29:14;Souris-04;4;stay
+2025-11-10T16:29:15;Souris-01;3;leave
+2025-11-10T16:29:15;Souris-01;7;enter
+2025-11-10T16:29:16;Souris-01;7;stay
+2025-11-10T16:29:16;Souris-03;0;leave
+2025-11-10T16:29:16;Souris-03;1;enter
+2025-11-10T16:29:16;Souris-03;1;stay
+2025-11-10T16:29:17;Souris-06;5;leave
+2025-11-10T16:29:17;Souris-06;3;enter
+2025-11-10T16:29:17;Souris-06;3;stay
+2025-11-10T16:29:19;Souris-05;5;leave
+2025-11-10T16:29:19;Souris-05;2;enter
+2025-11-10T16:29:20;Souris-05;2;stay
+2025-11-10T16:29:21;Souris-07;4;leave
+2025-11-10T16:29:21;Souris-07;3;enter
+2025-11-10T16:29:21;Souris-07;3;stay
+2025-11-10T16:29:24;Souris-08;0;leave
+2025-11-10T16:29:24;Souris-08;6;enter
+2025-11-10T16:29:24;Souris-02;3;leave
+2025-11-10T16:29:24;Souris-02;4;enter
+2025-11-10T16:29:25;Souris-04;4;leave
+2025-11-10T16:29:25;Souris-04;6;enter
+2025-11-10T16:29:25;Souris-08;6;stay
+2025-11-10T16:29:25;Souris-02;4;stay
+2025-11-10T16:29:26;Souris-04;6;stay
+2025-11-10T16:29:27;Souris-03;1;leave
+2025-11-10T16:29:27;Souris-03;3;enter
+2025-11-10T16:29:28;Souris-03;3;stay
+2025-11-10T16:29:29;Souris-01;7;leave
+2025-11-10T16:29:29;Souris-01;2;enter
+2025-11-10T16:29:29;Souris-01;2;stay
+2025-11-10T16:29:30;Souris-05;2;leave
+2025-11-10T16:29:30;Souris-05;0;enter
+2025-11-10T16:29:31;Souris-05;0;stay
+2025-11-10T16:29:31;Souris-06;3;leave
+2025-11-10T16:29:31;Souris-06;2;enter
+2025-11-10T16:29:32;Souris-06;2;stay
+2025-11-10T16:29:32;Souris-07;3;leave
+2025-11-10T16:29:32;Souris-07;4;enter
+2025-11-10T16:29:33;Souris-07;4;stay
+2025-11-10T16:29:35;Souris-04;6;leave
+2025-11-10T16:29:35;Souris-04;1;enter
+2025-11-10T16:29:36;Souris-04;1;stay
+2025-11-10T16:29:39;Souris-08;6;leave
+2025-11-10T16:29:39;Souris-08;1;enter
+2025-11-10T16:29:39;Souris-08;1;stay
+2025-11-10T16:29:40;Souris-02;4;leave
+2025-11-10T16:29:40;Souris-02;0;enter
+2025-11-10T16:29:40;Souris-01;2;leave
+2025-11-10T16:29:40;Souris-01;5;enter
+2025-11-10T16:29:41;Souris-01;5;stay
+2025-11-10T16:29:41;Souris-02;0;stay
+2025-11-10T16:29:41;Souris-03;3;leave
+2025-11-10T16:29:41;Souris-03;6;enter
+2025-11-10T16:29:41;Souris-03;6;stay
+2025-11-10T16:29:42;Souris-04;1;leave
+2025-11-10T16:29:42;Souris-08;1;leave
+2025-11-10T16:29:42;Souris-05;0;leave
+2025-11-10T16:29:42;Souris-05;2;enter
+2025-11-10T16:29:42;Souris-04;1;enter
+2025-11-10T16:29:42;Souris-08;1;enter
+2025-11-10T16:29:43;Souris-04;1;stay
+2025-11-10T16:29:43;Souris-08;1;stay
+2025-11-10T16:29:43;Souris-05;2;stay
+2025-11-10T16:29:45;Souris-06;2;leave
+2025-11-10T16:29:45;Souris-06;5;enter
+2025-11-10T16:29:46;Souris-06;5;stay
+2025-11-10T16:29:47;Souris-07;4;leave
+2025-11-10T16:29:47;Souris-07;2;enter
+2025-11-10T16:29:47;Souris-07;2;stay
+2025-11-10T16:29:49;Souris-08;1;leave
+2025-11-10T16:29:49;Souris-08;5;enter
+2025-11-10T16:29:49;Souris-04;1;leave
+2025-11-10T16:29:49;Souris-04;7;enter
+2025-11-10T16:29:49;Souris-08;5;stay
+2025-11-10T16:29:49;Souris-03;6;leave
+2025-11-10T16:29:50;Souris-04;7;stay
+2025-11-10T16:29:51;Souris-03;6;enter
+2025-11-10T16:29:51;Souris-03;6;stay
+2025-11-10T16:29:52;Souris-03;6;leave
+2025-11-10T16:29:54;Souris-01;5;leave
+2025-11-10T16:29:54;Souris-01;6;enter
+2025-11-10T16:29:54;Souris-02;0;leave
+2025-11-10T16:29:54;Souris-02;2;enter
+2025-11-10T16:29:54;Souris-03;0;enter
+2025-11-10T16:29:54;Souris-01;6;stay
+2025-11-10T16:29:54;Souris-03;0;stay
+2025-11-10T16:29:54;Souris-02;2;stay
+2025-11-10T16:29:55;Souris-01;6;leave
+2025-11-10T16:29:56;Souris-01;6;enter
+2025-11-10T16:29:56;Souris-01;6;stay
+2025-11-10T16:29:57;Souris-01;6;leave
+2025-11-10T16:29:57;Souris-01;6;enter
+2025-11-10T16:29:57;Souris-06;5;leave
+2025-11-10T16:29:57;Souris-06;6;enter
+2025-11-10T16:29:57;Souris-05;2;leave
+2025-11-10T16:29:57;Souris-05;1;enter
+2025-11-10T16:29:58;Souris-01;6;stay
+2025-11-10T16:29:58;Souris-06;6;stay
+2025-11-10T16:29:58;Souris-05;1;stay
+2025-11-10T16:30:01;Souris-07;2;leave
+2025-11-10T16:30:01;Souris-07;4;enter
+2025-11-10T16:30:01;Souris-08;5;leave
+2025-11-10T16:30:01;Souris-08;3;enter
+2025-11-10T16:30:02;Souris-07;4;stay
+2025-11-10T16:30:02;Souris-08;3;stay
+2025-11-10T16:30:02;Souris-04;7;leave
+2025-11-10T16:30:02;Souris-04;5;enter
+2025-11-10T16:30:03;Souris-04;5;stay
+2025-11-10T16:30:05;Souris-03;0;leave
+2025-11-10T16:30:05;Souris-03;2;enter
+2025-11-10T16:30:06;Souris-02;2;leave
+2025-11-10T16:30:06;Souris-02;6;enter
+2025-11-10T16:30:06;Souris-03;2;stay
+2025-11-10T16:30:06;Souris-02;6;stay
+2025-11-10T16:30:06;Souris-01;6;leave
+2025-11-10T16:30:06;Souris-01;2;enter
+2025-11-10T16:30:07;Souris-01;2;stay
+2025-11-10T16:30:08;Souris-06;6;leave
+2025-11-10T16:30:08;Souris-06;5;enter
+2025-11-10T16:30:09;Souris-06;5;stay
+2025-11-10T16:30:09;Souris-05;1;leave
+2025-11-10T16:30:09;Souris-05;2;enter
+2025-11-10T16:30:09;Souris-08;3;leave
+2025-11-10T16:30:10;Souris-05;2;stay
+2025-11-10T16:30:11;Souris-08;3;enter
+2025-11-10T16:30:11;Souris-08;3;stay
+2025-11-10T16:30:12;Souris-08;3;leave
+2025-11-10T16:30:13;Souris-08;3;enter
+2025-11-10T16:30:14;Souris-08;3;leave
+2025-11-10T16:30:14;Souris-08;7;enter
+2025-11-10T16:30:14;Souris-08;7;stay
+2025-11-10T16:30:15;Souris-07;4;leave
+2025-11-10T16:30:15;Souris-07;6;enter
+2025-11-10T16:30:16;Souris-07;6;stay
+2025-11-10T16:30:16;Souris-02;6;leave
+2025-11-10T16:30:16;Souris-02;7;enter
+2025-11-10T16:30:16;Souris-04;5;leave
+2025-11-10T16:30:16;Souris-04;0;enter
+2025-11-10T16:30:17;Souris-04;0;stay
+2025-11-10T16:30:17;Souris-02;7;stay
+2025-11-10T16:30:18;Souris-01;2;leave
+2025-11-10T16:30:18;Souris-01;3;enter
+2025-11-10T16:30:19;Souris-01;3;stay
+2025-11-10T16:30:20;Souris-03;2;leave
+2025-11-10T16:30:20;Souris-03;5;enter
+2025-11-10T16:30:21;Souris-03;5;stay
+2025-11-10T16:30:22;Souris-06;5;leave
+2025-11-10T16:30:22;Souris-06;4;enter
+2025-11-10T16:30:22;Souris-06;4;stay
+2025-11-10T16:30:24;Souris-05;2;leave
+2025-11-10T16:30:24;Souris-05;7;enter
+2025-11-10T16:30:24;Souris-05;7;stay
+2025-11-10T16:30:26;Souris-04;0;leave
+2025-11-10T16:30:26;Souris-04;1;enter
+2025-11-10T16:30:27;Souris-04;1;stay
+2025-11-10T16:30:29;Souris-08;7;leave
+2025-11-10T16:30:29;Souris-08;4;enter
+2025-11-10T16:30:29;Souris-01;3;leave
+2025-11-10T16:30:29;Souris-01;4;enter
+2025-11-10T16:30:29;Souris-01;4;stay
+2025-11-10T16:30:29;Souris-08;4;stay
+2025-11-10T16:30:30;Souris-02;7;leave
+2025-11-10T16:30:30;Souris-02;1;enter
+2025-11-10T16:30:30;Souris-07;6;leave
+2025-11-10T16:30:30;Souris-07;7;enter
+2025-11-10T16:30:31;Souris-07;7;stay
+2025-11-10T16:30:31;Souris-02;1;stay
+2025-11-10T16:30:31;Souris-03;5;leave
+2025-11-10T16:30:31;Souris-03;3;enter
+2025-11-10T16:30:31;Souris-03;3;stay
+2025-11-10T16:30:33;Souris-06;4;leave
+2025-11-10T16:30:33;Souris-06;2;enter
+2025-11-10T16:30:34;Souris-05;7;leave
+2025-11-10T16:30:34;Souris-05;3;enter
+2025-11-10T16:30:34;Souris-06;2;stay
+2025-11-10T16:30:34;Souris-05;3;stay
+2025-11-10T16:30:38;Souris-06;2;leave
+2025-11-10T16:30:39;Souris-06;2;enter
+2025-11-10T16:30:39;Souris-06;2;stay
+2025-11-10T16:30:39;Souris-08;4;leave
+2025-11-10T16:30:39;Souris-08;5;enter
+2025-11-10T16:30:40;Souris-08;5;stay
+2025-11-10T16:30:41;Souris-01;4;leave
+2025-11-10T16:30:41;Souris-01;1;enter
+2025-11-10T16:30:41;Souris-04;1;leave
+2025-11-10T16:30:41;Souris-04;4;enter
+2025-11-10T16:30:41;Souris-01;1;stay
+2025-11-10T16:30:41;Souris-02;1;leave
+2025-11-10T16:30:41;Souris-02;6;enter
+2025-11-10T16:30:41;Souris-04;4;stay
+2025-11-10T16:30:42;Souris-02;6;stay
+2025-11-10T16:30:43;Souris-07;7;leave
+2025-11-10T16:30:43;Souris-07;5;enter
+2025-11-10T16:30:44;Souris-06;2;leave
+2025-11-10T16:30:44;Souris-06;0;enter
+2025-11-10T16:30:44;Souris-07;5;stay
+2025-11-10T16:30:44;Souris-06;0;stay
+2025-11-10T16:30:44;Souris-03;3;leave
+2025-11-10T16:30:44;Souris-03;6;enter
+2025-11-10T16:30:45;Souris-03;6;stay
+2025-11-10T16:30:47;Souris-05;3;leave
+2025-11-10T16:30:47;Souris-05;2;enter
+2025-11-10T16:30:48;Souris-05;2;stay
+2025-11-10T16:30:51;Souris-04;4;leave
+2025-11-10T16:30:51;Souris-04;7;enter
+2025-11-10T16:30:51;Souris-08;5;leave
+2025-11-10T16:30:51;Souris-08;3;enter
+2025-11-10T16:30:51;Souris-04;7;stay
+2025-11-10T16:30:52;Souris-08;3;stay
+2025-11-10T16:30:52;Souris-01;1;leave
+2025-11-10T16:30:52;Souris-01;4;enter
+2025-11-10T16:30:52;Souris-02;6;leave
+2025-11-10T16:30:52;Souris-02;0;enter
+2025-11-10T16:30:52;Souris-01;4;stay
+2025-11-10T16:30:52;Souris-02;0;stay
+2025-11-10T16:30:56;Souris-07;5;leave
+2025-11-10T16:30:56;Souris-07;0;enter
+2025-11-10T16:30:57;Souris-07;0;stay
+2025-11-10T16:30:57;Souris-06;0;leave
+2025-11-10T16:30:57;Souris-06;3;enter
+2025-11-10T16:30:58;Souris-03;6;leave
+2025-11-10T16:30:58;Souris-03;5;enter
+2025-11-10T16:30:58;Souris-05;2;leave
+2025-11-10T16:30:58;Souris-05;6;enter
+2025-11-10T16:30:58;Souris-06;3;stay
+2025-11-10T16:30:58;Souris-01;4;leave
+2025-11-10T16:30:59;Souris-05;6;stay
+2025-11-10T16:30:59;Souris-03;5;stay
+2025-11-10T16:30:59;Souris-01;4;enter
+2025-11-10T16:30:59;Souris-01;4;stay
+2025-11-10T16:31:02;Souris-01;4;leave
+2025-11-10T16:31:02;Souris-01;7;enter
+2025-11-10T16:31:02;Souris-01;7;stay
+2025-11-10T16:31:03;Souris-08;3;leave
+2025-11-10T16:31:03;Souris-08;2;enter
+2025-11-10T16:31:03;Souris-04;7;leave
+2025-11-10T16:31:03;Souris-04;2;enter
+2025-11-10T16:31:04;Souris-04;2;stay
+2025-11-10T16:31:04;Souris-08;2;stay
+2025-11-10T16:31:06;Souris-02;0;leave
+2025-11-10T16:31:06;Souris-02;3;enter
+2025-11-10T16:31:06;Souris-02;3;stay
+2025-11-10T16:31:07;Souris-07;0;leave
+2025-11-10T16:31:07;Souris-07;7;enter
+2025-11-10T16:31:08;Souris-07;7;stay
+2025-11-10T16:31:09;Souris-03;5;leave
+2025-11-10T16:31:09;Souris-03;1;enter
+2025-11-10T16:31:10;Souris-03;1;stay
+2025-11-10T16:31:11;Souris-03;1;leave
+2025-11-10T16:31:11;Souris-04;2;leave
+2025-11-10T16:31:11;Souris-08;2;leave
+2025-11-10T16:31:11;Souris-02;3;leave
+2025-11-10T16:31:11;Souris-06;3;leave
+2025-11-10T16:31:26;Souris-06;2;enter
+2025-11-10T16:31:26;Souris-05;6;leave
+2025-11-10T16:31:26;Souris-01;7;leave
+2025-11-10T16:31:26;Souris-07;7;leave
+2025-11-10T16:31:27;Souris-03;4;enter
+2025-11-10T16:31:27;Souris-07;4;enter
+2025-11-10T16:31:27;Souris-06;2;leave
+2025-11-10T16:31:28;Souris-02;5;enter
+2025-11-10T16:31:28;Souris-03;4;leave
+2025-11-10T16:31:28;Souris-07;4;leave
+2025-11-10T16:31:29;Souris-05;6;enter
+2025-11-10T16:31:29;Souris-02;5;leave
+2025-11-10T16:31:29;Souris-01;0;enter
+2025-11-10T16:31:29;Souris-05;6;leave
+2025-11-10T16:31:30;Souris-04;2;enter
+2025-11-10T16:31:30;Souris-06;2;enter
+2025-11-10T16:31:30;Souris-01;0;leave
+2025-11-10T16:31:31;Souris-08;3;enter
+2025-11-10T16:31:31;Souris-04;2;leave
+2025-11-10T16:31:31;Souris-06;2;leave
+2025-11-10T16:31:32;Souris-03;4;enter
+2025-11-10T16:31:32;Souris-07;4;enter
+2025-11-10T16:31:32;Souris-08;3;leave
+2025-11-10T16:31:32;Souris-02;5;enter
+2025-11-10T16:31:32;Souris-03;4;leave
+2025-11-10T16:31:32;Souris-07;4;leave
+2025-11-10T16:31:33;Souris-05;6;enter
+2025-11-10T16:31:33;Souris-02;5;leave
+2025-11-10T16:31:33;Souris-01;0;enter
+2025-11-10T16:31:33;Souris-03;0;enter
+2025-11-10T16:31:33;Souris-05;6;leave
+2025-11-10T16:31:34;Souris-02;1;enter
+2025-11-10T16:31:34;Souris-01;0;leave
+2025-11-10T16:31:34;Souris-03;0;leave
+2025-11-10T16:31:35;Souris-04;2;enter
+2025-11-10T16:31:35;Souris-06;2;enter
+2025-11-10T16:31:35;Souris-02;1;leave
+2025-11-10T16:31:35;Souris-07;3;enter
+2025-11-10T16:31:35;Souris-08;3;enter
+2025-11-10T16:31:35;Souris-04;2;leave
+2025-11-10T16:31:35;Souris-06;2;leave
+2025-11-10T16:31:36;Souris-05;6;enter
+2025-11-10T16:31:36;Souris-07;3;leave
+2025-11-10T16:31:36;Souris-08;3;leave
+2025-11-10T16:31:37;Souris-01;7;enter
+2025-11-10T16:31:37;Souris-05;6;leave
+2025-11-10T16:31:38;Souris-03;0;enter
+2025-11-10T16:31:38;Souris-01;7;leave
+2025-11-10T16:31:38;Souris-02;1;enter
+2025-11-10T16:31:38;Souris-06;1;enter
+2025-11-10T16:31:38;Souris-03;0;leave
+2025-11-10T16:31:39;Souris-04;3;enter
+2025-11-10T16:31:39;Souris-07;3;enter
+2025-11-10T16:31:39;Souris-08;3;enter
+2025-11-10T16:31:39;Souris-02;1;leave
+2025-11-10T16:31:39;Souris-06;1;leave
+2025-11-10T16:31:41;Souris-01;7;enter
+2025-11-10T16:31:41;Souris-08;3;leave
+2025-11-10T16:31:41;Souris-08;7;enter
+2025-11-10T16:31:41;Souris-04;3;leave
+2025-11-10T16:31:41;Souris-07;3;leave
+2025-11-10T16:31:41;Souris-03;0;enter
+2025-11-10T16:31:41;Souris-01;7;leave
+2025-11-10T16:31:41;Souris-08;7;leave
+2025-11-10T16:31:42;Souris-02;1;enter
+2025-11-10T16:31:42;Souris-06;1;enter
+2025-11-10T16:31:42;Souris-03;0;leave
+2025-11-10T16:31:43;Souris-05;2;enter
+2025-11-10T16:31:43;Souris-02;1;leave
+2025-11-10T16:31:43;Souris-06;1;leave
+2025-11-10T16:31:43;Souris-04;3;enter
+2025-11-10T16:31:43;Souris-07;3;enter
+2025-11-10T16:31:43;Souris-05;2;leave
+2025-11-10T16:31:45;Souris-01;7;enter
+2025-11-10T16:31:45;Souris-02;7;enter
+2025-11-10T16:31:45;Souris-08;7;enter
+2025-11-10T16:31:45;Souris-04;3;leave
+2025-11-10T16:31:45;Souris-07;3;leave
+2025-11-10T16:31:46;Souris-06;1;enter
+2025-11-10T16:31:46;Souris-01;7;leave
+2025-11-10T16:31:46;Souris-02;7;leave
+2025-11-10T16:31:46;Souris-08;7;leave
+2025-11-10T16:31:46;Souris-05;2;enter
+2025-11-10T16:31:46;Souris-06;1;leave
+2025-11-10T16:31:47;Souris-04;3;enter
+2025-11-10T16:31:47;Souris-05;2;leave
+2025-11-10T16:31:48;Souris-03;6;enter
+2025-11-10T16:31:48;Souris-07;6;enter
+2025-11-10T16:31:48;Souris-04;3;leave
+2025-11-10T16:31:49;Souris-02;7;enter
+2025-11-10T16:31:49;Souris-08;7;enter
+2025-11-10T16:31:49;Souris-03;6;leave
+2025-11-10T16:31:49;Souris-07;6;leave
+2025-11-10T16:31:50;Souris-01;0;enter
+2025-11-10T16:31:50;Souris-02;7;leave
+2025-11-10T16:31:50;Souris-08;7;leave
+2025-11-10T16:31:50;Souris-05;2;enter
+2025-11-10T16:31:50;Souris-01;0;leave
+2025-11-10T16:31:51;Souris-04;3;enter
+2025-11-10T16:31:51;Souris-05;2;leave
+2025-11-10T16:31:52;Souris-06;4;enter
+2025-11-10T16:31:52;Souris-08;4;enter
+2025-11-10T16:31:52;Souris-04;3;leave
+2025-11-10T16:31:52;Souris-03;6;enter
+2025-11-10T16:31:52;Souris-04;6;enter
+2025-11-10T16:31:52;Souris-07;6;enter
+2025-11-10T16:31:52;Souris-06;4;leave
+2025-11-10T16:31:52;Souris-08;4;leave
+2025-11-10T16:31:53;Souris-02;7;enter
+2025-11-10T16:31:53;Souris-03;6;leave
+2025-11-10T16:31:53;Souris-04;6;leave
+2025-11-10T16:31:53;Souris-07;6;leave
+2025-11-10T16:31:54;Souris-01;0;enter
+2025-11-10T16:31:54;Souris-02;7;leave
+2025-11-10T16:31:55;Souris-05;4;enter
+2025-11-10T16:31:55;Souris-06;4;enter
+2025-11-10T16:31:55;Souris-08;4;enter
+2025-11-10T16:31:55;Souris-01;0;leave
+2025-11-10T16:31:55;Souris-03;6;enter
+2025-11-10T16:31:55;Souris-04;6;enter
+2025-11-10T16:31:55;Souris-07;6;enter
+2025-11-10T16:31:55;Souris-02;7;enter
+2025-11-10T16:31:55;Souris-01;0;enter
+2025-11-10T16:31:55;Souris-05;4;stay
+2025-11-10T16:31:55;Souris-06;4;stay
+2025-11-10T16:31:55;Souris-08;4;stay
+2025-11-10T16:31:56;Souris-03;6;stay
+2025-11-10T16:31:56;Souris-04;6;stay
+2025-11-10T16:31:56;Souris-07;6;leave
+2025-11-10T16:31:56;Souris-07;2;enter
+2025-11-10T16:31:56;Souris-02;7;stay
+2025-11-10T16:31:56;Souris-01;0;stay
+2025-11-10T16:31:56;Souris-07;2;stay
+2025-11-10T16:31:56;Souris-02;7;leave
+2025-11-10T16:31:57;Souris-02;7;enter
+2025-11-10T16:31:58;Souris-02;7;stay
+2025-11-10T16:32:00;Souris-02;7;leave
+2025-11-10T16:32:00;Souris-02;0;enter
+2025-11-10T16:32:00;Souris-03;6;leave
+2025-11-10T16:32:00;Souris-03;5;enter
+2025-11-10T16:32:00;Souris-02;0;stay
+2025-11-10T16:32:01;Souris-06;4;leave
+2025-11-10T16:32:01;Souris-06;3;enter
+2025-11-10T16:32:01;Souris-03;5;stay
+2025-11-10T16:32:01;Souris-06;3;stay
+2025-11-10T16:32:01;Souris-08;4;leave
+2025-11-10T16:32:01;Souris-08;0;enter
+2025-11-10T16:32:02;Souris-08;0;stay
+2025-11-10T16:32:04;Souris-01;0;leave
+2025-11-10T16:32:04;Souris-01;2;enter
+2025-11-10T16:32:05;Souris-04;6;leave
+2025-11-10T16:32:05;Souris-04;5;enter
+2025-11-10T16:32:05;Souris-01;2;stay
+2025-11-10T16:32:05;Souris-06;3;leave
+2025-11-10T16:32:05;Souris-04;5;stay
+2025-11-10T16:32:05;Souris-05;4;leave
+2025-11-10T16:32:05;Souris-05;5;enter
+2025-11-10T16:32:05;Souris-06;3;enter
+2025-11-10T16:32:06;Souris-06;3;stay
+2025-11-10T16:32:06;Souris-05;5;stay
+2025-11-10T16:32:08;Souris-07;2;leave
+2025-11-10T16:32:08;Souris-07;7;enter
+2025-11-10T16:32:09;Souris-07;7;stay
+2025-11-10T16:32:11;Souris-03;5;leave
+2025-11-10T16:32:11;Souris-03;2;enter
+2025-11-10T16:32:11;Souris-03;2;stay
+2025-11-10T16:32:11;Souris-06;3;leave
+2025-11-10T16:32:11;Souris-06;4;enter
+2025-11-10T16:32:12;Souris-06;4;stay
+2025-11-10T16:32:14;Souris-08;0;leave
+2025-11-10T16:32:14;Souris-08;5;enter
+2025-11-10T16:32:15;Souris-02;0;leave
+2025-11-10T16:32:15;Souris-02;1;enter
+2025-11-10T16:32:15;Souris-08;5;stay
+2025-11-10T16:32:15;Souris-01;2;leave
+2025-11-10T16:32:15;Souris-01;6;enter
+2025-11-10T16:32:15;Souris-02;1;stay
+2025-11-10T16:32:15;Souris-01;6;leave
+2025-11-10T16:32:16;Souris-01;6;enter
+2025-11-10T16:32:16;Souris-04;5;leave
+2025-11-10T16:32:16;Souris-04;0;enter
+2025-11-10T16:32:16;Souris-04;0;stay
+2025-11-10T16:32:16;Souris-01;6;stay
+2025-11-10T16:32:19;Souris-05;5;leave
+2025-11-10T16:32:19;Souris-05;2;enter
+2025-11-10T16:32:20;Souris-05;2;stay
+2025-11-10T16:32:23;Souris-06;4;leave
+2025-11-10T16:32:23;Souris-06;2;enter
+2025-11-10T16:32:23;Souris-07;7;leave
+2025-11-10T16:32:23;Souris-07;1;enter
+2025-11-10T16:32:23;Souris-06;2;stay
+2025-11-10T16:32:23;Souris-07;1;stay
+2025-11-10T16:32:25;Souris-03;2;leave
+2025-11-10T16:32:25;Souris-03;6;enter
+2025-11-10T16:32:26;Souris-03;6;stay
+2025-11-10T16:32:26;Souris-08;5;leave
+2025-11-10T16:32:26;Souris-08;4;enter
+2025-11-10T16:32:27;Souris-08;4;stay
+2025-11-10T16:32:28;Souris-01;6;leave
+2025-11-10T16:32:28;Souris-01;4;enter
+2025-11-10T16:32:29;Souris-02;1;leave
+2025-11-10T16:32:29;Souris-02;4;enter
+2025-11-10T16:32:29;Souris-04;0;leave
+2025-11-10T16:32:29;Souris-04;1;enter
+2025-11-10T16:32:29;Souris-01;4;stay
+2025-11-10T16:32:30;Souris-04;1;stay
+2025-11-10T16:32:30;Souris-02;4;stay
+2025-11-10T16:32:30;Souris-05;2;leave
+2025-11-10T16:32:30;Souris-05;6;enter
+2025-11-10T16:32:31;Souris-05;6;stay
+2025-11-10T16:32:33;Souris-06;2;leave
+2025-11-10T16:32:33;Souris-06;1;enter
+2025-11-10T16:32:34;Souris-06;1;stay
+2025-11-10T16:32:35;Souris-03;6;leave
+2025-11-10T16:32:35;Souris-03;7;enter
+2025-11-10T16:32:35;Souris-07;1;leave
+2025-11-10T16:32:36;Souris-07;5;enter
+2025-11-10T16:32:36;Souris-03;7;stay
+2025-11-10T16:32:36;Souris-08;4;leave
+2025-11-10T16:32:36;Souris-08;7;enter
+2025-11-10T16:32:36;Souris-07;5;stay
+2025-11-10T16:32:37;Souris-08;7;stay
+2025-11-10T16:32:37;Souris-07;5;leave
+2025-11-10T16:32:38;Souris-01;4;leave
+2025-11-10T16:32:38;Souris-01;5;enter
+2025-11-10T16:32:38;Souris-07;5;enter
+2025-11-10T16:32:39;Souris-01;5;stay
+2025-11-10T16:32:39;Souris-07;5;stay
+2025-11-10T16:32:42;Souris-02;4;leave
+2025-11-10T16:32:42;Souris-02;6;enter
+2025-11-10T16:32:43;Souris-02;6;stay
+2025-11-10T16:32:43;Souris-04;1;leave
+2025-11-10T16:32:43;Souris-04;3;enter
+2025-11-10T16:32:44;Souris-06;1;leave
+2025-11-10T16:32:44;Souris-06;5;enter
+2025-11-10T16:32:44;Souris-04;3;stay
+2025-11-10T16:32:44;Souris-06;5;stay
+2025-11-10T16:32:45;Souris-05;6;leave
+2025-11-10T16:32:45;Souris-05;1;enter
+2025-11-10T16:32:46;Souris-03;7;leave
+2025-11-10T16:32:46;Souris-03;2;enter
+2025-11-10T16:32:46;Souris-05;1;stay
+2025-11-10T16:32:46;Souris-07;5;leave
+2025-11-10T16:32:46;Souris-07;4;enter
+2025-11-10T16:32:46;Souris-07;4;stay
+2025-11-10T16:32:46;Souris-03;2;stay
+2025-11-10T16:32:48;Souris-08;7;leave
+2025-11-10T16:32:48;Souris-08;0;enter
+2025-11-10T16:32:48;Souris-08;0;stay
+2025-11-10T16:32:50;Souris-01;5;leave
+2025-11-10T16:32:50;Souris-06;5;leave
+2025-11-10T16:32:50;Souris-02;6;leave
+2025-11-10T16:32:50;Souris-08;0;leave
